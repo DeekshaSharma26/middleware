@@ -1,0 +1,446 @@
+[
+  {
+    "value": "Dowel",
+    "synonyms": [
+      "Dowel"
+    ]
+  },
+  {
+    "value": "Dowels",
+    "synonyms": [
+      "Dowels"
+    ]
+  },
+  {
+    "value": "Nut",
+    "synonyms": [
+      "Nut"
+    ]
+  },
+  {
+    "value": "Nuts",
+    "synonyms": [
+      "Nuts"
+    ]
+  },
+  {
+    "value": "Bolt",
+    "synonyms": [
+      "Bolt"
+    ]
+  },
+  {
+    "value": "Bolts",
+    "synonyms": [
+      "Bolts"
+    ]
+  },
+  {
+    "value": "Screw",
+    "synonyms": [
+      "Screw"
+    ]
+  },
+  {
+    "value": "Screws",
+    "synonyms": [
+      "Screws"
+    ]
+  },
+  {
+    "value": "Nail",
+    "synonyms": [
+      "Nail"
+    ]
+  },
+  {
+    "value": "Nails",
+    "synonyms": [
+      "Nails"
+    ]
+  },
+  {
+    "value": "Pin",
+    "synonyms": [
+      "Pin"
+    ]
+  },
+  {
+    "value": "Pins",
+    "synonyms": [
+      "Pins"
+    ]
+  },
+  {
+    "value": "Shelf support",
+    "synonyms": [
+      "Shelf support"
+    ]
+  },
+  {
+    "value": "Slider",
+    "synonyms": [
+      "Slider"
+    ]
+  },
+  {
+    "value": "Slide",
+    "synonyms": [
+      "Slide"
+    ]
+  },
+  {
+    "value": "Sliders",
+    "synonyms": [
+      "Sliders"
+    ]
+  },
+  {
+    "value": "Slides",
+    "synonyms": [
+      "Slides"
+    ]
+  },
+  {
+    "value": "Rail",
+    "synonyms": [
+      "Rail"
+    ]
+  },
+  {
+    "value": "Rails",
+    "synonyms": [
+      "Rails"
+    ]
+  },
+  {
+    "value": "Runner",
+    "synonyms": [
+      "Runner"
+    ]
+  },
+  {
+    "value": "Runners",
+    "synonyms": [
+      "Runners"
+    ]
+  },
+  {
+    "value": "Stopper",
+    "synonyms": [
+      "Stopper"
+    ]
+  },
+  {
+    "value": "Stoppers",
+    "synonyms": [
+      "Stoppers"
+    ]
+  },
+  {
+    "value": "Bumper",
+    "synonyms": [
+      "Bumper"
+    ]
+  },
+  {
+    "value": "Bumpers",
+    "synonyms": [
+      "Bumpers"
+    ]
+  },
+  {
+    "value": "Handle",
+    "synonyms": [
+      "Handle"
+    ]
+  },
+  {
+    "value": "Handles",
+    "synonyms": [
+      "Handles"
+    ]
+  },
+  {
+    "value": " Knob",
+    "synonyms": [
+      " Knob"
+    ]
+  },
+  {
+    "value": "Knobs",
+    "synonyms": [
+      "Knobs"
+    ]
+  },
+  {
+    "value": "Lock",
+    "synonyms": [
+      "Lock"
+    ]
+  },
+  {
+    "value": "Locks",
+    "synonyms": [
+      "Locks"
+    ]
+  },
+  {
+    "value": "Catch",
+    "synonyms": [
+      "Catch"
+    ]
+  },
+  {
+    "value": "Catches",
+    "synonyms": [
+      "Catches"
+    ]
+  },
+  {
+    "value": "Hinge",
+    "synonyms": [
+      "Hinge"
+    ]
+  },
+  {
+    "value": "Hinges",
+    "synonyms": [
+      "Hinges"
+    ]
+  },
+  {
+    "value": "Sleeve",
+    "synonyms": [
+      "Sleeve"
+    ]
+  },
+  {
+    "value": "Sleeves",
+    "synonyms": [
+      "Sleeves"
+    ]
+  },
+  {
+    "value": "Washer",
+    "synonyms": [
+      "Washer"
+    ]
+  },
+  {
+    "value": "Washers",
+    "synonyms": [
+      "Washers"
+    ]
+  },
+  {
+    "value": "Castor",
+    "synonyms": [
+      "Castor"
+    ]
+  },
+  {
+    "value": "Castors",
+    "synonyms": [
+      "Castors"
+    ]
+  },
+  {
+    "value": "Feet",
+    "synonyms": [
+      "Feet"
+    ]
+  },
+  {
+    "value": "Foot",
+    "synonyms": [
+      "Foot"
+    ]
+  },
+  {
+    "value": "Wheel",
+    "synonyms": [
+      "Wheel"
+    ]
+  },
+  {
+    "value": "Wheels",
+    "synonyms": [
+      "Wheels"
+    ]
+  },
+  {
+    "value": "Leg",
+    "synonyms": [
+      "Leg"
+    ]
+  },
+  {
+    "value": "Legs",
+    "synonyms": [
+      "Legs"
+    ]
+  },
+  {
+    "value": "Spring",
+    "synonyms": [
+      "Spring"
+    ]
+  },
+  {
+    "value": "Springs",
+    "synonyms": [
+      "Springs"
+    ]
+  },
+  {
+    "value": "Roller",
+    "synonyms": [
+      "Roller"
+    ]
+  },
+  {
+    "value": "Rollers",
+    "synonyms": [
+      "Rollers"
+    ]
+  },
+  {
+    "value": "Wall mount",
+    "synonyms": [
+      "Wall mount"
+    ]
+  },
+  {
+    "value": "Wall support",
+    "synonyms": [
+      "Wall support"
+    ]
+  },
+  {
+    "value": "Allen key",
+    "synonyms": [
+      "Allen key"
+    ]
+  },
+  {
+    "value": "Locking key",
+    "synonyms": [
+      "Locking key"
+    ]
+  },
+  {
+    "value": "Locking nut",
+    "synonyms": [
+      "Locking nut"
+    ]
+  },
+  {
+    "value": "Key",
+    "synonyms": [
+      "Key"
+    ]
+  },
+  {
+    "value": "Keys",
+    "synonyms": [
+      "Keys"
+    ]
+  },
+  {
+    "value": "Strap",
+    "synonyms": [
+      "Strap"
+    ]
+  },
+  {
+    "value": "Straps",
+    "synonyms": [
+      "Straps"
+    ]
+  },
+  {
+    "value": "Bracket",
+    "synonyms": [
+      "Bracket"
+    ]
+  },
+  {
+    "value": "Brackets",
+    "synonyms": [
+      "Brackets"
+    ]
+  },
+  {
+    "value": "Connector",
+    "synonyms": [
+      "Connector"
+    ]
+  },
+  {
+    "value": "Connectors",
+    "synonyms": [
+      "Connectors"
+    ]
+  },
+  {
+    "value": "Cover cap",
+    "synonyms": [
+      "Cover cap"
+    ]
+  },
+  {
+    "value": "Cover caps",
+    "synonyms": [
+      "Cover caps"
+    ]
+  },
+  {
+    "value": "Plug",
+    "synonyms": [
+      "Plug"
+    ]
+  },
+  {
+    "value": "Plugs",
+    "synonyms": [
+      "Plugs"
+    ]
+  },
+  {
+    "value": "Hook",
+    "synonyms": [
+      "Hook"
+    ]
+  },
+  {
+    "value": "Hooks",
+    "synonyms": [
+      "Hooks"
+    ]
+  },
+  {
+    "value": "Clip",
+    "synonyms": [
+      "Clip"
+    ]
+  },
+  {
+    "value": "Clips",
+    "synonyms": [
+      "Clips"
+    ]
+  },
+  {
+    "value": "parts",
+    "synonyms": [
+      "parts"
+    ]
+  },
+  {
+    "value": "part",
+    "synonyms": [
+      "part"
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "5ac96e0b-5a23-4169-88b5-075fade9cb72",
+  "name": "ikea_applianceItem",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

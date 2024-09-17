@@ -1,0 +1,4095 @@
+[
+  {
+    "id": "110298c3-1d8c-4665-b13f-0f03cdca6a24",
+    "data": [
+      {
+        "text": "book a delivery spot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d8baa1e7-453e-4798-93ad-ec592c7e2556",
+    "data": [
+      {
+        "text": "  i book delivery for sunday from 3 - 7 and i have from delivery company the come today   why no one at home that time today",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ae9a703-6507-4e8d-b451-84afb7f077aa",
+    "data": [
+      {
+        "text": "can we add the option of take the old matrix at the same time of delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c1579fd-85a8-48c1-b428-88e7e7270bc4",
+    "data": [
+      {
+        "text": "can you change my delivery slot please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a5eece19-7a7c-4fec-a7ff-0c0b4414a7fd",
+    "data": [
+      {
+        "text": "can i change the delivery time of my truck delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e955c7e9-7c52-40a3-87d3-8014b5faa89c",
+    "data": [
+      {
+        "text": "can i change the timing for my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67034536-784c-4313-be88-5a108ff4343a",
+    "data": [
+      {
+        "text": "can i choose a delivery slot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7152affe-21ab-4a51-b500-b2a387ca71eb",
+    "data": [
+      {
+        "text": "can you deliver after midday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c8773bc-35ba-4acc-8c2a-7bb39f71972f",
+    "data": [
+      {
+        "text": "can i request a specific delivery slot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "102a39d6-39a8-4fe7-bde8-feae732bd452",
+    "data": [
+      {
+        "text": "i would like to change the delivery time as it be set on sunday but our office be close on weekend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "03eff6d2-b2c7-40fd-bf4a-d6f5ed7c7143",
+    "data": [
+      {
+        "text": "change order delivery slot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6916761a-f560-413f-915a-b6b539d857ec",
+    "data": [
+      {
+        "text": "change my time slot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "504fef74-91d1-4a98-ac2a-b1f514f2c8e4",
+    "data": [
+      {
+        "text": "  i would like to change the time slot for my ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " delivery please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d2a636a-bbc4-4455-89c2-ec935e5e133e",
+    "data": [
+      {
+        "text": "i change my delivery time but have just have an email confirm delivery for the wrong date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "89960f1c-aab2-4dc6-b28a-dd86188c3a92",
+    "data": [
+      {
+        "text": "  do you deliver to se10 on a sunday if not can i specify after 7 p.m. as the road be no parking zone between 7 a.m. and 7 p.m.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "993f4b0a-be78-4387-b036-cdc6bb59106f",
+    "data": [
+      {
+        "text": "  i have a delivery book in for tomorrow morning but ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " into labour now and most probably will not be at home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d75e101-9d87-4a8c-b1e2-28a4b2a4506e",
+    "data": [
+      {
+        "text": "my delivery come earlier than the agree delivery slot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f96fce9-6713-4407-8f05-70cc83d54c1a",
+    "data": [
+      {
+        "text": "have a delivery come between 7 a.m. and 11 a.m. but i will not be home until 9 a.m.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed39d331-15f8-48e3-b898-c98112af951d",
+    "data": [
+      {
+        "text": "i have a delivery come and i want to change the time to the morning slot   be ts possible",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26162c38-da03-4622-85e0-3d3c33bc3f66",
+    "data": [
+      {
+        "text": "  i have a delivery due to arrive tomorrow morning ",
+        "userDefined": false
+      },
+      {
+        "text": "postcode",
+        "meta": "@postcode",
+        "alias": "postcode",
+        "userDefined": true
+      },
+      {
+        "text": " but wonder if i can change it to 05 / 07 / 2018 after 2 p.m.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "557a0c03-1b14-4e38-854d-1f139d2a01ee",
+    "data": [
+      {
+        "text": "my delivery be due today and i realize the time be wrong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "123071cd-aebf-4bd4-bff6-35ac4127097f",
+    "data": [
+      {
+        "text": "there   i have a delivery time slot i need to change   be it possible to do ts ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " with you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "389eed3c-2f01-40fb-993c-cbf46eeff0de",
+    "data": [
+      {
+        "text": "my delivery time have be state as between 11 - 3 i need to change this",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db63241a-3ace-4060-a4ec-6d07cd742d37",
+    "data": [
+      {
+        "text": "  a delivery have just try to be make order number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " the order be mean to take place between 10am - 2pm but they try to deliver at 8 , 30am and i be not at the property",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1ba41465-bce1-4bb1-be4c-e0abfb9277fb",
+    "data": [
+      {
+        "text": "my delivery have the wrong time on it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa75616f-fc4a-499b-aaa2-2a7e7cfcf0b9",
+    "data": [
+      {
+        "text": "there i would like to find out whether i can reschedule the time of my delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbf14e6b-c918-4438-bcb5-2a4d38963dd0",
+    "data": [
+      {
+        "text": "how can i change my delivery time slot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4cc43f31-a110-4898-a99c-e12f528ee6cd",
+    "data": [
+      {
+        "text": "how can i change an order time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae33605b-a19f-40ec-963a-639d9873b5ca",
+    "data": [
+      {
+        "text": "i be just look to reschedule my delivery but every time i try call it say it be unavailabke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f81a58db-a229-4835-9fcb-64c49eaee6e7",
+    "data": [
+      {
+        "text": "i need to change delivery time today",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ecc65d26-8d00-4ab0-bbe6-525765273342",
+    "data": [
+      {
+        "text": "i need to change my pickup time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57acb132-4b7d-4fd8-b2bc-42476ebdf6b6",
+    "data": [
+      {
+        "text": "i need a new delivery slot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "92958801-4ad2-411a-a787-31b7add82ab7",
+    "data": [
+      {
+        "text": "i need to rearrange my delivery slot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b1cc6130-d13f-4325-863b-1fccbef5bf11",
+    "data": [
+      {
+        "text": "i need to know when i will be contact to finalize my delivery date and time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a5a4094-118a-4142-8704-23c23427ce5a",
+    "data": [
+      {
+        "text": "i do not know why the delivery time be change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e56dfc5-386a-44a8-97fc-e7d06c01c9d0",
+    "data": [
+      {
+        "text": "my order number be ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " and i would like to change the time of the delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d1fa68f5-6b6e-4226-8838-4c7bec8da9bc",
+    "data": [
+      {
+        "text": "order number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " be it possible for me to add something to this order for delivery at the same time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dbf68b12-a3c3-4bbc-b505-a1badd74b8c9",
+    "data": [
+      {
+        "text": "i have order a ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " that be be deliver tuesday at 11 a.m. can i change the time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b88c1a6-deab-447f-9336-a0981ba66862",
+    "data": [
+      {
+        "text": "i place an order at the ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " branch last sunday 1st july for delivery on saturday 7th july between 13 : 00 - 17 : 00 i would like to change the delivery time how do i ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " about this",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "957c2059-81ac-422c-9a14-d68804828ccf",
+    "data": [
+      {
+        "text": "  could i please change my delivery date and time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3fadf1d5-3153-4a92-bfa5-0607c234095e",
+    "data": [
+      {
+        "text": "  would it be possible to change my delivery time or day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "abf010da-4865-4ea2-869f-d2e3d2716fe0",
+    "data": [
+      {
+        "text": "there i want to change the delivery time of my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5e9891f-0ea9-4e1b-bcc8-9a0899a36fec",
+    "data": [
+      {
+        "text": "i want to change my delivery time for tomorrow",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc7360ac-4444-4743-971b-c108430d9a1d",
+    "data": [
+      {
+        "text": "  just wonder if i can change a delivery time / day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bfa48b98-f66d-4991-80d0-ea85bb5bdc30",
+    "data": [
+      {
+        "text": "i do not know why the delivery time have change .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a2b172ea-eec0-4f50-a60d-2963b18dc905",
+    "data": [
+      {
+        "text": "change command transfer destination",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d7754041-48af-4056-bac7-1f071d764499",
+    "data": [
+      {
+        "text": "our delivery will take from 7 : 00 to 11 : 00 , but will not ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " back to 9 a.m.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45091f8a-ab24-4d03-89c1-7b93e931e73b",
+    "data": [
+      {
+        "text": "our transfer method start from 7 : 00 be to 11 : 00 be , but will not return again at 9.00 be .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "29cc1cc1-fd8f-4637-a6e7-11dc0fde6621",
+    "data": [
+      {
+        "text": "why change the date of my delivery that day because they have choose and pay time and a special date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5872172c-627f-48c2-bfe4-bead1a34356a",
+    "data": [
+      {
+        "text": "i will take breakfast",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0d10775-fe7b-47d3-94a0-0f1e32833a3f",
+    "data": [
+      {
+        "text": "i want to change my time there .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57e1204d-95ee-4686-8dc5-2509d95cd0c4",
+    "data": [
+      {
+        "text": "i order the delivery time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cebabc22-d156-4408-9bfc-6b3336e73fc9",
+    "data": [
+      {
+        "text": "with the order number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " it be possible to add something to this order for delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2071c1e8-5b5d-457a-ac2c-df8336494309",
+    "data": [
+      {
+        "text": "i be make an appointment tomorrow morning , but i be plan to work now and probably will not be at home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9fb0ceab-4bfc-4c7d-8762-f734fe11a762",
+    "data": [
+      {
+        "text": "our transfer method will start from 7 : 00 be to 11 : 00 , but will not be back at 9.00am .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fc581e1b-eb63-43c6-9f50-40b94f6da28e",
+    "data": [
+      {
+        "text": "the transfer of the instruction to use the number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " apply to the law be order from midnight to 20 or 20 minute , but they try to cancel the building at 8 : 30 pm .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3291f8e9-05b9-4d74-9cce-5cb88a574585",
+    "data": [
+      {
+        "text": "i change my delivery time , but an email confirm delivery for the wrong date come",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56a09bc5-ae68-4b17-8a9d-23fa12402868",
+    "data": [
+      {
+        "text": "can i request a specific delivery slot ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0efb4f3-eb28-4285-8269-652d8a1f1241",
+    "data": [
+      {
+        "text": "my connection to this day be destine to end .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e3d2012-733f-47a5-b028-0f9c549a6f02",
+    "data": [
+      {
+        "text": "here , i would like to know if i can postpone the delivery time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00750826-5978-499a-8b89-d1ba1cfd0229",
+    "data": [
+      {
+        "text": "can not change the time of my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02e4e727-c756-4489-aeef-8fd03f61dedd",
+    "data": [
+      {
+        "text": "i order the branch ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " sunday 1 july make 7 july 7 july between 13 : 00 - 17 : 00 .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be37eda0-ba98-49a8-8615-63f9b7fa3ec8",
+    "data": [
+      {
+        "text": "i can change the time when i order the ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " at 11 o\u0026#39;",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "616abeea-0388-4644-8e91-3b15de49512b",
+    "data": [
+      {
+        "text": "i want to change the time .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71ec8422-efb7-4be9-bb85-be472e9fab87",
+    "data": [
+      {
+        "text": "there i want to change the delivery time of my order .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65ea92b1-af4b-42eb-a47d-da39a2b20599",
+    "data": [
+      {
+        "text": "i want to change the time zone of ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " distribution",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b96a47f9-e9dd-4a04-af7f-7bebb74c446a",
+    "data": [
+      {
+        "text": "i need a new distribution point",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2d57866-6b18-48c3-a833-8c1be0e73460",
+    "data": [
+      {
+        "text": "may be late in the morning .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2788613-8ac0-46c3-b5b0-0ab31a2ee5ae",
+    "data": [
+      {
+        "text": "morning may be delay .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8555282a-4efa-488c-9f0c-9bfeb924ddda",
+    "data": [
+      {
+        "text": "be i a special place to see ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec2da3c2-333f-4fcf-8bee-b38d714a5485",
+    "data": [
+      {
+        "text": "i have reset the delivery time , but an e - mail with the confirmation of the wrong delivery date have arrive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9de7879f-3a48-40a9-9f95-9310da4f3ecd",
+    "data": [
+      {
+        "text": "can be late in the morning .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b8ea004-0832-43de-8cf9-b807a55f44fb",
+    "data": [
+      {
+        "text": "i just think i could change the server / date time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5dd3c07b-9d57-4019-88e3-cc2f1d68e916",
+    "data": [
+      {
+        "text": "can be deliver after morning .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "60a8481f-4e78-4acd-96f2-5a2fc682c331",
+    "data": [
+      {
+        "text": "i be in the ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " branch on sunday july 1 from 13 : 00 to 17 : 00 sunday .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b846d6f3-89e8-4aff-b1f7-3fd2b54655ad",
+    "data": [
+      {
+        "text": "i be at the seat of ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " on sunday , july 1 from 1 : 00 pm to 5 : 00 pm .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f518167-6157-4ff3-a1f5-021b1c5c83a5",
+    "data": [
+      {
+        "text": "my order be ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " and i would like to change the transfer time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "92c86427-161b-408f-be0d-3ada27fffbaf",
+    "data": [
+      {
+        "text": "how do i change the ordering time ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a145e1e-30ca-4f9c-be98-672f40d24412",
+    "data": [
+      {
+        "text": "i have reset the delivery time , but an email with confirmation of incorrect delivery have arrive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "283e0817-781f-45fb-bce3-4a9cf97907b5",
+    "data": [
+      {
+        "text": "reserve a place of delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2dd24110-e273-4e89-9c05-dce25c9475df",
+    "data": [
+      {
+        "text": "here i would like to know if the transfer time can be delay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a773624-8daa-4bbf-a1e2-d242aff10644",
+    "data": [
+      {
+        "text": "i order the ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " branch sunday july 1 to be hold july 7th july 7th between 13 : 00 - 17 : 00 .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "671f1477-31b6-4274-b756-97b9380de1d1",
+    "data": [
+      {
+        "text": "i can change the time for my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e195f14-59bb-4cad-8224-3480c55a35fe",
+    "data": [
+      {
+        "text": "i\u0026#39;ll make an appointment tomorrow morning , but i\u0026#39;m planning to work now and probably will not be home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0521a9e0-3f96-4496-8297-80e0b149c2b3",
+    "data": [
+      {
+        "text": "the transfer of the instruction to use the number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " apply to the law be order from midnight to 20 or 20 minute , but they try to cancel the building at 20 : 30 .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "20f0281a-e35e-4dc1-87b7-bc6099109ca8",
+    "data": [
+      {
+        "text": "i have the transfer time inbiddel , as plan for sunday , but our office be close on the weekend .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7fa91ed9-a1c7-40ba-b149-138eef0cdd19",
+    "data": [
+      {
+        "text": "i want to change the time slot for my ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad55b3e1-7b4d-4c5c-896a-6404a6ca0b91",
+    "data": [
+      {
+        "text": "how do i change my time ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d519301-e810-4927-a3e6-f2310f088d68",
+    "data": [
+      {
+        "text": "change the command transfer location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f58a4852-7dd0-4be4-9e04-d580fb101d44",
+    "data": [
+      {
+        "text": "can i change the delivery time of my truck ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b93c251-c8ed-48bb-8951-8dcc13f26c17",
+    "data": [
+      {
+        "text": "it be necessary to change the pickup time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02830ff7-52f6-47e4-8004-3a0a8402ae94",
+    "data": [
+      {
+        "text": "how do you change the time ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64f8c45b-8e1d-4dee-8b5d-598d78798dae",
+    "data": [
+      {
+        "text": "the wrong time in my delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a58e306f-7727-442d-bf75-c1a3cade72aa",
+    "data": [
+      {
+        "text": "when i contact niffinalizza with the date and time of my delivery , i have to know",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e2ef75e-c6e9-4e35-8245-7dba7d9a4c98",
+    "data": [
+      {
+        "text": "i arrange early appointment in the morning , but now i plan to work , maybe not at home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26736220-a830-4ce8-b1e0-ba1de8259c77",
+    "data": [
+      {
+        "text": "change my time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18e177a0-3412-49d6-8e25-59c08c3d2c64",
+    "data": [
+      {
+        "text": "how do i change my delivery time slot ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e07870f-0c98-466d-add1-12b23c14be81",
+    "data": [
+      {
+        "text": "order delivery site",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56183087-9ab1-4bb7-bbcf-8faf654fe59b",
+    "data": [
+      {
+        "text": "late in the morning can be .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0fc87539-e44f-4f86-845b-ab509bed61c2",
+    "data": [
+      {
+        "text": "wrong time in my delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d7d8348a-edeb-4e76-b54d-136c9047780c",
+    "data": [
+      {
+        "text": "since the road be not a prohibit parking area between 7 am and 7 pm , if you can not specify after 7 pm , will you deliver at 10 on sunday ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b32a0fa1-44c5-405a-ba6f-46082cf7434e",
+    "data": [
+      {
+        "text": "can i request a specific place to view ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fabea92e-510d-4697-9c00-5b7cf4de1540",
+    "data": [
+      {
+        "text": "can you change the transfer date ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d7d8f5c-58af-44f4-a051-43e6d073aee7",
+    "data": [
+      {
+        "text": "i want to change the ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " distribution time zone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "96abf4cf-fd7b-466f-a679-ec725a26dfcf",
+    "data": [
+      {
+        "text": "the transfer of the instruction to use the number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " apply to the law be order from midnight to 20 or 20 minute , but they try to cancel at 8 : 30 pm of the property .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d330e3cf-66e3-49ec-9aa4-5f7ef3f61376",
+    "data": [
+      {
+        "text": "change my time time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17598cb4-3a04-49a2-9575-d43b8c286f34",
+    "data": [
+      {
+        "text": "our delivery will take from 7 : 00 be to 11 : 00 be , but i will not be home until 9 be",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aec3319b-4762-4078-a716-9b16c6a8026f",
+    "data": [
+      {
+        "text": "can i change my transfer time or day ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67e17a79-cedc-4762-80f9-f76f53a58c91",
+    "data": [
+      {
+        "text": "i can choose the option to transfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27c01990-1325-4f84-a6ee-05f1f7a81d6f",
+    "data": [
+      {
+        "text": "delivery time have change between 11 - 3 and need to change this",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bab7ff77-5234-4418-8e84-53db6108895c",
+    "data": [
+      {
+        "text": "i\u0026#39;ll probably have breakfast",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8fcd65b4-1b5f-4f19-96f3-f3c3b4685bdb",
+    "data": [
+      {
+        "text": "my delivery have the wrong time on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9625bbc3-6b6e-4287-bc5f-e22a51c76e38",
+    "data": [
+      {
+        "text": "there be a transfer time , i can make you ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbeaa915-40c1-4663-bcde-b58e682342e1",
+    "data": [
+      {
+        "text": "change the destination transfer destination",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81dbfda4-304c-4351-b67b-d4f8bfab880f",
+    "data": [
+      {
+        "text": "how do i change the timing of my time ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d1f4972f-c5e2-46f6-b225-b4bc61f39db3",
+    "data": [
+      {
+        "text": "i have reset the delivery time , but an email confirm the incorrect delivery date have arrive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb6bf13a-1ddf-44c8-940e-8af7fba72bb7",
+    "data": [
+      {
+        "text": "delivery time be 11 to 3 time and it need to be change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "90a51f32-c5b8-40c0-a190-0bb175b28518",
+    "data": [
+      {
+        "text": "i rearrange the time of my delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "33d0d63c-1bd7-4bb9-8cc1-4ee8521b226d",
+    "data": [
+      {
+        "text": "here , i would like to know if the delivery time can be postpone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fbbc6771-e61a-469e-8988-3d252ef3dfe3",
+    "data": [
+      {
+        "text": "i can choose the transfer option",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f94e505-31ea-4580-8e1c-10e5fb629593",
+    "data": [
+      {
+        "text": "can you please change my delivery moment ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb75dae0-f103-43c3-83b4-bedfb9faa350",
+    "data": [
+      {
+        "text": "i can change the time i order ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " at 11 o\u0026#39;",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a67c1d7a-7505-4839-812c-7ce76b7a0911",
+    "data": [
+      {
+        "text": "there , i want to change my transfer time .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e7c3d85-aa30-49d0-93c0-2b574b1df734",
+    "data": [
+      {
+        "text": "the transfer have be order to apply the ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " number apply to the law from midnight to 20 or 20 minute , but they have try to give up at 8 : 30 pm absent from the property .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b9efed8-5a28-4d73-8fa9-5ab3edbdea95",
+    "data": [
+      {
+        "text": "can i change the time or day of the transfer ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ba11091-aa8f-4f98-8733-5137f2326fc4",
+    "data": [
+      {
+        "text": "i have a delivery and i want to change the morning time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36b65cea-0657-4312-9794-a1dc17396749",
+    "data": [
+      {
+        "text": "i have a time of transfer that i need to make to make it possible for you to ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6782d2f9-7448-43d6-b179-fa750963d63e",
+    "data": [
+      {
+        "text": "i have to rearrange my delivery moment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2aee962-2bb8-4d3b-a220-c1b745feaf1a",
+    "data": [
+      {
+        "text": "i have a connection that must be up to 14 minute in the morning , but i wonder if i could change it after 14 / 07 on 05 / 07 / 2018",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2dd1173b-ad54-46a8-8afe-6193ebba9e20",
+    "data": [
+      {
+        "text": "our delivery be come between 7 : 00 and 11 : 00 but i will not be home until 9 a.m.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a62cc248-e267-46ba-8947-081be37128aa",
+    "data": [
+      {
+        "text": "wrong time in distribution",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23632cc8-798c-4d10-9d2d-ad83290becfd",
+    "data": [
+      {
+        "text": "i\u0026#39;m likely to have breakfast time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e8f81e1-8100-4da1-81c4-51ea7e340e16",
+    "data": [
+      {
+        "text": "i prepare the order of delivery time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5953aac8-3fcb-40c0-b8c3-ce8ee9b134d8",
+    "data": [
+      {
+        "text": "can i change my delivery time or day ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9862de9-b377-474b-a7f5-54186554d900",
+    "data": [
+      {
+        "text": "my welcome be accept prior to transfer .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dd80859d-c6a9-4dff-999c-969f4e545c96",
+    "data": [
+      {
+        "text": "i have time to transfer to inbiddel as schedule on sunday , but our office be close on weekend .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e55de9a2-834c-48ca-ae99-6ed24174611c",
+    "data": [
+      {
+        "text": "change destination destination",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0c61baa-a672-4bbd-9836-ad9a4baf6b8e",
+    "data": [
+      {
+        "text": "my delivery have the wrong time at",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6169ab51-51b9-4a39-aa56-7e7698b93ce2",
+    "data": [
+      {
+        "text": "delivery of the old matrix can be do simultaneously",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2bb39387-04c2-456b-be04-eab195a79a73",
+    "data": [
+      {
+        "text": "unable to change the time for my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66f53d5a-ed13-48e9-a7b1-0e0fe60dfeca",
+    "data": [
+      {
+        "text": "i inbiddel the time of transfer , as schedule for sunday , but our office be close on weekend .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7fab6bf9-fad5-4180-9540-d5ed8c17bc64",
+    "data": [
+      {
+        "text": "the transmission of instruction for use of the number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " , which be apply to the law , be schedule from midnight to 20 or 20 minute , but they try to cancel the building at 20 : 30 .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bef03bec-1118-437f-803f-3d7f7a1cb661",
+    "data": [
+      {
+        "text": "as the road be not a parking space ban from 7 am to 7 pm , if you can not register after 19 : 00 , will you distribute it at 10 am on sunday ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7352d9b5-72c8-4e36-ad1f-bd1f88ae1dc3",
+    "data": [
+      {
+        "text": "i have to change the delivery time of the day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f2053811-7ee3-4d6f-905d-98bbd05a4022",
+    "data": [
+      {
+        "text": "it be possible to add simultaneous acceptance of delivery of old matrix",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "33f78477-435c-42bd-87e2-586a55ce29ed",
+    "data": [
+      {
+        "text": "i need a new point of distribution",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1dd9e1b4-d25d-44b6-9a3e-684b5ac07dac",
+    "data": [
+      {
+        "text": "i have a distribution and i change the morning time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2cca2fa5-eeaf-4e4d-b693-49a5edfff5b1",
+    "data": [
+      {
+        "text": "i can choose a delivery slot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9aa697c-b0ea-4e6c-8a3d-6c530239f877",
+    "data": [
+      {
+        "text": "when contact niffinalizza on the date and time of delivery , we need to know .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1d2d8c6-e61e-4499-81a4-1e7310cb5c2b",
+    "data": [
+      {
+        "text": "migration time , i can make you ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c340d0da-68e7-4b30-8e42-85d011d7c829",
+    "data": [
+      {
+        "text": "my connection to this day be bind to end .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "873da71f-641b-43a6-9787-fc8d98d40aef",
+    "data": [
+      {
+        "text": "i have a reservation tomorrow morning but i\u0026#39;m ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " to work now and probably will not be home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aaa72d1d-7de4-4c5a-99d3-179e73d38c50",
+    "data": [
+      {
+        "text": "delivery of old matrix can be perform simultaneously",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a78b379f-d664-4870-9032-4e47dc7c4be8",
+    "data": [
+      {
+        "text": "i can change the time i order at 11 o\u0026#39;",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "944f65c0-9700-400f-afd5-679cd2fd5f28",
+    "data": [
+      {
+        "text": "i just think that i can change the server / date time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "89f5306d-3e24-43c9-a4f8-d5df74166cc3",
+    "data": [
+      {
+        "text": "can you change the delivery date ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "290525b5-0347-4262-a28e-476fbca8f6f4",
+    "data": [
+      {
+        "text": "our delivery will be from 7 : 00 to 11 : 00 , but will not return at 9.00 in the morning .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c8f27ff-673e-48a4-b992-259f25393c08",
+    "data": [
+      {
+        "text": "it can be deliver after the morning .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d614c49d-25dc-4665-9189-5e9ed8f563b3",
+    "data": [
+      {
+        "text": "i think i change the server / date / time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d537cf7c-3be4-4a6d-9f5f-f047ca677d3a",
+    "data": [
+      {
+        "text": "my arrival come before the delivery date be accept",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9b5daa1-5bcc-4762-81da-9f4adce3a26d",
+    "data": [
+      {
+        "text": "i have to change the delivery time of today",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e9d92e5-fefb-4b20-9c95-a03fb5fe1f12",
+    "data": [
+      {
+        "text": "i have a connection that should be up to 14 minute in the morning , but i be surprised that i can change it on 05 / 14 / 2015 after 5 / 07 / 2015",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "031b21ef-4d01-42c0-9415-7c4a59660be7",
+    "data": [
+      {
+        "text": "my receipt be accept before the transfer date .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b97bea6-7220-4be5-b2a4-3463fac6ba33",
+    "data": [
+      {
+        "text": "i have the distribution and i want to change the morning time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ab69811-ae29-4190-8f54-730e50d7be88",
+    "data": [
+      {
+        "text": "this transfer have be attempt to make the ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " number of order applicable to the law between midnight until 20 or 20 minute but they have try to deliver at 8 : 30 while absent from the property .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa31b478-e40e-4b1d-9445-de630b39657f",
+    "data": [
+      {
+        "text": "my order be ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " and i would like to change the time of transfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "93e64aa8-67f0-49e3-b269-c7b9afb5ea22",
+    "data": [
+      {
+        "text": "may i change my transfer time ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8051f9b-07e4-40ec-ab85-33e415a49595",
+    "data": [
+      {
+        "text": "when you communicate with the neffinalizza on the date and time of delivery , we must know .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "93121a9c-bd15-47e4-8f85-c711fe587e48",
+    "data": [
+      {
+        "text": "how do i change the timeline ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85eb02e2-89a1-4df4-b7d2-e57358dc2eff",
+    "data": [
+      {
+        "text": "i be in the ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " branch on sunday july 1 from 13 : 00 be to 17 : 00 .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d6fa0c2-d9c7-40a1-b617-9e209f993a68",
+    "data": [
+      {
+        "text": "why they choose the special date and make the payment .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e44be7f-946d-4cfd-b624-b01ce9af6dbe",
+    "data": [
+      {
+        "text": "how can i change the order time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6934b932-8f87-4ddb-b4e5-9ba4f7bd3feb",
+    "data": [
+      {
+        "text": "delivery of the old matrix can be make simultaneously",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04baa4f7-895d-4ce8-a5b1-f8c551c27d53",
+    "data": [
+      {
+        "text": "delivery time have change from 11 to 3 time and need to be change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38cfa482-f505-42e2-bf98-82b6f5dcec07",
+    "data": [
+      {
+        "text": "i would like to change the delivery time , since it be schedule for sunday , but our office be close on weekend .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10cfd3d7-399a-4706-bc1f-f12872e768f8",
+    "data": [
+      {
+        "text": "can i change my conversion time or day ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8daea091-4f38-4382-b126-803753788f43",
+    "data": [
+      {
+        "text": "delivery of old matrix can be take simultaneously",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cdcc81a7-6b66-44b2-a14a-0a51e8d9662b",
+    "data": [
+      {
+        "text": "i have a transfer time to inbiddel as schedule on sunday , but our office be close on the weekend .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a82c1b17-4410-4b46-b0d1-bc8c3f4fc677",
+    "data": [
+      {
+        "text": "our delivery will take from 7 : 00 to 11 : 00 , but will not return at 9 am",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f5fa83f-f8ea-4fff-8f1f-a7e06a018d33",
+    "data": [
+      {
+        "text": "my delivery be relate to today and be over .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e6bc51d-4dbc-4e6e-8e68-45266562c78d",
+    "data": [
+      {
+        "text": "i want to change the time distribution area ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e3058367-6924-419b-b016-1f476090c35b",
+    "data": [
+      {
+        "text": "my order number be ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " and i would like to change the delivery time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eee35d77-af72-4061-a4d9-c6c812fe3eed",
+    "data": [
+      {
+        "text": "i have to change the delivery time today",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf6a177e-7723-4170-ac7d-0a461668abd8",
+    "data": [
+      {
+        "text": "change the command transfer slot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dacd736e-5d87-4945-b90d-560b8cd2f658",
+    "data": [
+      {
+        "text": "i be at ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " branch from 1 pm to 5 pm on sunday july 1 .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42dfadd0-2387-41f4-8c0a-ad2a4a606ccd",
+    "data": [
+      {
+        "text": "i can choose the delivery option",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "03a116f0-4eda-4d82-a9d9-fe8817ce876c",
+    "data": [
+      {
+        "text": "why they choose the special date and make payment .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "210f6757-69a0-43f8-8079-3eadb5c536e6",
+    "data": [
+      {
+        "text": "welcome , before the reception .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd47243e-1a49-43c9-8ec5-2e802e221756",
+    "data": [
+      {
+        "text": "my arrival arrive before the delivery date accept .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f694d4c4-9aae-4b45-843b-baea33805514",
+    "data": [
+      {
+        "text": "why be the date of my delivery change on that day because they choose and pay for the time and a special date ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11dbadc0-7e76-4406-b5ac-2a482404cf8f",
+    "data": [
+      {
+        "text": "i inbiddel time of my delivery tomorrow",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "83638f4b-457b-4d8d-832a-60e5ba7a6bb3",
+    "data": [
+      {
+        "text": "can i ask a specific location to see ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a9635cf-75f4-487c-93d2-879d6c279ef7",
+    "data": [
+      {
+        "text": "the order number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " at the same time it be possible to add something to this order for delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a906103-d5e7-4c65-ae95-551d39231379",
+    "data": [
+      {
+        "text": "here , i would like to know if the transfer time may be delay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c3b3af73-ed6a-42fa-a34e-1c60f4f678fe",
+    "data": [
+      {
+        "text": "i need a new distribution site",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23c46678-4cf6-435d-be36-0849250da47e",
+    "data": [
+      {
+        "text": "i have reset the delivery time , but an e - mail confirm the wrong delivery date have arrive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "caf5ca97-2912-4f11-b010-e0e0fcefce3b",
+    "data": [
+      {
+        "text": "i can set me at 11 o\u0026#39;",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5f0a8ae-9f81-4f0d-bac3-0e0bd97a8623",
+    "data": [
+      {
+        "text": "the delivery of the book for the sunday of 3 - 7 and i\u0026#39;m from the delivery company come today if no one at home what time today",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87e112be-4216-495b-9091-31ceff93f243",
+    "data": [
+      {
+        "text": "can i change the time of delivery of my truck",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e3e21ab-e0df-49be-a92c-7b271ae9a676",
+    "data": [
+      {
+        "text": "order number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " be possible to add something to this order for delivery at the same time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8130479d-b879-4a1f-a27a-39451a4bf6ae",
+    "data": [
+      {
+        "text": "can i request a specific location for view ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f2aab5db-efee-4aa7-bd91-1981e4ee6698",
+    "data": [
+      {
+        "text": "you can select transfer option",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2963add6-c942-415a-ae21-5437255ecfef",
+    "data": [
+      {
+        "text": "can i change the date / time of delivery ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7abe8916-880e-4243-a33a-85932d0a42ca",
+    "data": [
+      {
+        "text": "i would like to change the time of transfer , as it be schedule for a sunday , but our office be close in the week .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b92ecb1f-cded-4f63-adb4-86d50f3c37a0",
+    "data": [
+      {
+        "text": "i have a connection up to 14 minute in the morning , but i be surprised that after 5 / 07 / 2015 , change in 05 / 14 / 2015",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b1067083-6fca-4796-91ab-f0e6acaff424",
+    "data": [
+      {
+        "text": "be give the book for sunday 3 - 7 that i be from the upcoming company today if no one in the house of today",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "315bc4a8-faa5-442a-a2cd-a0079aba5df7",
+    "data": [
+      {
+        "text": "when i contact niffinalizza with the date and time of my delivery , i need to know",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e72f36e5-0189-465b-bd62-57e8fd383633",
+    "data": [
+      {
+        "text": "when you communicate with neffinalizza and date and time of delivery , we must know .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec1fd4d9-7807-4a5e-840a-d25f5e02e067",
+    "data": [
+      {
+        "text": "when you contact the neffinalizza on the date and time of the delivery , we should know .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d6b490f-bacf-41c4-bd0d-6aafc7c38b33",
+    "data": [
+      {
+        "text": "there be time to transfer , i can make you ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61b94252-7f7f-4b3d-950e-4e7753a63633",
+    "data": [
+      {
+        "text": "can put me at 11 : 00",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99aa4657-ca79-48ba-b646-cf8ccd3583ff",
+    "data": [
+      {
+        "text": "my delivery be relate to the present day and it be over",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac3e69e5-aa8a-4226-a7c9-5036bf3caff2",
+    "data": [
+      {
+        "text": "would it be possible to change my delivery time or day ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca31a6db-a11c-4afc-b01e-62cc8ecdfda9",
+    "data": [
+      {
+        "text": "since the road be not a parking prohibit area between 7 a.m. and 7 p.m. , if you can not specify after 7 p.m. , will you deliver to se 10 on sunday ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f2b586e-91ef-48fd-a084-43438feb9b7d",
+    "data": [
+      {
+        "text": "i change my delivery time but an email confirm the delivery for the wrong date have come",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70e26ff6-e80e-4828-98ec-f995b051e41a",
+    "data": [
+      {
+        "text": "can i change the delivery date / time ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d324bd45-4395-4d03-b807-f38cfb3402fd",
+    "data": [
+      {
+        "text": "can you please change my delivery date ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5876bd3f-115b-4f10-b000-1fa1625853b4",
+    "data": [
+      {
+        "text": "there i would like to know if i can reschedule the delivery time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6348b0ac-35fd-49be-9015-b0d4ce7546ea",
+    "data": [
+      {
+        "text": "why be it a day for me to change the day because they choose and pay for that particular day and date ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88abd778-144b-4ed4-9e9a-385592f9565c",
+    "data": [
+      {
+        "text": "how do i change the time schedule ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e3f35dc6-2162-44d9-aabf-8e512844dfb0",
+    "data": [
+      {
+        "text": "you can deliver it after the morning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "44af4b01-270a-4a3e-a49f-b4aa18c94c81",
+    "data": [
+      {
+        "text": "i have a delivery that should arrive tomorrow morning ",
+        "userDefined": false
+      },
+      {
+        "text": "postcode",
+        "meta": "@postcode",
+        "alias": "postcode",
+        "userDefined": true
+      },
+      {
+        "text": " , but i wonder if i could change it on 05 / 07 / 2018 after 14 : 00",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66ee4b5e-7620-4d55-b470-f9c3d92b3e90",
+    "data": [
+      {
+        "text": "can i change the date and time of my delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ff43211-4d1c-4a8c-820a-6cfc0bde1ece",
+    "data": [
+      {
+        "text": "may i have a special place to look for ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4bea1cf2-112d-4b93-b5ff-b1b11b81fd3b",
+    "data": [
+      {
+        "text": "today , on sunday , 3 - 7 book i be from the next company , nobody be home today",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4942365c-f0ca-43a3-b18d-1616011ce85a",
+    "data": [
+      {
+        "text": "delivery time have change between 11 - 3 and it need to change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1983d62-aa2d-4e53-a458-9f1f1a073649",
+    "data": [
+      {
+        "text": "because the road be not a place of prohibit parking between 7 am to 7 pm , if you can not sign after 7 pm , will you distribute it on 10th sunday ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8aef90b-cbd6-44a1-8be1-f3e935746a73",
+    "data": [
+      {
+        "text": "delivery of the book for sunday from 3 - 7 and i have from the delivery company come today though no one at home what time today",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14551765-65fb-4430-a112-ee98bac356a2",
+    "data": [
+      {
+        "text": "with the order number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " , it be possible to add something to this order for delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "12c27142-645c-4fc0-88e2-b10a9aca4704",
+    "data": [
+      {
+        "text": "i have the distribution and i want to change the time of the morning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "145e3d8b-cba0-46f7-990c-6d8d5266ef3e",
+    "data": [
+      {
+        "text": "order number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " at the same time be possible to add something to this order for delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af6b1d0a-26ab-44e4-b8f1-490c76479ff3",
+    "data": [
+      {
+        "text": "i do not know why the delivery time have change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d6746b9-984f-499e-ad09-c6a76e0c0764",
+    "data": [
+      {
+        "text": "i have a delivery that should reach ",
+        "userDefined": false
+      },
+      {
+        "text": "postcode",
+        "meta": "@postcode",
+        "alias": "postcode",
+        "userDefined": true
+      },
+      {
+        "text": " in the morning , but i wonder if i can change it after 14 / 07 on 05 / 07 / 2018",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57146d48-f810-43fd-bf7e-64b82f610d15",
+    "data": [
+      {
+        "text": "distribution time be wrong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6209018c-775d-4247-8f53-c8823aa2eb37",
+    "data": [
+      {
+        "text": "here , i would like to know whether the timing of the transfer can be delay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fc71fa1d-21dd-49e7-a637-47bab9eea75a",
+    "data": [
+      {
+        "text": "the wrong time in delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b217cdee-c8b7-4858-b37a-09b7d236d031",
+    "data": [
+      {
+        "text": "i have a connection that should be up to 14 minute in the morning , but i wonder if i could change it after 14 / 07 on 05 / 07 / 2018",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54f018b0-cf41-47a6-9e8e-09aaf0909fca",
+    "data": [
+      {
+        "text": "i have a delivery and i change the time of the morning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eabf4e47-c92d-476a-bfee-5b8ac11845ec",
+    "data": [
+      {
+        "text": "pick - up time must be change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ada5c57-addd-4c52-b2ae-01f127a39ca4",
+    "data": [
+      {
+        "text": "i need to know when i would be contact to niffinalizza the date and time of my delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24d4212d-0a54-45e4-aad0-3fa71d620d08",
+    "data": [
+      {
+        "text": "how can i change my time ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2153d03d-0c5e-4f05-b32b-81fb5b25df2b",
+    "data": [
+      {
+        "text": "it be necessary to change the pick - up time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75d6a768-ff66-4b5d-9c48-9b2f1478b3bf",
+    "data": [
+      {
+        "text": "it be necessary to change the time of receipt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1708921d-ea6d-4c7e-b4fa-d8d1a19dd5c4",
+    "data": [
+      {
+        "text": "there be time for me to transfer , i can make you ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26a57783-666d-4a10-be5a-121d91ef3ea0",
+    "data": [
+      {
+        "text": "i\u0026#39;ll make an appointment early in the morning , but i\u0026#39;m planning to work now and maybe not home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78c29354-acfe-4eaa-973d-8785559247e2",
+    "data": [
+      {
+        "text": "i\u0026#39;ve get delivery and i want to change the morning time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "160b0e6f-3a7c-484f-9c12-3ccba34530a5",
+    "data": [
+      {
+        "text": "it be necessary to change the reception time .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8deba8f-5a97-4917-9a12-0029400c8e85",
+    "data": [
+      {
+        "text": "i\u0026#39;ve be contact by the morning on 14th , but amazed that after 5 / 07 / 2015 , change in 05 / 14 / 2015",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7f19b58-eaed-49a4-a9f7-250c79b78fe8",
+    "data": [
+      {
+        "text": "why be it a day for me to change the day , because they choose and pay that special day and date ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be69914a-deaf-4d65-be3d-7e7576cb680e",
+    "data": [
+      {
+        "text": "the transfer of instruction for use the number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " apply to the law be order from midnight to 20 or 20 minute , but they be try to cancel the building at 20 : 30 .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "faad0e19-128d-4485-96df-c561949ef2eb",
+    "data": [
+      {
+        "text": "i think i could change the server / date / time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00350b45-6a05-4cf8-8f3a-23ad49fc8b1a",
+    "data": [
+      {
+        "text": "how do i change the timing schedule ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8691b677-f707-4c13-94da-8a0cb8ada672",
+    "data": [
+      {
+        "text": "just think i could change the distribution time / day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18fba823-11d3-40e1-a9f6-cdb0e2ee17aa",
+    "data": [
+      {
+        "text": "because the road be not a prohibit parking place between 7 am and 7 pm , if you can not indicate after 7 pm , do you deliver on sunday 10 ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ccf53f62-e1d5-4cc0-867f-fe09f1958010",
+    "data": [
+      {
+        "text": "the book be give for a 3 - 7 sunday i be from the next company today if no one be at home today",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "96e12598-3c8f-45ee-800a-7b5e18d555ec",
+    "data": [
+      {
+        "text": "transition time , i can make you ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68ae7ae9-8243-4ede-9bb4-430c62b564b6",
+    "data": [
+      {
+        "text": "because the road be not a parking place forbid from 7 a.m. to 7 p.m. , if you can not sign up after 19 : 00 , will you distribute it at 10 a.m. on sunday ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f271c0e-d5b2-4426-a4d7-9302135aec26",
+    "data": [
+      {
+        "text": "book a delivery site",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1768fb2c-f8fc-4fcb-a40a-61dee7358259",
+    "data": [
+      {
+        "text": "how can i change the ordering time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "363ccf66-9c01-4398-8a43-9c874619cc65",
+    "data": [
+      {
+        "text": "i would like to change the time slot for my ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "914c6143-2564-4e52-ad90-935a6085d82a",
+    "data": [
+      {
+        "text": "since a parking lot will not be know from 7 : 00 to 7 , if you can not register after 19 : 00 , you will be distribute it at 10 : 00 be on sunday.?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "94532eb1-669e-42e4-848f-0031dc0929d6",
+    "data": [
+      {
+        "text": "why have my delivery date change in the work on that day why i choose and pay a special time and date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e73fe250-bbfd-4b9c-b2fe-6423f38deef9",
+    "data": [
+      {
+        "text": "my delivery be relate to today and understand that the time be up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9474e130-b02d-40c7-b7ba-5445faff174e",
+    "data": [
+      {
+        "text": "my delivery time have change between 11 - 3 and i need to change this",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "015c894c-6d41-46be-a7c4-c1ea3f7aae3b",
+    "data": [
+      {
+        "text": "i be just look to redefine my delivery , but every time i try to call it be unattainable",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d7710bb-cb19-4f85-95cc-8802c97fdb76",
+    "data": [
+      {
+        "text": "today , sunday , 3 - 7 pound that i come from the next company , no one be home today",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67111f20-e7c1-4869-a56e-8fa2235ba112",
+    "data": [
+      {
+        "text": "change the command transfer destination",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9748e630-babd-47b6-8965-2c5f7be1d2ac",
+    "data": [
+      {
+        "text": "can i change my delivery time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8b8f3d2-45e1-4517-8cc0-cbed7e7a8c60",
+    "data": [
+      {
+        "text": "can i change the delivery time day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dfe44fb5-4c95-4476-b06b-6dda922b213f",
+    "data": [
+      {
+        "text": "can i change the delivery time for my delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da9ccb7a-d504-4de5-828e-41e755ed5a0f",
+    "data": [
+      {
+        "text": "can i change delivery time of order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ce3d98f-6c36-4e06-9048-aa7ef29cbe68",
+    "data": [
+      {
+        "text": "can i change the order delivery time of my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db7da502-240e-4ded-ad90-8f397bd41bbd",
+    "data": [
+      {
+        "text": "can i change the time of my delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "617b48f1-0408-4751-8175-e2ead9257033",
+    "data": [
+      {
+        "text": "can i change the time of my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0368087f-47d0-43c1-ae9f-aa5f44712c8d",
+    "data": [
+      {
+        "text": "my delivery time be wrong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed68e8ad-0df8-4704-a957-31528bd8ef65",
+    "data": [
+      {
+        "text": "  how can i change my delivery time and can i add to the order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ae098b2-0c91-431f-9d5f-a9ddc790df16",
+    "data": [
+      {
+        "text": "how do i change a delivery date and time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

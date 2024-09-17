@@ -1,0 +1,162 @@
+{
+  "id": "b5b37f6b-045f-4a29-9d41-35388f8285dd",
+  "name": "amend_cart",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "order",
+          "lifespan": 5
+        },
+        {
+          "name": "amend_cart-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "01361dcc-50d9-41d9-9927-1cc3e921773e",
+          "name": "store_list",
+          "required": true,
+          "dataType": "@store_list",
+          "value": "$store_list",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "store?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "0087f019-8c95-4214-9e07-31c8a4a3a956",
+          "name": "ikea_stockProductName",
+          "required": false,
+          "dataType": "@ikea_stockProductName",
+          "value": "$ikea_stockProductName",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "caf45371-1c77-45a6-8497-931fe1c45aeb",
+          "name": "order_number",
+          "required": false,
+          "dataType": "@order_number",
+          "value": "$order_number",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "0d998683-d527-4814-b3dc-6c01075f4e66",
+          "name": "ikea_missingSpareParts",
+          "required": false,
+          "dataType": "@ikea_missingSpareParts",
+          "value": "$ikea_missingSpareParts",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "388749b6-bf14-43e5-8e10-00e511f03abb",
+          "name": "ikea_applianceItem",
+          "required": false,
+          "dataType": "@ikea_applianceItem",
+          "value": "$ikea_applianceItem",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "06248b20-46a5-4354-a1a2-e4094e94d6f1",
+          "name": "manufacturer_number_regex",
+          "required": false,
+          "dataType": "@manufacturer_number_regex",
+          "value": "$manufacturer_number_regex",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "cdeb9d62-0077-4476-a0b3-2e26b83d61a5",
+          "name": "postcode",
+          "required": false,
+          "dataType": "@postcode",
+          "value": "$postcode",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "08988470-4204-4456-a8f7-1446dec1f7e0",
+          "name": "ProductID",
+          "required": false,
+          "dataType": "@ProductID",
+          "value": "$ProductID",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "i\u0027d like to add an item to an existing order"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

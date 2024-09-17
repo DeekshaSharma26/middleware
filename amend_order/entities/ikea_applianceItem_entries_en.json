@@ -1,0 +1,668 @@
+[
+  {
+    "value": "booster",
+    "synonyms": [
+      "booster"
+    ]
+  },
+  {
+    "value": "boosters",
+    "synonyms": [
+      "boosters"
+    ]
+  },
+  {
+    "value": "Clothes washer",
+    "synonyms": [
+      "Clothes washer"
+    ]
+  },
+  {
+    "value": "Clothes washers",
+    "synonyms": [
+      "Clothes washers"
+    ]
+  },
+  {
+    "value": "Cold storage",
+    "synonyms": [
+      "Cold storage"
+    ]
+  },
+  {
+    "value": "Cold storages",
+    "synonyms": [
+      "Cold storages"
+    ]
+  },
+  {
+    "value": "Cold-storage box",
+    "synonyms": [
+      "Cold-storage box"
+    ]
+  },
+  {
+    "value": "cooker",
+    "synonyms": [
+      "cooker"
+    ]
+  },
+  {
+    "value": "Cooker\u0027s",
+    "synonyms": [
+      "Cooker\u0027s"
+    ]
+  },
+  {
+    "value": "Cooler",
+    "synonyms": [
+      "Cooler"
+    ]
+  },
+  {
+    "value": "Coolers",
+    "synonyms": [
+      "Coolers"
+    ]
+  },
+  {
+    "value": "cooling",
+    "synonyms": [
+      "cooling"
+    ]
+  },
+  {
+    "value": "cooling box",
+    "synonyms": [
+      "cooling box"
+    ]
+  },
+  {
+    "value": "cooling boxes",
+    "synonyms": [
+      "cooling boxes"
+    ]
+  },
+  {
+    "value": "dish washer",
+    "synonyms": [
+      "dish washer"
+    ]
+  },
+  {
+    "value": "Dish washers",
+    "synonyms": [
+      "Dish washers"
+    ]
+  },
+  {
+    "value": "dish washer\u0027s",
+    "synonyms": [
+      "dish washer\u0027s"
+    ]
+  },
+  {
+    "value": "Dishes washer",
+    "synonyms": [
+      "Dishes washer"
+    ]
+  },
+  {
+    "value": "dishwasher",
+    "synonyms": [
+      "dishwasher"
+    ]
+  },
+  {
+    "value": "dishwashers",
+    "synonyms": [
+      "dishwashers"
+    ]
+  },
+  {
+    "value": "dishwasher\u0027s",
+    "synonyms": [
+      "dishwasher\u0027s"
+    ]
+  },
+  {
+    "value": "espresso machine",
+    "synonyms": [
+      "espresso machine"
+    ]
+  },
+  {
+    "value": "espresso machines",
+    "synonyms": [
+      "espresso machines"
+    ]
+  },
+  {
+    "value": "extractor",
+    "synonyms": [
+      "extractor"
+    ]
+  },
+  {
+    "value": "extractor hood",
+    "synonyms": [
+      "extractor hood"
+    ]
+  },
+  {
+    "value": "extractor hoods",
+    "synonyms": [
+      "extractor hoods"
+    ]
+  },
+  {
+    "value": "extractor hood\u0027s",
+    "synonyms": [
+      "extractor hood\u0027s"
+    ]
+  },
+  {
+    "value": "freezer",
+    "synonyms": [
+      "freezer"
+    ]
+  },
+  {
+    "value": "freezers",
+    "synonyms": [
+      "freezers"
+    ]
+  },
+  {
+    "value": "freezer\u0027s",
+    "synonyms": [
+      "freezer\u0027s"
+    ]
+  },
+  {
+    "value": "fridge",
+    "synonyms": [
+      "fridge"
+    ]
+  },
+  {
+    "value": "Fridge/freezer",
+    "synonyms": [
+      "Fridge/freezer"
+    ]
+  },
+  {
+    "value": "fridges",
+    "synonyms": [
+      "fridges"
+    ]
+  },
+  {
+    "value": "fridges\u0027",
+    "synonyms": [
+      "fridges\u0027"
+    ]
+  },
+  {
+    "value": "fridge\u0027s",
+    "synonyms": [
+      "fridge\u0027s"
+    ]
+  },
+  {
+    "value": "Fridges/Freezers",
+    "synonyms": [
+      "Fridges/Freezers"
+    ]
+  },
+  {
+    "value": "gas",
+    "synonyms": [
+      "gas"
+    ]
+  },
+  {
+    "value": "gas hob",
+    "synonyms": [
+      "gas hob"
+    ]
+  },
+  {
+    "value": "gas stove",
+    "synonyms": [
+      "gas stove"
+    ]
+  },
+  {
+    "value": "gas stoves",
+    "synonyms": [
+      "gas stoves"
+    ]
+  },
+  {
+    "value": "gas stove\u0027s",
+    "synonyms": [
+      "gas stove\u0027s"
+    ]
+  },
+  {
+    "value": "hob",
+    "synonyms": [
+      "hob"
+    ]
+  },
+  {
+    "value": "hob w booster",
+    "synonyms": [
+      "hob w booster"
+    ]
+  },
+  {
+    "value": "hob w/booster",
+    "synonyms": [
+      "hob w/booster"
+    ]
+  },
+  {
+    "value": "hob with booster",
+    "synonyms": [
+      "hob with booster"
+    ]
+  },
+  {
+    "value": "hobs",
+    "synonyms": [
+      "hobs"
+    ]
+  },
+  {
+    "value": "Hob\u0027s",
+    "synonyms": [
+      "Hob\u0027s"
+    ]
+  },
+  {
+    "value": "hobs w booster",
+    "synonyms": [
+      "hobs w booster"
+    ]
+  },
+  {
+    "value": "hobs w/booster",
+    "synonyms": [
+      "hobs w/booster"
+    ]
+  },
+  {
+    "value": "hobs with booster",
+    "synonyms": [
+      "hobs with booster"
+    ]
+  },
+  {
+    "value": "Hobs\u0027s",
+    "synonyms": [
+      "Hobs\u0027s"
+    ]
+  },
+  {
+    "value": "hood",
+    "synonyms": [
+      "hood"
+    ]
+  },
+  {
+    "value": "hoods",
+    "synonyms": [
+      "hoods"
+    ]
+  },
+  {
+    "value": "hood\u0027s",
+    "synonyms": [
+      "hood\u0027s"
+    ]
+  },
+  {
+    "value": "Hoods\u0027s",
+    "synonyms": [
+      "Hoods\u0027s"
+    ]
+  },
+  {
+    "value": "Ice box",
+    "synonyms": [
+      "Ice box"
+    ]
+  },
+  {
+    "value": "Ice boxes",
+    "synonyms": [
+      "Ice boxes"
+    ]
+  },
+  {
+    "value": "Icebox",
+    "synonyms": [
+      "Icebox"
+    ]
+  },
+  {
+    "value": "Iceboxes",
+    "synonyms": [
+      "Iceboxes"
+    ]
+  },
+  {
+    "value": "ind hob",
+    "synonyms": [
+      "ind hob"
+    ]
+  },
+  {
+    "value": "ind hob w booster",
+    "synonyms": [
+      "ind hob w booster"
+    ]
+  },
+  {
+    "value": "ind hob w/booster",
+    "synonyms": [
+      "ind hob w/booster"
+    ]
+  },
+  {
+    "value": "ind hob with booster",
+    "synonyms": [
+      "ind hob with booster"
+    ]
+  },
+  {
+    "value": "induction hob",
+    "synonyms": [
+      "induction hob"
+    ]
+  },
+  {
+    "value": "kiln",
+    "synonyms": [
+      "kiln"
+    ]
+  },
+  {
+    "value": "kitchen hob\u0027s",
+    "synonyms": [
+      "kitchen hob\u0027s"
+    ]
+  },
+  {
+    "value": "Kitchen range",
+    "synonyms": [
+      "Kitchen range"
+    ]
+  },
+  {
+    "value": "Laundry machine  ",
+    "synonyms": [
+      "Laundry machine  "
+    ]
+  },
+  {
+    "value": "Laundry machines",
+    "synonyms": [
+      "Laundry machines"
+    ]
+  },
+  {
+    "value": "Micro",
+    "synonyms": [
+      "Micro"
+    ]
+  },
+  {
+    "value": "Micro combi",
+    "synonyms": [
+      "Micro combi"
+    ]
+  },
+  {
+    "value": "Micro combi/frcd",
+    "synonyms": [
+      "Micro combi/frcd"
+    ]
+  },
+  {
+    "value": "Micro combis",
+    "synonyms": [
+      "Micro combis"
+    ]
+  },
+  {
+    "value": "Micros",
+    "synonyms": [
+      "Micros"
+    ]
+  },
+  {
+    "value": "microwave",
+    "synonyms": [
+      "microwave"
+    ]
+  },
+  {
+    "value": "Microwave oven",
+    "synonyms": [
+      "Microwave oven"
+    ]
+  },
+  {
+    "value": "Microwave ovens",
+    "synonyms": [
+      "Microwave ovens"
+    ]
+  },
+  {
+    "value": "microwave/combi",
+    "synonyms": [
+      "microwave/combi"
+    ]
+  },
+  {
+    "value": "Microwave/combis",
+    "synonyms": [
+      "Microwave/combis"
+    ]
+  },
+  {
+    "value": "Microwaves",
+    "synonyms": [
+      "Microwaves"
+    ]
+  },
+  {
+    "value": "oven",
+    "synonyms": [
+      "oven"
+    ]
+  },
+  {
+    "value": "Oven-Double",
+    "synonyms": [
+      "Oven-Double"
+    ]
+  },
+  {
+    "value": "Oven-Range",
+    "synonyms": [
+      "Oven-Range"
+    ]
+  },
+  {
+    "value": "ovens",
+    "synonyms": [
+      "ovens"
+    ]
+  },
+  {
+    "value": "oven\u0027s",
+    "synonyms": [
+      "oven\u0027s"
+    ]
+  },
+  {
+    "value": "ovens - double",
+    "synonyms": [
+      "ovens - double"
+    ]
+  },
+  {
+    "value": "ovens double",
+    "synonyms": [
+      "ovens double"
+    ]
+  },
+  {
+    "value": "ovens double\u0027s",
+    "synonyms": [
+      "ovens double\u0027s"
+    ]
+  },
+  {
+    "value": "ovens range",
+    "synonyms": [
+      "ovens range"
+    ]
+  },
+  {
+    "value": "ovens range\u0027s",
+    "synonyms": [
+      "ovens range\u0027s"
+    ]
+  },
+  {
+    "value": "ovens-double",
+    "synonyms": [
+      "ovens-double"
+    ]
+  },
+  {
+    "value": "ovens-double\u0027s",
+    "synonyms": [
+      "ovens-double\u0027s"
+    ]
+  },
+  {
+    "value": "ovens-range",
+    "synonyms": [
+      "ovens-range"
+    ]
+  },
+  {
+    "value": "ovens\u0027s",
+    "synonyms": [
+      "ovens\u0027s"
+    ]
+  },
+  {
+    "value": "range",
+    "synonyms": [
+      "range"
+    ]
+  },
+  {
+    "value": "Rangetop\u0027s",
+    "synonyms": [
+      "Rangetop\u0027s"
+    ]
+  },
+  {
+    "value": "refrigerator",
+    "synonyms": [
+      "refrigerator"
+    ]
+  },
+  {
+    "value": "Refrigerators",
+    "synonyms": [
+      "Refrigerators"
+    ]
+  },
+  {
+    "value": "refrigerator\u0027s",
+    "synonyms": [
+      "refrigerator\u0027s"
+    ]
+  },
+  {
+    "value": "Roaster",
+    "synonyms": [
+      "Roaster"
+    ]
+  },
+  {
+    "value": "stove",
+    "synonyms": [
+      "stove"
+    ]
+  },
+  {
+    "value": "stove\u0027s",
+    "synonyms": [
+      "stove\u0027s"
+    ]
+  },
+  {
+    "value": "Stovetop\u0027s",
+    "synonyms": [
+      "Stovetop\u0027s"
+    ]
+  },
+  {
+    "value": "Tandoor",
+    "synonyms": [
+      "Tandoor"
+    ]
+  },
+  {
+    "value": "warming drawer",
+    "synonyms": [
+      "warming drawer"
+    ]
+  },
+  {
+    "value": "warming drawers",
+    "synonyms": [
+      "warming drawers"
+    ]
+  },
+  {
+    "value": "Washer",
+    "synonyms": [
+      "Washer"
+    ]
+  },
+  {
+    "value": "Washers",
+    "synonyms": [
+      "Washers"
+    ]
+  },
+  {
+    "value": "washing machine",
+    "synonyms": [
+      "washing machine"
+    ]
+  },
+  {
+    "value": "washing machines",
+    "synonyms": [
+      "washing machines"
+    ]
+  },
+  {
+    "value": "washing machine\u0027s",
+    "synonyms": [
+      "washing machine\u0027s"
+    ]
+  }
+]

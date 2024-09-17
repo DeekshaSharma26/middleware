@@ -1,0 +1,44 @@
+{
+  "id": "e5957143-33a0-4636-ad21-dc539814337c",
+  "parentId": "b5b37f6b-045f-4a29-9d41-35388f8285dd",
+  "rootParentId": "b5b37f6b-045f-4a29-9d41-35388f8285dd",
+  "name": "amend_cart - yes",
+  "auto": true,
+  "contexts": [
+    "order",
+    "amend_cart-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "amend_cart.amend_cart-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "mr",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

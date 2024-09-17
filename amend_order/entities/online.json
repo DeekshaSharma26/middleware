@@ -1,0 +1,9 @@
+{
+  "id": "cdd00de2-c320-4ec2-8804-737f85c82e3d",
+  "name": "online",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

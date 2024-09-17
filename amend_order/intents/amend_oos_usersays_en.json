@@ -1,0 +1,4736 @@
+[
+  {
+    "id": "10a6a189-28d0-47c5-83e0-fe3d81067f2e",
+    "data": [
+      {
+        "text": "i be expect a delivery tomorrow but will not be home can i change the delivery address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db493589-deab-4665-9821-45b76a1b25d3",
+    "data": [
+      {
+        "text": "i would like to change payment for my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70a56f8a-1651-4c32-840d-4d972051284b",
+    "data": [
+      {
+        "text": "  i have just place an order order number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " and the email i enter be wrong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6defb5f6-a494-46c4-989f-08362b41ab4e",
+    "data": [
+      {
+        "text": "  i have put in the wrong email for order ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " it should be mspaterson007@gmail.com thank john",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a0653e9-1be8-4cc9-9adb-598a79eb608a",
+    "data": [
+      {
+        "text": "could i add an alternative telephone number to my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2d8b2fe-8891-473e-a010-caa56d37cd19",
+    "data": [
+      {
+        "text": "  i would like to add a phone number to an exist delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7bdc8348-cdd1-45e4-8322-19792b3530cf",
+    "data": [
+      {
+        "text": "i would like to add an uk telephone number to my contact delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2586842-278c-4654-816b-c286c6a6251d",
+    "data": [
+      {
+        "text": "i arrange delivery for tmr afternoon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e7d7452-9dae-4a60-8f13-60a4a4521010",
+    "data": [
+      {
+        "text": "can i add the assembly option with an ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "019e899c-ccbf-419e-b98b-1081eae24607",
+    "data": [
+      {
+        "text": "can i add note to a delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5ccd197-7d59-45aa-aeb0-8af0524483c6",
+    "data": [
+      {
+        "text": "can i change the contact number on an order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6daed120-6444-472b-9b2d-c31c8ec633e5",
+    "data": [
+      {
+        "text": "can i change my contact telephone number for my delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7a9aa1b0-c917-4290-a508-79156c3f1fbc",
+    "data": [
+      {
+        "text": "can i change date delivery and location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5fd0df55-3bdf-4f67-ac13-36117dced058",
+    "data": [
+      {
+        "text": "can i change my email address on this order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7d8a970c-18c1-4d5e-83fb-a45ed358ae4e",
+    "data": [
+      {
+        "text": "can i change my order detail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1897e8b-c319-4242-ae62-2e922c28ae98",
+    "data": [
+      {
+        "text": "can i change the phone number for a delivery today",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5af9e06-2232-4b41-84e3-4fef9fb0220f",
+    "data": [
+      {
+        "text": "can i change in store pick up to delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0df82fdd-a3f0-4b1b-b6dd-eadae9eaee68",
+    "data": [
+      {
+        "text": "can i update a new telephone number for a delivery tomorrow morning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dad01210-6f0e-4ebb-8ed4-cf74f0afe74d",
+    "data": [
+      {
+        "text": "i would like to change the email i provide for the order i make",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2df57590-a909-47d5-a310-80a668d5a687",
+    "data": [
+      {
+        "text": "i would like to change payment method on my just place order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ce6532a-9f69-4432-a95d-f1dfb44fd895",
+    "data": [
+      {
+        "text": "my collection point be wrong how do i change it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77837772-d053-44a3-bc71-26acc264348a",
+    "data": [
+      {
+        "text": "i have a delivery book for saturday for 25 fly fox crescent but i have give you the wrong postcode it be actually ",
+        "userDefined": false
+      },
+      {
+        "text": "postcode",
+        "meta": "@postcode",
+        "alias": "postcode",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5398f8ef-c435-45a4-9605-129af9db45dd",
+    "data": [
+      {
+        "text": "i have a delivery come in sunday and i would like to change the contact number to my brother as he will be here to receive the delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "48602871-5cae-44ff-bac9-2cdcbc079a76",
+    "data": [
+      {
+        "text": "the delivery have my number wrong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0cba7308-8aa9-4a0e-8a04-22ac4fdf37ed",
+    "data": [
+      {
+        "text": "there   i be expect a delivery ts friday between 7 - 11am   i need to drop my daughter to school so will not be home between 8.30 - 9.15 can that be take on board please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37ad6e46-da6e-4a17-aa01-4fd1df6c1168",
+    "data": [
+      {
+        "text": "i give the wrong phone number for delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d58b7df-7851-43ca-b882-49c992bc683a",
+    "data": [
+      {
+        "text": "do i get warn when a delivery be nearby",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "390cfc76-510b-45f6-b8e2-a5c94e0f9db6",
+    "data": [
+      {
+        "text": "how can i change the delivery address of my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "959b43bd-eec6-4177-99c2-9253c673c8a2",
+    "data": [
+      {
+        "text": "how can i contact the driver due to drop my delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a89d3905-d83b-43ab-a9fb-ab4a603e3c93",
+    "data": [
+      {
+        "text": "how do i change flat number in my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57c8bdcc-19c2-44d6-8516-e18c88cd71c9",
+    "data": [
+      {
+        "text": "i just make an order and accidentally get it deliver to my billing address can i change the delivery address please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3dfb32d9-a457-41ce-8f2a-403d01328325",
+    "data": [
+      {
+        "text": "just make an order give wrong emaili ha be give sarahs6485@hotmail.co.uk when it should be sarahd6485@hotmail.co.uk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "442e479b-7ef9-4d43-9b43-8a99e4b64320",
+    "data": [
+      {
+        "text": "we miss our delivery on friday ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99f5a0a9-fe58-4046-af5c-f9cf7379ca63",
+    "data": [
+      {
+        "text": "  the mobile number on our order be wrong and i need to change it please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f8942342-9103-4da8-9bfd-8b2e8b14121d",
+    "data": [
+      {
+        "text": "i need to add delivery instruction to my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7858b7e0-4f53-445e-bd67-919d573172bb",
+    "data": [
+      {
+        "text": "i need to add a note to delivery info",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "22470e39-7591-4879-a5a6-a5127626800f",
+    "data": [
+      {
+        "text": "i need to change my contact detail for a delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f452bc7e-a65f-4afd-af0e-5fd9015dd49e",
+    "data": [
+      {
+        "text": "  i need to change the delivery option of particular item to pickup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66c6fc3b-30f1-4e82-a63c-91f6c7897097",
+    "data": [
+      {
+        "text": "i need to change email in an order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16c8fa44-db68-4391-8566-3288aebeb312",
+    "data": [
+      {
+        "text": "i need to change postcode on my delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37e2a319-97b8-40c8-8651-5e39782e3e9e",
+    "data": [
+      {
+        "text": "i need delivery redirect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "29a09066-b3b5-4923-a03c-437052cf400c",
+    "data": [
+      {
+        "text": "i need to give an alternative telephone number for my delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9f931ec-8cce-464b-9c0a-8e82b0df11c7",
+    "data": [
+      {
+        "text": "i need to provide a different contact number for a delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13cca6bc-be5d-4ff0-8307-e3ef6cf21957",
+    "data": [
+      {
+        "text": "notification of change to delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a60e4e2-29e9-4954-b79a-c3e7d1e9975b",
+    "data": [
+      {
+        "text": "order number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": "   i have give the wrong email address incorrect spelling what can i do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0673039-d9a1-4944-ad93-98d2ec72da25",
+    "data": [
+      {
+        "text": "order no ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " incorrect email add give on order correct address be peejay 4150@yahoo.com",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6b9b4274-ffba-430e-a33e-e5c4da730c4c",
+    "data": [
+      {
+        "text": "i make an order yesterday but i give wrong email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "efde6664-d7d9-4ade-8998-47bfe585ed69",
+    "data": [
+      {
+        "text": "  i have just order a few item for home delivery i know that my order ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " through however i have enter my email address wrong so have not recriv a confirmation email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "606b45f2-301d-4e62-bc38-c7334e7e19fc",
+    "data": [
+      {
+        "text": "i order sometng form you yesterday but not all the information be put on the delivery address be it possible to add it to the parcel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b734cb4e-93f0-484f-b244-beafb44cae60",
+    "data": [
+      {
+        "text": "i have just order sometng now ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": "   just notice on the confirmation email that a line be miss from the delivery address how do i change it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a88cd64-3d40-4819-a569-c08fdf223d6f",
+    "data": [
+      {
+        "text": "i have just place an order to be deliver but i have give the wrong phone number can i change please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ceff3506-948b-47b0-a84e-cfe58a124dca",
+    "data": [
+      {
+        "text": "i have place an order for delivery but i have give the wrong phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54837ed3-4f0e-4d9f-98ad-23074d4ccd2e",
+    "data": [
+      {
+        "text": "  i just place an order early ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " but in enter the wrong email address at guest cehckout i be wonder if this order could be assign to my account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "056d0842-5086-4a61-b626-df65241b6886",
+    "data": [
+      {
+        "text": "i have just place an order but give the wrong email address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00221ddc-e663-4e66-ba7d-4a999a51743f",
+    "data": [
+      {
+        "text": "i place an order but realize the wrong zip get insert",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a158e64e-2a39-4f50-a520-486b51f0e56b",
+    "data": [
+      {
+        "text": "postcode change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d13605f2-454b-4cab-a8f7-3d7be6416eb6",
+    "data": [
+      {
+        "text": "i be sorry i give the wrong email address with the order can i correct it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae53652d-c52e-4e0b-b656-e43248b2436d",
+    "data": [
+      {
+        "text": "i have be try to change my email address on line but the relevant page will not open",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce959b2e-1677-4018-a298-30b64116054b",
+    "data": [
+      {
+        "text": "i want to add information to my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c188a4cc-a885-449b-b23d-d05a09eddced",
+    "data": [
+      {
+        "text": "i want to change delivery to home delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10eb6564-526a-441f-b7b6-d3866bbb11dc",
+    "data": [
+      {
+        "text": "i want to change the telephone number associate with my delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b23647ca-3d13-4203-aa09-895a781a9aac",
+    "data": [
+      {
+        "text": "but i want home delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "63e7b425-58a0-4461-afb0-6457486d5f80",
+    "data": [
+      {
+        "text": "i give an incorrect phone number for the transfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8713ded0-7cd3-4dc5-854d-f29742a06d0e",
+    "data": [
+      {
+        "text": "i have to send it again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aef1187d-08ca-468b-aeec-0ec9901c179f",
+    "data": [
+      {
+        "text": "add a phone number to the current delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56b04f46-a8fb-40e8-a86f-1b639dc995da",
+    "data": [
+      {
+        "text": "do i get a warning when a delivery be nearby",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6c6139e3-56a7-46b4-b53d-ca875cfa85b8",
+    "data": [
+      {
+        "text": "i need to send it again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f454d8f7-a3c4-42a1-a92d-142014f9b569",
+    "data": [
+      {
+        "text": "i need to change the postal code of my delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16f8acdc-096f-4d38-bc69-780133c0dbe1",
+    "data": [
+      {
+        "text": "i need to add guide to my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6608002-bd3c-40c3-9eaf-cb96e6ff1523",
+    "data": [
+      {
+        "text": "do i need an alternate phone number for my delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08edf59d-9ff0-41cb-a571-e160bf54d602",
+    "data": [
+      {
+        "text": "we be give the wrong phone number for the transfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "29c681da-dbc3-4ce5-b2ea-4bfb6e3a7e28",
+    "data": [
+      {
+        "text": "today i can change the phone number for delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "616525e1-81ee-448a-90d9-1b598fe575ed",
+    "data": [
+      {
+        "text": "i can add the assembly option with an ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a39b9df-a807-41bc-8753-7caf724c672e",
+    "data": [
+      {
+        "text": "my collection point be wrong , how can i change it ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8bac4ab-0a83-476c-adde-5b8f5efbcd2a",
+    "data": [
+      {
+        "text": "i just do the work , nitilifha and send it to the invoice.can i change the shipping address ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f17cb2d5-76a7-459e-8f6c-a28a10941d6e",
+    "data": [
+      {
+        "text": "i just place an order early ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " but by enter the wrong e - mail address on the guest cehckout , i be wonder if this could be attribute to my account .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0b88e99a-e9f7-4a50-bbe6-564d41e57a12",
+    "data": [
+      {
+        "text": "there i expect delivery on friday 7 - 11 to friday , i have to keep my daughter in school , so she can be take on board if she be not at home between 8.30 and 9.15 am .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0cd441bb-d3b5-45cf-b2d7-e0a032c413cb",
+    "data": [
+      {
+        "text": "add a note to delivery information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ed0ea36-eb14-4beb-afcb-0267eaea1b7a",
+    "data": [
+      {
+        "text": "change of delivery notification",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1264b817-0228-4c92-92ae-c6c4e25f0c1b",
+    "data": [
+      {
+        "text": "i want to change the transfer and mortgage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f00e201d-7af9-4ee7-9156-4f45e46b00d2",
+    "data": [
+      {
+        "text": "you can add an ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " booking option",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da0a924d-ce8a-4ba1-8ed9-c72039da1c0b",
+    "data": [
+      {
+        "text": "i can change the pick - up from the store until the moment of delivery .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a0264221-c655-42dd-8c78-e358609b1431",
+    "data": [
+      {
+        "text": "tna register a secure email ,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad588b61-5dcf-413d-86a2-73e7f46235e4",
+    "data": [
+      {
+        "text": "i would add the british phone number to send my contact",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6f778b3-67ab-4810-b3ca-f72ea0eaa1ac",
+    "data": [
+      {
+        "text": "can i change the contact number in order ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45183882-a5dd-495c-b7fc-aed980f691b4",
+    "data": [
+      {
+        "text": "i only order ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " , but by enter the wrong email address on the guest seawak , i be wonder if it may be my account responsibility .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6844126-3f12-4b73-9490-86acf976796f",
+    "data": [
+      {
+        "text": "i want to change the transfer and graph",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a58d742-e153-459e-b4d1-33a70652decc",
+    "data": [
+      {
+        "text": "how to change the shipping address of the order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3cba0929-a951-46fd-882e-9599d27f94ae",
+    "data": [
+      {
+        "text": "i admire the invitation and wish to change the number of contact for my brother because he will be here to get the transfer .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da1c1fb7-d2fc-493e-b135-35aa66ada386",
+    "data": [
+      {
+        "text": "i need to change the email in an order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27997e78-0766-4344-9bad-b5b8a6cf6878",
+    "data": [
+      {
+        "text": "can i change the contact\u0026#39;s phone number to my delivery ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f69e57c4-b5ce-4e2c-b4b0-cf0f9895f60c",
+    "data": [
+      {
+        "text": "serial number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " i have incorrectly write the wrong email address as to what i can do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0fea1ec-bd35-4f2b-8f59-947dae4de0ad",
+    "data": [
+      {
+        "text": "how can i contact an email service if i stop send ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40820266-37cd-4576-8c48-3f9fc44a0b75",
+    "data": [
+      {
+        "text": "can i update the new phone number of tomorrow ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a71bc4d-4ead-4552-b996-a48277ac882a",
+    "data": [
+      {
+        "text": "i can change the date and place of delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e8a4ff4-4af3-41af-8bcc-5045c1a33ac2",
+    "data": [
+      {
+        "text": "i just order the order at ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " , but by enter the wrong e - mail address on the guest seawak , i be wonder if it could be responsible for my account .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "605737ae-1dfd-4613-ac1d-2dbd62225cfc",
+    "data": [
+      {
+        "text": "i place an order order number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " and the email i enter be wrong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3174be12-37bc-4f3e-a6c4-1c3cb92ced2f",
+    "data": [
+      {
+        "text": "do i need another phone number for delivery ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "035917c9-591f-46ec-ad59-64974abf3ee8",
+    "data": [
+      {
+        "text": "i have to change the e - mail i have give in the order i have make",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2690d40f-ea27-4808-8794-6b7425e367c1",
+    "data": [
+      {
+        "text": "order number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " the correct email address in the wrong email order be the order peejay 4150@yahoo.com",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "876f73a2-f915-4833-a2cb-e7b4ef82e12a",
+    "data": [
+      {
+        "text": "can i change the contact number in an order ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be98ba23-4472-4b16-8704-69d6bc0a638b",
+    "data": [
+      {
+        "text": "i want to add a phone number to the united kingdom for send my contact",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "93ccf9be-5286-473f-a97a-c95a1a88c4d4",
+    "data": [
+      {
+        "text": "i\u0026#39;d like to change my money",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab83563c-2a7f-43eb-b5b0-893c1b366815",
+    "data": [
+      {
+        "text": "please send the wrong email address to be send to sarahs6485@hotmail.co.uk.sarahd6485@hotmail.co.uk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26b6b51c-39cd-46da-b444-1b5a3abd741e",
+    "data": [
+      {
+        "text": "i change my e - mail address specify in the order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02acbbb2-aecd-44e1-925b-ec4e261c8011",
+    "data": [
+      {
+        "text": "i want to add a phone number to the uk to send my contact",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc190aa4-4a3f-4b4a-8253-7c5eb8cc3231",
+    "data": [
+      {
+        "text": "i need to change my contact detail for delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b451713-99cb-4b4d-9543-14b2cfa3ef73",
+    "data": [
+      {
+        "text": "i have enter the order number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " and it be incorrect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0b94ed3b-cee7-4e35-b318-8565441dc7cc",
+    "data": [
+      {
+        "text": "i need a redirect delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47e7a73d-9489-4cd6-8603-9d5e81903c3b",
+    "data": [
+      {
+        "text": "i recommend yesterday , but all the information be not provide in this address.can i add package to ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f381b34-bf82-4b37-a614-ed21f27b5cb9",
+    "data": [
+      {
+        "text": "i place the order number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " and it be incorrect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c33f3eba-5caf-42b5-af6c-5d194019473a",
+    "data": [
+      {
+        "text": "do i understand when the delivery be near ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7709320d-0f02-4897-a4e1-ebd08b307cc2",
+    "data": [
+      {
+        "text": "please send a wrong e - mail address to sarahs6485@hotmail.co.uk.sarahd6485@hotmail.co.uk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "113e4b7a-9d78-4322-b04c-040c917efdef",
+    "data": [
+      {
+        "text": "if i can make a wrong phone number , i have a transfer order so please change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c14d5f3a-2770-4dba-9f15-e8490ee7dc56",
+    "data": [
+      {
+        "text": "i admire the invitation and i want to change the number of contact for my brother because he will be here to get the transfer .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5920a82f-6700-45e5-9bcc-a0b3f548ad17",
+    "data": [
+      {
+        "text": "i only do the job , nitilifha and send it to the invoice.can i change shipping address ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff7aae43-09b1-47fc-a425-8c5556a4399e",
+    "data": [
+      {
+        "text": "i want to change my money",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4bb81903-1b45-46ab-bd36-1375d1729c66",
+    "data": [
+      {
+        "text": "i try i change my email address , but the related open page",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a59c02fe-306f-48d8-8c90-eaaf9e569240",
+    "data": [
+      {
+        "text": "i have to change the email i give to the order i make",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74bedc2c-72f4-4046-ade4-826e2e2d4689",
+    "data": [
+      {
+        "text": "add a note to shipping information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2947a5f1-f14d-4831-9818-24e5338d5ddb",
+    "data": [
+      {
+        "text": "tna regret for the wrong email address with the order i nikkoreä¡iha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "44644e26-fbc6-4f76-8183-42e2e14dec3e",
+    "data": [
+      {
+        "text": "can i change my contact\u0026#39;s phone number to my delivery ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b65c28cd-e6ed-45eb-8ce0-b37a32013a7b",
+    "data": [
+      {
+        "text": "i order yesterday , but i miss the email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5ceb99e-204b-4521-9bd5-1b495f09bc5b",
+    "data": [
+      {
+        "text": "we have to add information to the order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e888ec6-5b56-4b58-833a-fcf79509162d",
+    "data": [
+      {
+        "text": "but i want to bring home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4bf2d34-3ea1-475e-a46e-b8bec815de07",
+    "data": [
+      {
+        "text": "i give the wrong phone number for the transfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed610e9b-3caf-4595-a086-d33ba829886e",
+    "data": [
+      {
+        "text": "i only order ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " , but when i enter the wrong email address of the guest snitch , i be wonder if this could be my responsibility .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a1b8679-1d14-4b19-8bce-4c1f8bc1f0e4",
+    "data": [
+      {
+        "text": "i would like to change the transfer and graph",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16b5ea50-2347-406b-a112-e84623cd016f",
+    "data": [
+      {
+        "text": "i need to change my contact information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2aa6d467-ef86-43c1-8af3-7c2cc1f27a6d",
+    "data": [
+      {
+        "text": "change the postcode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "afa756e6-26e8-40fc-9fa5-a1585d1bbb8e",
+    "data": [
+      {
+        "text": "i\u0026#39;ve get a command to transfer if i have a wrong phone number i can change please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fdf7b83b-28d9-4938-8df5-3c6f9b3a642f",
+    "data": [
+      {
+        "text": "i order yesterday , but not all the information be provide in this address.can i add it to the package ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cdd989d5-0241-49ff-8629-7743d04c93a2",
+    "data": [
+      {
+        "text": "can i change my email address for this order ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4179f0eb-ad9e-4adc-a4ad-7e16301cc9b7",
+    "data": [
+      {
+        "text": "i order , but i give the wrong email address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b85d56b3-8b19-45b8-8177-f1f8fbaacbf1",
+    "data": [
+      {
+        "text": "can i change the email address of this order ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f796bbbf-4c60-4243-b21e-1eacbfba4bc9",
+    "data": [
+      {
+        "text": "serial number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " i have write the wrong e - mail address incorrectly which i can do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "abb3b00e-0e52-422b-8407-90fc46bc9c20",
+    "data": [
+      {
+        "text": "the order number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " the correct e - mail address for bad e - mail be the order peejay 4150@yahoo.com",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "affdfb3f-7473-4167-b2cd-9330b1a47c58",
+    "data": [
+      {
+        "text": "can i change contact phone number to my delivery ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3bac0316-854e-4988-a198-3645de871f11",
+    "data": [
+      {
+        "text": "i may add the number of my phone with my recommendation ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "911f760a-b13a-4fdc-978d-b5d7cfce4fc6",
+    "data": [
+      {
+        "text": "i can change the pick - up from the store to the moment of delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca876886-82ec-4210-b60d-8e5303ce6196",
+    "data": [
+      {
+        "text": "can i add list for delivery ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9074147d-274b-4034-a479-a71a1feb6cb2",
+    "data": [
+      {
+        "text": "i need to email inbuilt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4eeb8453-ec9e-4b58-93be-5dc0855e7b19",
+    "data": [
+      {
+        "text": "i order some item for domestic delivery.i know that my order have expire , but since then i have register my e - mail address incorrectly , i do not receive an e - mail diagnosis .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2585b8ab-1b86-42ef-80d4-16baeb6d5e07",
+    "data": [
+      {
+        "text": "i give the wrong email order to ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " , should be mspaterson007@gmail.com , thank john",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "801c363f-3d2e-4dbd-85e4-22c751749816",
+    "data": [
+      {
+        "text": "i must add information to my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "59e69592-b972-4fd1-b6e4-cf08d71f0714",
+    "data": [
+      {
+        "text": "i just do the job , miss it and send it to the invoice.can i change the shipping address ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9cb6bca4-6cfa-45ac-9205-436267679cae",
+    "data": [
+      {
+        "text": "i have to send it back",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1ba1b76e-068c-4883-9f3d-f0459844e694",
+    "data": [
+      {
+        "text": "serial number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " i have incorrectly write the wrong e - mail address as to what i can do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad2e7028-e559-4c52-87ae-58f1bd7cdcdf",
+    "data": [
+      {
+        "text": "you need to enter a different number of contact for a shipment .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e51d8863-3b8c-4f65-98f5-6d314b2ad355",
+    "data": [
+      {
+        "text": "please send the email address to serie 6485@hotmail.co.uk.sarahd6485@hotmail.co.uk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88c6b614-a17e-4780-bcb8-beb54aaf6cd0",
+    "data": [
+      {
+        "text": "i order some item for domestic delivery.i know that my order have expire , but since i register my e - mail address incorrectly , i have not receive an e - mail diagnosis .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "692b63ae-f33c-4f39-aac9-26dbb631a163",
+    "data": [
+      {
+        "text": "can i change the phone number of my contact to my delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7c0b21e-87d7-42b4-9fd6-d68513ed00e9",
+    "data": [
+      {
+        "text": "i order some item for domestic delivery.i know my order have expire but i have register my email address incorrectly , so i have not be diagnose by email .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9daf26b2-b910-43eb-8ba6-3271fd762e86",
+    "data": [
+      {
+        "text": "i would like to change the television number associate with my plan .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "86fda2cf-2401-4e31-ab8f-da74a35348b2",
+    "data": [
+      {
+        "text": "i order how to confirm the export message and the export signature alignment export from the export .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "781b3283-07e8-4411-acdf-c1a4e209f2fc",
+    "data": [
+      {
+        "text": "but i want to take home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f311a07-ddb6-43f6-b920-f69887bc2750",
+    "data": [
+      {
+        "text": "i save about 10 hour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41850982-c781-4410-9372-6fb971e86180",
+    "data": [
+      {
+        "text": "i order yesterday , but i miss the mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a3b7f222-886b-4912-9a29-c9bc58534cbe",
+    "data": [
+      {
+        "text": "do i need a second phone number for delivery ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e499c33-2908-4f9b-ad0d-2ee9a03ec2aa",
+    "data": [
+      {
+        "text": "how can i add a phone number to my offer ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0cb2cdd2-f346-4cde-a04a-0e1a6847e323",
+    "data": [
+      {
+        "text": "i order yesterday but not all information be provide to the address.can it be add to the package ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7aeee3c-1f13-4273-af77-2ea6a2d3453b",
+    "data": [
+      {
+        "text": "serial number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " i have incorrectly spell the wrong email address what can i do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff2c3172-e88f-4a51-a94a-a5cdde668280",
+    "data": [
+      {
+        "text": "i type the wrong email for the order ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " , it should be mspaterson007@gmail.com , thank john",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd297e1c-6278-4a38-b9cf-f8032cfa5aec",
+    "data": [
+      {
+        "text": "change the postal code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e716b99-6a0b-45d6-aefe-1f92029f3d25",
+    "data": [
+      {
+        "text": "i need to order inbiddel email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ea476d5-5fbc-4c2b-bbc1-0bfba9462e0a",
+    "data": [
+      {
+        "text": "i would add a phone number to the current delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "efc98d0f-eef1-4583-a5a8-df20798a48b2",
+    "data": [
+      {
+        "text": "can i add my telephone number to my recommendation ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f68944f1-10d9-4417-8f13-3a4ae654412c",
+    "data": [
+      {
+        "text": "i need to change the postal code for delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a5f8232-0104-4eb6-8500-82008c3f7b6e",
+    "data": [
+      {
+        "text": "how do i contact a carrier if i stop transfer ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b594d19-c339-4e97-8eb3-8e6097a3e92d",
+    "data": [
+      {
+        "text": "i\u0026#39;ve place the order order number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " and the email i enter be incorrect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8aed59cf-f354-4263-95d3-eaf5f9c76ae4",
+    "data": [
+      {
+        "text": "add a note of shipping information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4036d96-a244-420a-8bff-30e011eb9b78",
+    "data": [
+      {
+        "text": "do i understand when delivery be near ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8fc283ea-9ea1-4d8f-af3e-036807210688",
+    "data": [
+      {
+        "text": "i would like to add a british phone number to send my contact",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5128d1a3-0fc0-4c84-8bef-4ef466fafcb7",
+    "data": [
+      {
+        "text": "i change my e - mail give in the order make",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7981f6d-a01a-4d87-bb12-23084083206b",
+    "data": [
+      {
+        "text": "i need to add guidance suggestion on my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5bd45956-d85e-4b88-ba94-b1549becffe6",
+    "data": [
+      {
+        "text": "i need to add guidance instruction to my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6b868731-1dea-493e-ad46-e947c9affc35",
+    "data": [
+      {
+        "text": "i need to order inbiddel mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4832cb95-b364-4bf9-b593-9af8015b13a2",
+    "data": [
+      {
+        "text": "i can change the pick up to the store until the moment of delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f10c96fd-3102-4c3c-b820-181d76b73d7a",
+    "data": [
+      {
+        "text": "i just order something that have just be notice in the confirmation email that a line be miss from the delivery address as i can change it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "685c0f42-4689-4b03-887c-ba2186470b5a",
+    "data": [
+      {
+        "text": "i can change the pick - up from the store to the moment of delivery .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b4e7babb-40e9-420a-8880-b4bef0a3f185",
+    "data": [
+      {
+        "text": "i order some item for home delivery.i know my order have expire , but i register my email address incorrectly , so i be not diagnose via email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1629ceb5-ce5c-4344-b466-eedac3ff5162",
+    "data": [
+      {
+        "text": "do i receive a notice when delivery be near ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1cd4ae39-162c-4e48-b989-72a2a9bf89fa",
+    "data": [
+      {
+        "text": "i can change my law",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb300c5f-bc0d-40d7-81a1-1f60e7fbc977",
+    "data": [
+      {
+        "text": "add phone number to current delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "53f81ce7-dee2-4f88-9514-dcfdaf6339ea",
+    "data": [
+      {
+        "text": "i can change the delivery date and location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a184de47-aeac-4203-863f-ed6e1c569db6",
+    "data": [
+      {
+        "text": "i need to change my contact detail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6adddc0-ee7a-487b-b5fe-555883ce2609",
+    "data": [
+      {
+        "text": "i will add a phone number to the current delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e952d3d5-1d18-480e-9a13-10e6588e894d",
+    "data": [
+      {
+        "text": "i change my e - mail specify in the order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f2f39065-a63a-4ac6-8bec-0f7e98d6de5a",
+    "data": [
+      {
+        "text": "i need to add a note to the delivery information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95a5053f-95e0-42c0-97ad-d3210066148b",
+    "data": [
+      {
+        "text": "can i update my new phone number tomorrow ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "143b5166-a26b-49c8-82de-8181ccc1e267",
+    "data": [
+      {
+        "text": "i need a choice to transfer a special item for myself",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c647851-57fb-4cfb-9943-8ad9d8b85368",
+    "data": [
+      {
+        "text": "how can i change the apartment number in my order ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7519e6e-99c1-47e9-8ce3-b49ecd90b664",
+    "data": [
+      {
+        "text": "our mobile phone number be wrong and i have to change it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "620ab347-d06e-468a-a6a2-953d664926e5",
+    "data": [
+      {
+        "text": "i be just employ , attend , and send it to the invoice.can i change the shipping address ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f4cb60c-0f1f-4c9f-99ce-eb787342f229",
+    "data": [
+      {
+        "text": "i want to change my payment method in my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "096017e0-86c6-4265-8ff9-644bdaf83683",
+    "data": [
+      {
+        "text": "i order delivery but give the wrong number phone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7863a6c8-3ee1-4213-9a94-112ca6f78797",
+    "data": [
+      {
+        "text": "i give you an order , but give you an incorrect e - mail address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2f3bc851-94f4-4a38-990a-f607dc3d537a",
+    "data": [
+      {
+        "text": "i send a 25 year old fox delivery on saturday , but i give you the wrong postal code.in fact , dn 12 1 dq .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "93abf7be-4247-4b75-a5ec-5d97cf360021",
+    "data": [
+      {
+        "text": "i be order , but the wrong button be insert",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38c8a9b1-6272-4c2b-8672-ae0c0c1019e2",
+    "data": [
+      {
+        "text": "i have give the wrong email address ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " , please mspaterson007@gmail.com , thank to john",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db21a493-8cd7-457a-8a11-69e94be95101",
+    "data": [
+      {
+        "text": "about 10 hour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00665343-6a34-4a78-b281-de351f60d5a7",
+    "data": [
+      {
+        "text": "can i update a new delivery phone number tomorrow ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "024e6921-b96e-496a-a987-2316b72c93b4",
+    "data": [
+      {
+        "text": "i need an option to transfer certain element",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "90de7ef1-e9d8-4604-a6f6-321b672532d6",
+    "data": [
+      {
+        "text": "we must add information to the request",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ea0ce38-c167-4833-aabd-1912e8db69fd",
+    "data": [
+      {
+        "text": "my number be wrong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "719df52c-8d4f-4237-a750-c1daac08f5a9",
+    "data": [
+      {
+        "text": "you must enter a different number of contact for a shipment .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f8c903da-7849-4adb-ab06-3a9f3d31caf9",
+    "data": [
+      {
+        "text": "can i add note to delivery ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5a4ec72-ecbd-4c00-a8ed-2f4c72b1d4da",
+    "data": [
+      {
+        "text": "how can i change the number of room in my order ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf123c6b-62d3-4250-84d1-fb036a75b692",
+    "data": [
+      {
+        "text": "tna have register an invalid email address ,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26265e9b-4b4a-47d6-960f-a108921b5491",
+    "data": [
+      {
+        "text": "delivery change notification",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4dd870c-f998-4eba-9643-54a6d832d7d5",
+    "data": [
+      {
+        "text": "our delivery lose friday ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6cbcf377-88da-4cb2-8e7e-13592d6ae0c5",
+    "data": [
+      {
+        "text": "serial no ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " i have incorrectly write the email address of the email that i can do .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec3df883-ef58-4f3e-ba05-1a830c3e8683",
+    "data": [
+      {
+        "text": "i order , but the wrong button be insert",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f25a5535-8581-4d24-be22-e22b21c29813",
+    "data": [
+      {
+        "text": "i just place the order , but i give him the wrong email address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f18b005-f56f-4203-b072-824acad60838",
+    "data": [
+      {
+        "text": "i be try to change the email address and the correspond folder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b6cb04b-e0b9-404e-978d-abfd940bb8ed",
+    "data": [
+      {
+        "text": "i have order delivery , but give the wrong number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e22ecb4-9841-459b-b16a-4008fc45f364",
+    "data": [
+      {
+        "text": "i order it yesterday , but not all the information be provide at that address.can i add it to the package ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9aa35ff8-a061-49cd-885a-a02c6019c905",
+    "data": [
+      {
+        "text": "i order that this confirmation message and the miss score be export from the shipping address because i could edit it .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb152291-d9c8-4990-8ddb-07dd4367a803",
+    "data": [
+      {
+        "text": "change zip code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8be36de9-7bd4-4e00-ba9f-8a057e7f3990",
+    "data": [
+      {
+        "text": "how do i contact a courier service if i stop send ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e3acb15-7c1f-4914-b6ff-a7d23d74344c",
+    "data": [
+      {
+        "text": "i give a wrong phone number for the transfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e17ecd04-a56c-4e05-8ef5-6674ab06e006",
+    "data": [
+      {
+        "text": "just send a wrong email address to be send to sarahs6485@hotmail.co.uk if you need to be sarahd6485@hotmail.co.uk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a3b487e-044e-411a-9bc9-38a5ee87ffeb",
+    "data": [
+      {
+        "text": "i ask how to verify the export message and export export from export signature .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b6b8936-8410-42d3-8e42-8a01c502f1d9",
+    "data": [
+      {
+        "text": "i\u0026#39;ve order you , but give an email to you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4417acb4-bc3c-4b14-8cc8-dfe116d4990a",
+    "data": [
+      {
+        "text": "i be save for about 10 hour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec6eb557-db0c-4ca8-865f-cedacf84f491",
+    "data": [
+      {
+        "text": "i want to change the phone number that relate to my offer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "80eae02d-c787-4e5a-94d1-78be1b05b631",
+    "data": [
+      {
+        "text": "i order some item for domestic delivery.i know that the order have expire , but since i register the e - mail address incorrectly , i have not receive any diagnosis by e - mail .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "507f3dc8-2a3e-4045-a310-83e43e1c569b",
+    "data": [
+      {
+        "text": "i order yesterday but all information be not deliver to the address.can it be add to the package ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c71bd81d-5b62-4868-8eea-0f68e0cc29a6",
+    "data": [
+      {
+        "text": "can i add another telephone number to my recommendation ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "702f0da8-bbf5-4be9-80c9-ffac313aa481",
+    "data": [
+      {
+        "text": "there be expect delivery on friday from 7 - 11 on friday , i have to keep my daughter in school so that she can be take to the board if she do not come home from 8.30 am and 9.15 am .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f05f1f1-028d-411f-b921-1dcf0b00714e",
+    "data": [
+      {
+        "text": "i need to change the option to transfer a special item for myself",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f93b5822-9398-4e63-965f-7dc5bdf11ad9",
+    "data": [
+      {
+        "text": "i would like to change the payment of my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e90c673-6660-4665-a88d-3b29b7629e3e",
+    "data": [
+      {
+        "text": "i try to change my email address , but the related open page",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5dff2538-f684-4d6d-af3d-86da5b167986",
+    "data": [
+      {
+        "text": "please send an e - mail address to serie 6485@hotmail.co.uk.sarahd6485@hotmail.co.uk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e75903bb-7286-4b01-8a2a-8c1770d410ae",
+    "data": [
+      {
+        "text": "i order , but the wrong button will be insert",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d72330dd-8238-45f3-95e2-814adc7558b9",
+    "data": [
+      {
+        "text": "i be try to change my email address but the related page will not be open",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a16c5aa-6d30-4207-83cb-f918700841f7",
+    "data": [
+      {
+        "text": "can i update a new phone number for a delivery tomorrow ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "896ea0db-d1d0-40e2-bacd-e142291b5d62",
+    "data": [
+      {
+        "text": "i send the 25 - year - old delivery of a fox on saturday , but i give you the wrong postcode.in fact , dn 12 1 dq",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8987e114-d483-4229-b74f-87b267c3d75a",
+    "data": [
+      {
+        "text": "i place an order , but the wrong button be insert",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7764157d-60fb-4030-aa40-ad96eeccc0d1",
+    "data": [
+      {
+        "text": "we have to add the information to the order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3293603b-325d-47a5-9355-ef64576949b9",
+    "data": [
+      {
+        "text": "how do i contact a courier service if i stop transfer ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c0dbc2c-f68f-408f-9d9c-2cce30265529",
+    "data": [
+      {
+        "text": "may i add listing for delivery ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b318f257-369b-4dee-a3be-1cf21ea71a73",
+    "data": [
+      {
+        "text": "i would like to change the telephone number that be link to my proposal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5509a80-40f2-474c-af1c-ee4997388523",
+    "data": [
+      {
+        "text": "our cell phone number be incorrect and i have to change it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1983ac93-e778-498a-bbd1-8d26952ae5d0",
+    "data": [
+      {
+        "text": "i order yesterday , but i lose the letter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "959e7f9d-9a0b-432e-9b24-efc8bafcc8da",
+    "data": [
+      {
+        "text": "you can add the option of build ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c416165-68fa-4d0b-9449-71dc71204955",
+    "data": [
+      {
+        "text": "can i add note to a delivery ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1cb04b6a-0c42-426d-8499-97490effda9d",
+    "data": [
+      {
+        "text": "we need to add information to the order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68364452-a0ea-45c6-8691-e63c8e4924d5",
+    "data": [
+      {
+        "text": "can i add an alternate telephone number to my order ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9bffbcdb-c2f7-4e43-8e34-d94113e29680",
+    "data": [
+      {
+        "text": "delivery my number be incorrect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e5eec28-6754-4694-b4d1-1def560d831b",
+    "data": [
+      {
+        "text": "our mobile phone number be incorrect and i have to change it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "72516839-ab53-4393-bec9-448d98769777",
+    "data": [
+      {
+        "text": "i\u0026#39;ve order payment method",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77f6cdf3-d79b-4f5b-a43f-493903a19c32",
+    "data": [
+      {
+        "text": "delivery hold my number wrong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d70f9eb1-4eee-49a5-a31c-b4594010660e",
+    "data": [
+      {
+        "text": "i enter the order number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " and it be incorrect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b43d2dd-abd4-4a56-a20b-31f7edc37a8e",
+    "data": [
+      {
+        "text": "change postal code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38cca95d-c30c-4b73-91b7-32084f97f332",
+    "data": [
+      {
+        "text": "i just order , but i give it the wrong email address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa85559a-34d2-4a60-9925-cc5ebb53f2ce",
+    "data": [
+      {
+        "text": "i admire the invitation and want to change the number of contact for my brother because he will be here to get the transfer .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "80d31f2e-74f3-46d3-af54-5a8dd435b51b",
+    "data": [
+      {
+        "text": "the delivery be expect on friday from 7 - 11 on friday , i have to keep my daughter in school so that she can be take to the board , if she do not come home at 8.30 in the morning and 9.15 in the morning .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2fedd2a-6bb4-4850-9ad4-585dbdc7c9b5",
+    "data": [
+      {
+        "text": "i want to change the order payment method",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4b2d03d-f2e3-4e55-bf78-bc4d76f0eab0",
+    "data": [
+      {
+        "text": "i simply fulfill the order and miss it and send it to the invoice.can i change the shipping address ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bcb3fd9f-a276-420f-b990-c7a926edc5de",
+    "data": [
+      {
+        "text": "i want to add a uk phone number to send my contact",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "248a94a6-e043-4886-9c89-2747fb673682",
+    "data": [
+      {
+        "text": "i need inbiddel email order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7217a610-870b-4ff6-a4ad-d7886813f7b5",
+    "data": [
+      {
+        "text": "how do i change the apartment number on my order ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "de62ef00-fb90-44e2-a58a-d98888d7824d",
+    "data": [
+      {
+        "text": "tna regret to the wrong email address with the order i nikkoreä¡iha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "614f7275-7bed-4686-abab-9d2f2ceeccc0",
+    "data": [
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " number of series i write wrong e - mail address that i can do .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "993798f2-9ab8-4b15-a02b-781e95d7079e",
+    "data": [
+      {
+        "text": "send an e - mail to serie 6485@hotmail.co.uk.sarahd6485@hotmail.co.uk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0be74a31-ca51-4fc0-981b-65395d1877fd",
+    "data": [
+      {
+        "text": "notification of change of delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ea12ba4-2a53-4d1c-903e-f648c91662b6",
+    "data": [
+      {
+        "text": "i need an option to transfer a particular item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d9e26d0-827e-436e-8fa6-2167287ca206",
+    "data": [
+      {
+        "text": "you must enter another contact number for a shipment .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "361645b9-dc75-41f4-84e3-2ce8c477f11a",
+    "data": [
+      {
+        "text": "i appreciate the invitation and wish to change the number of contact for my brother because they will be here to be transfer .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0b0ddc71-9094-47b0-a4b8-8d37a84a2eb1",
+    "data": [
+      {
+        "text": "add a note to the shipping information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7511266a-dca2-47e4-8cb0-caa30f8ab925",
+    "data": [
+      {
+        "text": "i have to change my money",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b2d3fb0-c39f-4c5c-9cac-12bf3426c552",
+    "data": [
+      {
+        "text": "delivery change notice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fcffd303-9b8c-4d1d-94a5-9e504e7874a5",
+    "data": [
+      {
+        "text": "i have just place an order at ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " , but by enter the wrong e - mail address on the guest seawalk , i be wonder if it could be responsible for my account .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad3a242e-9c51-43ca-9eb9-a82d753fb42a",
+    "data": [
+      {
+        "text": "i can change the pick - up in the store until delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4292065c-ba01-4871-b77a-1840ea73f9a4",
+    "data": [
+      {
+        "text": "i order a delivery , but i give the wrong number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f539f29f-4a9b-443f-8ca3-4ae645e64b8d",
+    "data": [
+      {
+        "text": "i just place an order and mistakenly deliver it to my billing address.can i change the delivery address ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "248a0950-d205-4a09-8276-3ca1cc74e2ce",
+    "data": [
+      {
+        "text": "i appreciate the invitation and i change the number of contact for my sister to be here to be transfer .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "86cba2b1-7a9e-4838-8d23-b5b583346873",
+    "data": [
+      {
+        "text": "you must enter a different contact number for a shipment .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "48a95a85-4a65-4a71-9eaa-4a21798b0e30",
+    "data": [
+      {
+        "text": "the order number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " the correct e - mail address for the wrong e - mail be the order peejay 4150@yahoo.com",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70f26f21-d867-491e-8503-d8b16f2e8508",
+    "data": [
+      {
+        "text": "i have to change the transfer and the graph",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e35d9f41-52a7-4b23-99fa-5386f3f8c3f4",
+    "data": [
+      {
+        "text": "need a second phone number for shipping ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4bd8fbcb-6627-4c6f-8882-6f17a34c0089",
+    "data": [
+      {
+        "text": "there i expect delivery on friday 7 - 11 until friday , should i keep my daughter at school , so she can be take aboard if she be not at home between 8.30 and 9.15 .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35091db5-402e-4eb1-8ead-c561d77c9a20",
+    "data": [
+      {
+        "text": "but i want a home delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7ad887c-5e27-4cff-9bc3-043ff19e6690",
+    "data": [
+      {
+        "text": "i would like to change the phone number associate with my proposal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f4763819-6c26-4d17-85f5-5edb649959ce",
+    "data": [
+      {
+        "text": "the order number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " the correct email address for the wrong email be the order peejay 4150@yahoo.com",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9d4e60c-09b7-46a8-a570-2d39a718b660",
+    "data": [
+      {
+        "text": "i have a command to transfer if i have a wrong phone number i can change please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62347b3b-ba30-4197-b5fe-dc0dd2632b43",
+    "data": [
+      {
+        "text": "i inbiddel the order of payment method",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee247fbc-1e1e-42cf-b4bf-b3ff5f9fe6b8",
+    "data": [
+      {
+        "text": "i want to change the transfer and the graph",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26f85d2c-1db1-4cba-b9e0-eccda3bd74fe",
+    "data": [
+      {
+        "text": "i can change the availability from the store until the transfer date .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ecf451b-b3cb-4597-9006-0c4ade6c9fd1",
+    "data": [
+      {
+        "text": "i try to change my email address but the correspond open page",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f76b09dc-d778-4e90-a82e-d6e6552919f3",
+    "data": [
+      {
+        "text": "i want to change the payment method of my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d7074daa-59a5-402d-8fdd-3d97a37844cd",
+    "data": [
+      {
+        "text": "how to change the shipping address of an order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "19adad6f-1f57-49d1-b6a6-b839f558fdc4",
+    "data": [
+      {
+        "text": "the order number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " the correct e - mail address in order bad email be the order peejay 4150@yahoo.com",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "286d2685-e756-4aa8-9928-357f75a47c17",
+    "data": [
+      {
+        "text": "tna have enter the wrong email address ,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28c36ff9-1b7f-4d9c-9088-c16867ec0030",
+    "data": [
+      {
+        "text": "i give the wrong email address number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " , please mspaterson007@gmail.com , thank to john",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c3a7e06f-af8c-4327-ba7a-bc34eaada1ca",
+    "data": [
+      {
+        "text": "can i understand when delivery be near ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68a964bc-3dfd-470f-ae76-aa6739b50423",
+    "data": [
+      {
+        "text": "can i change the email address of this request ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "609af183-fc7f-41b5-a1fb-13cac97f62fd",
+    "data": [
+      {
+        "text": "i have just order a few item for home delivery.i know my order have expire , but i enter my email address incorrectly , so i do not receive confirmation by email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95a074cf-7f60-4908-872c-af38bbdbdcee",
+    "data": [
+      {
+        "text": "i reserve delivery on saturday for 25 fox crescent , but i give you the wrong postal code it be actually dn 12 1 dq",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf8b9c33-9396-46b0-a640-6b2df7a34854",
+    "data": [
+      {
+        "text": "more about 10 hour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26b34517-01b2-45c9-98f5-2ccbf062816e",
+    "data": [
+      {
+        "text": "i just order something that have just be notice in the confirmation email that a line be miss from the shipping address because i can edit it .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8bce0b72-1ccc-418c-90b3-15639e94099b",
+    "data": [
+      {
+        "text": "add a note to the delivery information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c61f244-ffdf-4768-b6f8-f19999c02518",
+    "data": [
+      {
+        "text": "i be try to change my email address , but the related page do not open",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "93be7018-0e09-47e2-bc57-ec8078c5c801",
+    "data": [
+      {
+        "text": "i need to change the delivery option of a particular item to pick up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca2a271f-ecc0-4607-ac29-93ea21b96573",
+    "data": [
+      {
+        "text": "i just place an order early ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " but in enter the wrong email address at guest cehckout i be wonder if this could be assign to my account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "93fdcf0d-f18f-4fb7-ae07-a7d2b02f25e6",
+    "data": [
+      {
+        "text": "i can change delivery date and location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d8a73e4c-d7fb-44aa-a4d2-ece0bb614956",
+    "data": [
+      {
+        "text": "must enter another contact number for a shipment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "afb9f8f5-6216-4917-a142-8a6a6ba4c70c",
+    "data": [
+      {
+        "text": "how do i change the apartment number in my order ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c062ec1-a504-40b7-9850-877f09cebae9",
+    "data": [
+      {
+        "text": "i order the delivery , but i give the wrong number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f92620fb-2769-4837-8b93-88433376ae13",
+    "data": [
+      {
+        "text": "we need to add information to the application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5309f605-f024-47f5-8474-2f8d7c16a11b",
+    "data": [
+      {
+        "text": "i order delivery , but i give the wrong number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67b3556f-8d33-4e6b-908f-c03c34c4b273",
+    "data": [
+      {
+        "text": "i need an option to transfer certain item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b683a0e-0228-4cd8-9bec-402d67a877f9",
+    "data": [
+      {
+        "text": "i have a command to transfer if i can make a wrong phone number please please change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd8289cf-bf31-4f5d-8caa-5bfd11a811e7",
+    "data": [
+      {
+        "text": "i need to email inbiddel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15016cdf-58f4-43f0-88c7-a894fd9d4714",
+    "data": [
+      {
+        "text": "i ship the delivery of the 25th year old fox on saturday , but i\u0026#39;ve give you the wrong postal code.in fact , dn 12 1 dq",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f2a830c-38aa-418e-9a87-3e21a3d1d398",
+    "data": [
+      {
+        "text": "you can add the build option ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "29a35a3f-a045-4d26-8cc5-fc597e2a9804",
+    "data": [
+      {
+        "text": "delivery be expect on friday from 7 to 11 friday , i have to keep my daughter at school so she can be transfer to the board if she do not return home at 8.30am and 9.15am .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9daf114-2dbc-4b2b-8042-6ea882fee987",
+    "data": [
+      {
+        "text": "there i expect the delivery ts friday 7 - 11 through friday , i need to put my daughter in school , so it can be take on board if it be not home between 8.30 - 9.15 .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbce3738-4316-4b87-acfa-375636935e00",
+    "data": [
+      {
+        "text": "i can change the delivery date and place",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4118933b-9ee2-4d34-a503-2202f3aa983e",
+    "data": [
+      {
+        "text": "the mobile phone number in our order be incorrect and i have to change it please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02fe1f98-c6c6-4497-9127-453461f1cfe5",
+    "data": [
+      {
+        "text": "if i can make an incorrect phone number , i have a transfer order , so please change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d1d59f8a-8955-44bb-b0ec-4b3a14471894",
+    "data": [
+      {
+        "text": "i need to change the postcode on my delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9270b232-751b-4756-852e-68ba3d07c9a6",
+    "data": [
+      {
+        "text": "i order that the confirmation message and the transmit sign - in signature transfer the export from the export as i can .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38a637c3-229c-4080-9f16-0154b86cf6c3",
+    "data": [
+      {
+        "text": "i want to change my order payment method",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30d33200-ddf6-47cd-82dd-b2648c72764e",
+    "data": [
+      {
+        "text": "i order , but the wrong zipper be insert",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "48e6d4f5-8ab2-459b-a8a0-6ee4dd9979c5",
+    "data": [
+      {
+        "text": "i just place the order , but give the wrong e - mail address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c48a4e51-3147-4179-b93a-8c6768fe9d0c",
+    "data": [
+      {
+        "text": "how can i contact the driver if i cancel delivery ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc23593d-5dba-40b2-92ad-12ff19af0a16",
+    "data": [
+      {
+        "text": "the collection point be wrong.how do i change it ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "741081ba-30f1-480e-acc4-44dd8c46e868",
+    "data": [
+      {
+        "text": "can i update tomorrow\u0026#39;s new phone number ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57299946-8e27-44f9-b52d-5ff0192599ad",
+    "data": [
+      {
+        "text": "i need to enter a different contact number for a delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f148740a-1063-4d0a-aaae-9e7b7ee081ac",
+    "data": [
+      {
+        "text": "i have order delivery but i have give the wrong phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c91259d6-c3d8-436f-9c69-62bb740a71fb",
+    "data": [
+      {
+        "text": "our mobile number be wrong and i have to change it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a0f8395f-b785-4ed9-b488-9e8c6fa3a2d6",
+    "data": [
+      {
+        "text": "lose our delivery friday ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

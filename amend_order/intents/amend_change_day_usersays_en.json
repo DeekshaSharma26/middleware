@@ -1,0 +1,6092 @@
+[
+  {
+    "id": "ef0a508a-dca6-4533-88a7-31c7ec2b90ab",
+    "data": [
+      {
+        "text": "i would like to change my pick up date to this evening",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18ea9024-b7c1-43ab-ab0b-f8ce11d9dc6c",
+    "data": [
+      {
+        "text": "be i able to specify a date for a delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f78f5c8-8925-4dfa-99df-bb415deaa8e7",
+    "data": [
+      {
+        "text": "could you advise on how i would be able to change to a day later even",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "96cf8851-ff1b-4de3-92b7-8a9caa9fbde2",
+    "data": [
+      {
+        "text": "i have already order ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " and my delivery date be no longer suitable can i change it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dfe121f0-0f33-4bec-b4aa-8fc964881995",
+    "data": [
+      {
+        "text": "i have already pay and have a delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "09b42cd5-17a0-4658-92a6-08d1dc809736",
+    "data": [
+      {
+        "text": "be there anyway i can express delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d8d94bfe-d44e-4557-b993-f73beb0f18a3",
+    "data": [
+      {
+        "text": "i be a bit confused about my order i purchase a chest of drawer in the week and receive a text to say it be ready for collection today however on the confirmation email it state it would be deleiver tomorrow between 7 and 7 i be just wonder if ts will be deleiver tomorrow or if i need to pick it up today as now it be to late as i presume the pick up be for tomorrow",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10bb77a1-1085-4b5d-a117-c5b1bf532988",
+    "data": [
+      {
+        "text": "if i book an ikea delivery can i change the delivery until later",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5164deff-ad69-42aa-9d9a-f4eff0f054c5",
+    "data": [
+      {
+        "text": "book saturday delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40d12275-63b8-4f42-b8c9-899e1536e9a9",
+    "data": [
+      {
+        "text": "i book the deli ery for 7 - 11 be not 14.00 i be at work and can not recieve the good then",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "302f76eb-eea0-49ec-8199-e0ee08a3f2f4",
+    "data": [
+      {
+        "text": "can i add to a delivery date the 03 / 06",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "175fa498-211a-42bd-9518-fa6d1a8f2e7a",
+    "data": [
+      {
+        "text": "can i add to an order due for delivery saturday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f72ba0d6-b5b2-4246-819e-480db034c8d0",
+    "data": [
+      {
+        "text": "can i add something to a delivery schedule for wednesday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2922b5ba-0f41-4f05-8003-6f6bfc3114bb",
+    "data": [
+      {
+        "text": "and can i also have something deliver to my area this sunday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c66e82dc-4c2d-48fd-8827-7ba0ef0ce018",
+    "data": [
+      {
+        "text": "can we arrange delivery for tomorrow",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5babdb04-0a25-4207-8670-f58b18774ecb",
+    "data": [
+      {
+        "text": "can i ask for different delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6bff56c1-ff39-4552-922c-5cc9785fd4ca",
+    "data": [
+      {
+        "text": "can i change the date for ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " be instal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "820703b9-d279-4491-ba19-de72a1ccc504",
+    "data": [
+      {
+        "text": "  can i change the delivery datum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb9df360-745e-4acc-b9fa-9649a3892d7b",
+    "data": [
+      {
+        "text": "can i change delivery date for the 7 / 07 for order nr977529662",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "93a8b9c6-220c-489c-ba2f-09b77a49f1ad",
+    "data": [
+      {
+        "text": "can i change my delivery date item have be dispatch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "936d4b5f-bdf2-4b08-a71b-aedc341892e3",
+    "data": [
+      {
+        "text": "can i change a delivery date on an order that be be place today",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "daef34e7-44ff-4289-a77f-83117931aac6",
+    "data": [
+      {
+        "text": "can i change my delivery date from sunday to monday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "093b38f1-9c0b-4d4a-a335-4402d39af537",
+    "data": [
+      {
+        "text": "can i change a delivery that be tomorrow",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fec59b7e-3b74-4999-812d-fe3a9f862a7d",
+    "data": [
+      {
+        "text": "can i choose a date for the driver to deliver item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d69fe0f2-394e-49ad-a4e1-2c45aa712cb2",
+    "data": [
+      {
+        "text": "can you choose a delivery day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff287cdb-a05a-4c69-901f-fc9de6489875",
+    "data": [
+      {
+        "text": "can we choose what day item get deliver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d4006c9-e885-4010-8cfd-c77f19401507",
+    "data": [
+      {
+        "text": "can i choose when you deliver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f6ee0b7-397a-428e-bc62-d077c0e66386",
+    "data": [
+      {
+        "text": "can i choose which date you deliver a truck delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d05aae12-a917-4dfc-9f17-5aaf502d5f86",
+    "data": [
+      {
+        "text": "can i choose which day something will be deliver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ac84155-96b0-4910-a452-40c83fbd237c",
+    "data": [
+      {
+        "text": "can i choose a day for delivery as i want it deliver to work and the office be close on a saturday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3be02972-c557-4e85-8e3f-f207db72bd1b",
+    "data": [
+      {
+        "text": "can i decide which day the delivery will happen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2a4b1bdd-a698-4b74-a4f2-22254f6d9fd0",
+    "data": [
+      {
+        "text": "can i delay a delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba953844-25b4-4a7e-a268-5e72442e7a8b",
+    "data": [
+      {
+        "text": "can you deliver to ",
+        "userDefined": false
+      },
+      {
+        "text": "postcode",
+        "meta": "@postcode",
+        "alias": "postcode",
+        "userDefined": true
+      },
+      {
+        "text": " on wednesday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d775b3a-e9de-4178-8fe8-bd3a13207ef2",
+    "data": [
+      {
+        "text": "can you deliver to york on thursday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "29a38fae-0d52-4d70-b72c-5f75881038c9",
+    "data": [
+      {
+        "text": "can my delivery come on friday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5cb9a346-bd77-475b-8487-fb5c56911bbd",
+    "data": [
+      {
+        "text": "can the delivery date be change please to a friday 6th july please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bfc7dfc3-b1c7-4973-9f37-a1a3d86f9abe",
+    "data": [
+      {
+        "text": "can i get an item deliver on a different date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8183a582-86d4-486d-ac90-a9c8de681e6a",
+    "data": [
+      {
+        "text": "can i get a saturday delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "711ff0c9-8e43-4d22-859c-904a5110b379",
+    "data": [
+      {
+        "text": "can i have item deliver on a specific day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "de676476-97c9-41d0-a796-c6fa9ca4b80c",
+    "data": [
+      {
+        "text": "can you parcel delivery on a specific day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f39d27e-3115-4025-95fa-daef8fa67f9f",
+    "data": [
+      {
+        "text": "can i pay ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " and get them deliver to that postcode by wednesday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35f7a119-c11f-472d-bbc2-742f4432c55e",
+    "data": [
+      {
+        "text": "can i pick my delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6abfa81f-2455-47d8-af1b-ac0601263d32",
+    "data": [
+      {
+        "text": "can i place an order but delay the delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c236df0-8fb3-4353-8d94-7407ca2210db",
+    "data": [
+      {
+        "text": "can i postpone a delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ee69279-2e28-4594-bdd4-07a5ca655ef3",
+    "data": [
+      {
+        "text": "can i rearrange my delivery date please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7345eed6-15af-43b1-ab6f-8726fa3d56e1",
+    "data": [
+      {
+        "text": "can i rearrange my delivery day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "373af6b2-5614-485e-8b14-11c68c56004f",
+    "data": [
+      {
+        "text": "can i request next day delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "afe55499-a2cc-48df-bc6f-41a9cc390e18",
+    "data": [
+      {
+        "text": "can i reschedule my delivery through here",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8c481e8-74d1-47ad-93a8-8370b6e46653",
+    "data": [
+      {
+        "text": "can i reschedule the delivery place in store",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71fea572-b5e9-4e63-b916-5d2d31222414",
+    "data": [
+      {
+        "text": "can i reschedule order ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3384a63f-cb42-4929-b428-b23428f357aa",
+    "data": [
+      {
+        "text": "  can i reschedule my truck delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81b3e9e3-e7b6-46cc-8f18-9b88d8227142",
+    "data": [
+      {
+        "text": "can i ring to arrange a different delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a97c159c-5840-48ad-9a2c-c0a1879e2b98",
+    "data": [
+      {
+        "text": "can i select my own delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "285429ba-0eb8-4988-85d6-a9faddfd76b0",
+    "data": [
+      {
+        "text": "can i select a different delivery day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8741075-3c8d-46e7-b02e-a66a0e675cae",
+    "data": [
+      {
+        "text": "can i select which day the item be deliver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a99316b5-cca8-4dce-9ef6-1e3234eca8e0",
+    "data": [
+      {
+        "text": "can i set a delivery date in advance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2bdc2b7-10fa-488e-86d7-c2ce93f6c166",
+    "data": [
+      {
+        "text": "can i specify a certain day for delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5dc73c8f-663c-412a-bd6d-ad4a0c3ac170",
+    "data": [
+      {
+        "text": "can i specify a delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6785476-4331-4b48-9241-5baaa1eecaf0",
+    "data": [
+      {
+        "text": "can i have a truck delivery on saturday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47db49a4-0988-4178-b1ca-fd8e29365c74",
+    "data": [
+      {
+        "text": "be there any chance i can change my delivery date until the next day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "827869c2-5fa9-4488-8eb3-4d8558654607",
+    "data": [
+      {
+        "text": "i would like to change the day of delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "93c3dd05-b7b1-4ce5-bdfc-b97c97a37fc4",
+    "data": [
+      {
+        "text": "i would like to change my delivery date can you assist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "587075bc-aa82-44ad-ae9d-b932ea8eefdf",
+    "data": [
+      {
+        "text": "i would like to change my delivery date that be due next tuesday to a different day please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95bf30e2-4687-4fe2-b312-284557d85bc8",
+    "data": [
+      {
+        "text": "i would like to change the delivery date for the good i order at ikea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3372412b-36af-4b42-9136-feb0e44ce5f1",
+    "data": [
+      {
+        "text": "i would like to change the delivery date of my ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "de1b1181-6d0d-4829-9216-41e477ed926a",
+    "data": [
+      {
+        "text": "change delivery date to monday 9th july",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8717881e-0748-454e-9dbf-26eb9b192eda",
+    "data": [
+      {
+        "text": "i would like to change my delivery date for an order i place 10 minute ago   order number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66bb6d49-17e1-40ac-84cb-80611b173c42",
+    "data": [
+      {
+        "text": "i would like to change the delivery date of an order request it be deliver to a safe place",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a730306-3830-4706-af5e-c447030e73a7",
+    "data": [
+      {
+        "text": "  i would like to change the delivery of my order no ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " to tuesday between 11 - 3pm please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "663e6178-ea85-4b73-9542-f325274c37d1",
+    "data": [
+      {
+        "text": "could i change my delivery time tomorrow",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a3ccb920-9a0f-4c54-b26d-fc3acb4056d2",
+    "data": [
+      {
+        "text": "  i would like to change the due delivery date i have as no - one will be here to take delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9b4f231-9411-4b3d-8ee4-e4b89656ce98",
+    "data": [
+      {
+        "text": "change parcel date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ccdfe85d-83a3-42d8-81d6-9296fdbf55e6",
+    "data": [
+      {
+        "text": "change parcelforce delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6021b57c-86f3-4468-9c96-ad946ecdbb72",
+    "data": [
+      {
+        "text": "i would like to change my pick up date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ed6dce8-8477-4fd9-943e-2393c5fc8c30",
+    "data": [
+      {
+        "text": "change delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6461a48a-15ae-43ef-930c-a7543b0b3870",
+    "data": [
+      {
+        "text": "i would like to choose my delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d149089a-6cf1-4116-b961-e927ba65c43e",
+    "data": [
+      {
+        "text": "choose a truck delivery day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc384324-8bdf-4a7f-ab59-2097119a55b9",
+    "data": [
+      {
+        "text": "date of my delivery be change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "348503f8-c67f-4188-a774-a641a2ab5dbd",
+    "data": [
+      {
+        "text": "i delay my delivery date by at least another week",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c28d874-7335-4851-a989-58c047d0c5a9",
+    "data": [
+      {
+        "text": "i have a delievery tomorrow i book between 11 3 as i would not be here any over time i have jyst receive a message say the delievery be now ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " to be between 9 - 10 i be sorry but no one will be here for that time and it have cost me 35 pound already for the delievery can you please advise on how to resolve the problem pleadse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4eda194-538d-4f6d-a64b-51970d50e84b",
+    "data": [
+      {
+        "text": "  i have a deliver schedule for sunday morning but unfortunately i be unavailable to receive delivery at this time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c41b51f-a048-4484-a25d-a1b8c5f81322",
+    "data": [
+      {
+        "text": "i have a delivery arrive thursday this week   can i change it to friday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d7d40b6-8783-48fc-9ea9-6f7fe80f9d7a",
+    "data": [
+      {
+        "text": "  i have a delivery book for today but would like to change it to tuesday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4be29e9-b680-481c-aefb-f4bf7404111a",
+    "data": [
+      {
+        "text": "i have a delivery come friday and i need to change it to saturday ",
+        "userDefined": false
+      },
+      {
+        "text": "postcode",
+        "meta": "@postcode",
+        "alias": "postcode",
+        "userDefined": true
+      },
+      {
+        "text": " july",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "201ce8e5-5fe3-4c95-a09c-342b1f551b96",
+    "data": [
+      {
+        "text": "i have a delivery come friday i want to know if i can add to it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bee9afa4-16f7-4665-a145-8030e1c3f939",
+    "data": [
+      {
+        "text": "my delivery date be the 29th",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f42a819-3640-4d0f-b927-d80a42e61cec",
+    "data": [
+      {
+        "text": "i have be a delivery date of 30 june and would like to change that date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65c286c0-d826-419e-8e53-ff48eed7816e",
+    "data": [
+      {
+        "text": "my delivery date have change to a day i be not in can i change it to another day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f596b0c-00eb-4951-980d-17c0c61843dc",
+    "data": [
+      {
+        "text": "my delivery date have be change by ikea and i can not be in in that date can it be change to sometng else",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0664843-5d2b-4eec-9518-0896f1fa7b09",
+    "data": [
+      {
+        "text": "delivery date not convenient can i change it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2880908a-a951-46d4-919e-60f69680ffd4",
+    "data": [
+      {
+        "text": "the delivery date be show as yesterday but have not be receive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac760bdb-53f7-42c6-8123-ae297d9e27c4",
+    "data": [
+      {
+        "text": "delivery be due this saturday 10 - 2pm and i want to amend if possible",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c65d3034-756c-46ab-839f-c2f3205e3cd7",
+    "data": [
+      {
+        "text": "i have a delivery due tomorrow be it to late to change it to the follow day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10d302fb-9704-4149-9341-d44e3e8449f4",
+    "data": [
+      {
+        "text": "i have a delivery due tomorrow but i want to move the delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c3526869-94fd-4a4c-bcbe-c183da8ae638",
+    "data": [
+      {
+        "text": "i have a delivery from ikea due on ",
+        "userDefined": false
+      },
+      {
+        "text": "postcode",
+        "meta": "@postcode",
+        "alias": "postcode",
+        "userDefined": true
+      },
+      {
+        "text": " and be want to change it for a different later date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2f8a7a0c-bdc7-40a9-96ec-01c1a11641ff",
+    "data": [
+      {
+        "text": "i have a delivery parcel and truck schedule for monday and now i can not make that be there anyway i can change it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f60bc8f-07cf-4d06-948a-2767cba96904",
+    "data": [
+      {
+        "text": "i have a delivery plan for tomorrow morning and would like to know if i can reschedule",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "496cabc8-c5b6-4dd4-97c1-e1d56e977ae3",
+    "data": [
+      {
+        "text": "the delivery be rearrange",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c7e7f5b-0eb0-4e9e-b068-27334911bee7",
+    "data": [
+      {
+        "text": "  i have a delivery schedule for saturday 7th july but i be not avila me to take the delivery   can i change the date please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c44ac4d5-340a-494a-abf8-0d13850a2c84",
+    "data": [
+      {
+        "text": "i have a delivery set for this saturday but it be a work address so noone will be here hop to change it to monday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82ca1f0c-355c-4e6e-b943-44de4d2ebf57",
+    "data": [
+      {
+        "text": "delivery on sunday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf0e1c12-a4b7-4b85-a4c0-34096faa3bb4",
+    "data": [
+      {
+        "text": "we be have a delivery today between 11 - 3 however school have just phone and my daughter be unwell we have get gp appointment at 10.40 so may not be at home at 11 sorry purse number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b944858-d690-4388-bce3-c10b3fb123dc",
+    "data": [
+      {
+        "text": "i be expect a delivery on friday and wonder if i can change that to monday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2ee793eb-9145-4b67-8874-e4f9e8effe56",
+    "data": [
+      {
+        "text": "how can i arrange re - delivery for an item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4340c68f-0e8a-46ce-b738-e770234d447b",
+    "data": [
+      {
+        "text": "how can i change my collection date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ef19641-152b-433e-89f6-ab75f19e2c41",
+    "data": [
+      {
+        "text": "how can we change the delivery date of our parcel to match the delivery day of the truck",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f6cfa8f-1fb4-4ebd-bd1a-717cc2bffe62",
+    "data": [
+      {
+        "text": "how can i change my delivery date to a specific date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c627213-a680-4b4f-ab2c-08cf958dfef8",
+    "data": [
+      {
+        "text": "how can i change my order day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b2a6a23-992b-4dfe-8b04-22c6456c5fe8",
+    "data": [
+      {
+        "text": "how can i have ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " deliver at a later date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0894d2ff-8753-4e97-8049-39fac734cd02",
+    "data": [
+      {
+        "text": "i would like next day delivery be that possible if i pay extra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "360fd72d-0561-4a1b-9c0b-fa3d652d31a5",
+    "data": [
+      {
+        "text": "ikea we have get a delivery book for friday   i have take a day off work to be at home when it be deliver however i have just receive a text to say they have change the date to thursday when we will not be about can i get it change back to friday please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2f02c703-12d8-4eca-ad66-cc2af5ba26f8",
+    "data": [
+      {
+        "text": "  my ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " be due for delivery on ",
+        "userDefined": false
+      },
+      {
+        "text": "postcode",
+        "meta": "@postcode",
+        "alias": "postcode",
+        "userDefined": true
+      },
+      {
+        "text": " can i push ts back to the 13th or 14th",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "343d5eed-977a-4f1b-8c16-57cfd5eaea5c",
+    "data": [
+      {
+        "text": "be it too late to add to an exist order due for delivery on monday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27123e56-3303-4321-bfd8-24b8b02e14d0",
+    "data": [
+      {
+        "text": "i be look to move my delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9f6a24d-9888-415b-81d5-958428008214",
+    "data": [
+      {
+        "text": "i be look to possibly change the truck delivery date of my item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6faaa5cd-a634-4643-8fe7-d64ccf75adca",
+    "data": [
+      {
+        "text": "i make a mistake about delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df0c1778-a825-4c9d-bd61-96816b82cacf",
+    "data": [
+      {
+        "text": "i make an ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " order and want to expedite the delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c08100f-819a-4ad3-82c3-52ab61c3673c",
+    "data": [
+      {
+        "text": "i have make an order but select the wrong delivery date how can i get this change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b52f8f8c-f223-456a-abf1-e00c42dec057",
+    "data": [
+      {
+        "text": "i make an order and be tell that it would be arrive on 30 june   have now just receive another email say it will be 03 july i do not change it and have arrange to be home on the 30th to receive the delivery   can you change it back",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5db4883e-3a80-48f5-85fb-c5eec345ca0e",
+    "data": [
+      {
+        "text": "my ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " delivery date have be change to a date when i be not in",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f386fc35-2526-4e2e-a154-b52571a5b833",
+    "data": [
+      {
+        "text": "may i add item to an order place last monday july 3 and be schedule for delivery on july 7th",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70ebab49-5af8-4b77-a37f-4cda4606d337",
+    "data": [
+      {
+        "text": "do this mean i can not change the date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "96c8aa76-7179-4db8-9ca9-1f0636b75fb7",
+    "data": [
+      {
+        "text": "i miss delivery yesterday can we arrange delivery end of the week",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c3ffe404-f9b8-4901-89bf-92fda0de1ec1",
+    "data": [
+      {
+        "text": "good morning if i order some bookshelf today can i have next day delivery it be to ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "postcode",
+        "meta": "@postcode",
+        "alias": "postcode",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aaa59c89-af2d-44c3-ac3b-d121c042f893",
+    "data": [
+      {
+        "text": "move parcel delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d46be449-5e58-4c1f-b3c3-af50f5b88072",
+    "data": [
+      {
+        "text": "i need to change delivery date as i be away on holiday till 18th july",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9fe4702-33f7-4053-8b8e-feec7b8d1d52",
+    "data": [
+      {
+        "text": "i will need to change the delivery date to a day in the week",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49ccdbf2-56d3-4cb4-80ab-fc4ea3710098",
+    "data": [
+      {
+        "text": "i need to change the delivery date of my order as no one will be here to accept it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77650342-4909-4142-8593-8897c4e3d0e3",
+    "data": [
+      {
+        "text": "  i need to change the delivery day for my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d46b69e8-6628-49b7-bf57-32f70e41c53f",
+    "data": [
+      {
+        "text": "i need to change my delivery option on an ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1929853-f03f-431a-8ca2-34dbb02b8049",
+    "data": [
+      {
+        "text": "i need to change my delivery but the store be not answer my call",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17070950-98a1-4872-8354-7b2c066a084d",
+    "data": [
+      {
+        "text": "i need a delivery on a specific day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "29089b80-ab93-41c9-8e83-a8c0796d6ba7",
+    "data": [
+      {
+        "text": "i need help reschedule my delivery asap",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "560a3156-fe82-4279-9f93-e742e3933013",
+    "data": [
+      {
+        "text": "i need to have home delivery on 18th afternoon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6bbaadfc-21c4-408c-a675-1d2201865909",
+    "data": [
+      {
+        "text": "i need to move the delivery for my order ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a7111bb-3607-4f9a-9510-60c8471b6902",
+    "data": [
+      {
+        "text": "i need a re - delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d2d42b9-d33b-4c25-b34a-f861da001d3d",
+    "data": [
+      {
+        "text": "no i need to rearrange a miss delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82c7b910-94d6-4f5a-8a03-cc0ee8715676",
+    "data": [
+      {
+        "text": "i need to reschedule delivery for order ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " chloe hamilton 309 craig road ",
+        "userDefined": false
+      },
+      {
+        "text": "postcode",
+        "meta": "@postcode",
+        "alias": "postcode",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5311183-6c84-43ff-ab45-6ac8f8bd248a",
+    "data": [
+      {
+        "text": "i need to reschedule a miss delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a19f4fb-0e77-4fc1-9da1-aa71a7932141",
+    "data": [
+      {
+        "text": "i need a delivery to be book in 15 th august",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36cff466-6474-4ff3-8704-f7a766050271",
+    "data": [
+      {
+        "text": "no i be about to buy a ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " system and i want it deliver on a specific day rather then the allocate day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38436dde-37b0-4b56-a64d-84f0493354a8",
+    "data": [
+      {
+        "text": "you do not answer if i could change my delivery day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b5d0777-251a-4a3f-8190-c7f428811858",
+    "data": [
+      {
+        "text": "i be not in on the day my order be be deliver   can i change the date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a137bc01-2fad-4902-98c4-f01b28bbe84d",
+    "data": [
+      {
+        "text": "i be not ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " to be in to receive the delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4423a2c-8321-4f7a-b7de-a2124ed2c1dc",
+    "data": [
+      {
+        "text": "i have not order and will not until i know it can be deliver when i want",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "042b12f1-65ff-46c1-8ebf-171c8afbd4d4",
+    "data": [
+      {
+        "text": "there i have an oder be deliver on friday morning and i wonder if i could change the delivery day to saturday instead order number be ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " many thank",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b2e6d1d-486c-4c4a-a5d7-f31a6a0a2b70",
+    "data": [
+      {
+        "text": "i have be offer a sunday delivery but we be a business so need to change the date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "96e7739b-4162-4c61-8ddb-d1a72bc532a4",
+    "data": [
+      {
+        "text": "  my ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " order be schedule for 20th june and it still have not leave the hub",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d98c75c-6854-4f3e-97b4-c9a048777157",
+    "data": [
+      {
+        "text": "i would like to order a ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " but i have be give a delivery date of 30 june can i get this sooner and how to i change the date ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e23fa78-3d9f-4c53-82a8-7a078ece4472",
+    "data": [
+      {
+        "text": "my order be come tomorrow be it possible to change it to become monday ",
+        "userDefined": false
+      },
+      {
+        "text": "postcode",
+        "meta": "@postcode",
+        "alias": "postcode",
+        "userDefined": true
+      },
+      {
+        "text": " july",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b948449c-0bf7-4fb2-8dbc-a0badb23bae1",
+    "data": [
+      {
+        "text": "have an order create 30 / 06 would like to change delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15d29eea-3f22-4dae-9a86-b6e64c50735d",
+    "data": [
+      {
+        "text": "i have an order due to be dispatch tomorrow but can i change the day if so how do i ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " about it thank",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fdc13c3a-065a-4d48-ba93-60da328ca04e",
+    "data": [
+      {
+        "text": "  my order be expect to be deliver on june 22nd 2018 it still have not be deliver and i would like to schedule a delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4caf0fb-5c6a-4301-b3d1-416f3dba21d5",
+    "data": [
+      {
+        "text": "  i be about to order ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " however it will not let me change the delivery date   how do i do this",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c20bd931-153f-4b33-b863-ddd1863c55aa",
+    "data": [
+      {
+        "text": "order number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " order date 29 - 06 - 2018 13 : 50 could i ask to move the delivery from ",
+        "userDefined": false
+      },
+      {
+        "text": "postcode",
+        "meta": "@postcode",
+        "alias": "postcode",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b4e7ee88-d55b-40e2-bfa1-2168985cdb95",
+    "data": [
+      {
+        "text": "  order number ",
+        "userDefined": false
+      },
+      {
+        "text": "ProductID",
+        "meta": "@ProductID",
+        "alias": "ProductID",
+        "userDefined": true
+      },
+      {
+        "text": " could i change my delivery to 27th june please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0cc7bf47-9ff3-43c4-a4f5-6f7a00ce8c56",
+    "data": [
+      {
+        "text": "my order ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " be schedule for delivery mon between 9 and 1 be it possible to change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "577d6d76-7515-440e-addd-c1192ac7cab9",
+    "data": [
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " can i change the date of this order to the follow monday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1fe99c1-0d87-4bfc-ad0e-4811e709bfd8",
+    "data": [
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " delivery book 7_11 and not 11_3 you will javd to change this as i be at work",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "256d93de-3661-4617-9d91-00714e7fef35",
+    "data": [
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " be my delivery number be book for after 11 a.m. tomorrow but i have be advise it be due for delivery from 7 a.m. to 11 a.m. tomorrow i will be at work so it need to be after 11 a.m.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "029b566b-c45c-4df9-8e6d-6c4ea863d3cc",
+    "data": [
+      {
+        "text": "i have order 5 item on the 29th june and 4 of the 5 item have arrive today morning   i want to help on how i can get ",
+        "userDefined": false
+      },
+      {
+        "text": "postcode",
+        "meta": "@postcode",
+        "alias": "postcode",
+        "userDefined": true
+      },
+      {
+        "text": " deliver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a168f77-0208-49a3-b1c2-d6843d5ab89f",
+    "data": [
+      {
+        "text": "  i have order a delivery for thursday and i be wonder can i add to ts order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "056952a4-2cba-4f9d-962c-132a63c013ab",
+    "data": [
+      {
+        "text": "i have just order a din set and the order number be ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " can i change the delivery date please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a0b88cf-fc1a-44e9-96a9-209ae3f9bf2b",
+    "data": [
+      {
+        "text": "i order item to be deliver today but it be be change to tuesday which be not convenient",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d50d5b04-558d-434f-806b-94fe430ea327",
+    "data": [
+      {
+        "text": "i order ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " for pick up and accidently select the wrong day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b4e272b-23b3-4f25-83da-8273a476e580",
+    "data": [
+      {
+        "text": "i have just order a product from ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " store and need to change delivery day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2a877df-34fb-4f4d-8807-6a7262eeb2aa",
+    "data": [
+      {
+        "text": "no i have order and want to change the date of delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6c9d0d2d-12d2-4dae-b1ad-d0c518dbdd92",
+    "data": [
+      {
+        "text": "i be order some item and the delivery date be come up as thursday bit i would like it to be deliver on friday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13bc0bbc-ca30-4248-a406-ba088bf40272",
+    "data": [
+      {
+        "text": "i have pay for delivery but i need to change the date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a36e61ed-1804-4eaf-8afb-441d43e4026b",
+    "data": [
+      {
+        "text": "ikea_missingSpareParts",
+        "meta": "@ikea_missingSpareParts",
+        "alias": "ikea_missingSpareParts",
+        "userDefined": true
+      },
+      {
+        "text": " of my order be parcel delivery but no option to change date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d0fa25a-8730-4c1d-9789-de00a4ca6536",
+    "data": [
+      {
+        "text": "i have a pend order for delivery on the 26th june which i need to change to a different day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5272f9b8-b8fe-431d-8f8a-305e158170b6",
+    "data": [
+      {
+        "text": "i be about to place an ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " order can i change my delivery day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3fd6be23-ec50-4301-8c03-400ac62255b9",
+    "data": [
+      {
+        "text": "  i have just place an order and i have select the wrong delivery date   can ts be change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41205324-12bd-46a1-a752-9acc397e975b",
+    "data": [
+      {
+        "text": "i have place an order and be wonder if i could change the delivery slot to the same day but the early slot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "877aace6-cc30-4921-b5bf-4579717ad71a",
+    "data": [
+      {
+        "text": "i place an order yesterday and select delivery ",
+        "userDefined": false
+      },
+      {
+        "text": "postcode",
+        "meta": "@postcode",
+        "alias": "postcode",
+        "userDefined": true
+      },
+      {
+        "text": " july but have now have an email say delivery will be 3rd july wch be not convenient can i change it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9d82893-b75c-4073-b016-d65cc44cbf56",
+    "data": [
+      {
+        "text": "i be place my order yesterday and the delivery would have be for 29 / 06 and i could not change it from the order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "909bdf36-967b-4788-9eb3-7e2bd2fef9ca",
+    "data": [
+      {
+        "text": "  please would i be able to re arrange my delivery date for my ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " it be mean to be deliver today but i be not home this morning as i wake up late at my mum and need to re schedule a delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26d054c9-b829-4057-a955-78100041e816",
+    "data": [
+      {
+        "text": "there please could i change my delivery date to friday the 29th",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "837c8527-7c0c-4de3-a52a-7f18c009da7e",
+    "data": [
+      {
+        "text": "be it possible to change the date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "86854844-8ea3-4283-a295-689ed2c3b6f1",
+    "data": [
+      {
+        "text": "be it possible to change the date or time of the parcel delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9989e14a-a764-47d4-a7aa-e1d139834eac",
+    "data": [
+      {
+        "text": "would it be possible to change my delivery time for a later time slot or will that delay my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e6f6f22-069a-4656-a722-89a4fe15d30d",
+    "data": [
+      {
+        "text": "  be it possible to choose a delivery date with ikea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "29e73648-77d6-41b3-a506-235c6821e1b2",
+    "data": [
+      {
+        "text": "be it possible to move my delivery from thursday to friday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24eb9078-7376-46fa-871d-c1234bf2563a",
+    "data": [
+      {
+        "text": "would it be possible to prioritise a delivery schedule for today since a task rabbit assembler be already at the premise",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c03c158-4fa6-4e4d-bd23-eb20c7347e2c",
+    "data": [
+      {
+        "text": "be it possible to select a specific delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51124b1c-d4b1-4f0b-92bc-ced7d98aec82",
+    "data": [
+      {
+        "text": "i would like to postpone my delivery from this morning to this afternoon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c9a4ced-8fa2-44f5-8e43-6da5d453be90",
+    "data": [
+      {
+        "text": "  we have problem with a delivery date and would like to talk about it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08321621-d19a-43b3-9ba2-e7f819903104",
+    "data": [
+      {
+        "text": "have purchase on in store and have a delivery date but need to change it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1096ec6-fdc3-47f1-8512-6a3bdf871865",
+    "data": [
+      {
+        "text": "i have a question regard delivery in case i come today friday would my delivery to ",
+        "userDefined": false
+      },
+      {
+        "text": "postcode",
+        "meta": "@postcode",
+        "alias": "postcode",
+        "userDefined": true
+      },
+      {
+        "text": " be tomorrow or monday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74c9ee80-5dcd-4566-aae8-3ddfa61bc1bc",
+    "data": [
+      {
+        "text": "i have just receive a delivery notice from parcelforce state that my order will be deliver on the wrong day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9e0a941-c2c4-4a3a-8944-111d37b59aa9",
+    "data": [
+      {
+        "text": "i would like to reschedule a delivery date for order number order number   ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b4be515f-70a1-4c6a-907b-6f4cc30b2f5d",
+    "data": [
+      {
+        "text": "  i would like to reschedule a delivery please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe253d30-bded-4d8d-aee3-2533684f212a",
+    "data": [
+      {
+        "text": "we be schedule for a delivery on tuesday 10 july 2018 11 : 00 - 15 : 00   can we change it please to tuesday the 17th of july please as our house move be delay 1 week   order order number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dab444c2-159f-4f6c-bc0c-0d4db58a469a",
+    "data": [
+      {
+        "text": "i think the staff give a wrong delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56b9fced-77a1-49b1-a409-23541bfcf19a",
+    "data": [
+      {
+        "text": "there be there anyway you can choose a delivery date when order ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f609c1a-3a32-4970-9921-26c96bfb3db9",
+    "data": [
+      {
+        "text": "there i would like to change my delivery date if possible",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78a94f44-c42a-4c4a-a8fd-dee78f49a100",
+    "data": [
+      {
+        "text": "there i have a delivery schedule for tomorrow but i have a problem and want to see if i can change the delivery to wednesday or thursaday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e3f9ce9c-b456-4d1c-ad8d-d86537e4499f",
+    "data": [
+      {
+        "text": "there i have a delivery schedule for wednesday 4th july and be hop to change ts to later in the week if possible",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b8f18cfe-cb45-4fe9-88df-e676b96f9704",
+    "data": [
+      {
+        "text": "there i just make an order but want to change the delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00b1f9ff-39f3-48fd-b323-92210223258c",
+    "data": [
+      {
+        "text": "there i would need to change the delivery date of an order i place",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba39e413-5537-4f53-baa2-11f0acf55eb3",
+    "data": [
+      {
+        "text": "there i need to push back my delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e63652d-51d9-479c-9e5f-f0a33334ac9b",
+    "data": [
+      {
+        "text": "there my order number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " could you help to change the delivery date to july 13 in the morning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b46cb1a7-4eeb-4730-95ba-a76da6d6517f",
+    "data": [
+      {
+        "text": "there i be about to place a large order for delivery as i be move and want the ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " to arrive on a particular day be it possible to choose a specific delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e66186cf-fae1-4eb9-aa98-75a6d654c512",
+    "data": [
+      {
+        "text": "there i be plan to get a lot of tng however the estimate delivery date july 17th do not work for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e31998e-c6d9-4cce-ba1f-3840a60039b1",
+    "data": [
+      {
+        "text": "i have have three different date via text for my truck delivery the 25th then the 27th and now ts morning the 29th of june i would like to know why there be a need to add more day delay without an actual point of contact or explanation for ts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40931e36-7c87-4d54-a834-83d7ffd70d9d",
+    "data": [
+      {
+        "text": "time give for delivery tomorrow do not suit could delivery be later",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a624f5f4-97e0-4c02-a50f-5081d398357c",
+    "data": [
+      {
+        "text": "i m try to change my delivery date on ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " order tell me how to change i cnt see any option",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "158a03a0-eaf4-49c0-9e9b-3b197d3a8811",
+    "data": [
+      {
+        "text": "  i want to know if i can add an item to my delivery due to come on wednesday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db3da03d-2bc8-428b-8b1b-92e903c1527c",
+    "data": [
+      {
+        "text": "i want to cancel an order that have be reschedule already twice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68be1a9c-6b40-4d2c-92d5-c797baf7ea7b",
+    "data": [
+      {
+        "text": "i want to change my date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "20c24af2-edb0-4d28-84fe-8da25034d83e",
+    "data": [
+      {
+        "text": "  i want to change my delivery date from july 4th to july 3rd",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67ea9504-fa1a-4e2b-8c0b-401647c45cfc",
+    "data": [
+      {
+        "text": "i want to change my delivery date from an order i have already place",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d07e134-e548-4f9b-ba46-a0b0bc609147",
+    "data": [
+      {
+        "text": "i want to change the delivery date for my order ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " as i will not be in",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d5b2daa-af3d-453d-8631-771e38e08433",
+    "data": [
+      {
+        "text": "i want to change delivery date.how can i do that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c491e05-2c3a-48e1-b28e-ad4f0d58130a",
+    "data": [
+      {
+        "text": "i want to defer my delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64f0c167-f46d-44fe-9494-83b35633ea7f",
+    "data": [
+      {
+        "text": "no i just want to delay my delivery with one day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db003d6c-7256-4a33-861e-0e5191909704",
+    "data": [
+      {
+        "text": "i want delivery on 14 july",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6610e2d6-2dfa-4acc-bebc-bcd526dedfdf",
+    "data": [
+      {
+        "text": "i want a delivery on 4th july 2018",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f532496f-72fc-48d1-b121-e1f68e4e69b1",
+    "data": [
+      {
+        "text": "i want a delivery on august 1st",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d845c669-f859-4e62-aee4-b868e5703e46",
+    "data": [
+      {
+        "text": "want to place order but delivery date inconvenient as not in the property until 14th july",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d5bf485-04a6-48f8-bc3f-16ead7fabfef",
+    "data": [
+      {
+        "text": "i want to place an order but get it deliver on a date that suit me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9dcc3e3-5526-4d03-aae5-f56d450c3f39",
+    "data": [
+      {
+        "text": "i want to rearrange my delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0b2769c6-bea7-48d7-b794-91f5f95174d5",
+    "data": [
+      {
+        "text": "i want to reorganise a delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3428395e-51e1-4b26-bb79-c45809353d2e",
+    "data": [
+      {
+        "text": "i want to schedule my delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "241a3c8e-eeb4-4a61-8760-d2daa8b9b5fd",
+    "data": [
+      {
+        "text": "if i want ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " deliver this saturday afternoon when should i order in the ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " store do you deliver on a sunday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e012d0a0-4f1b-46b5-902e-ed825b5c4083",
+    "data": [
+      {
+        "text": "i be want to order some ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " via the website but be unable to change the delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f995101b-4c31-4d58-93ce-6f1b1851a591",
+    "data": [
+      {
+        "text": "want to reschedule a delivery from the ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " store",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4555624a-988c-4782-a7fc-35f2480eef57",
+    "data": [
+      {
+        "text": "be there a way of change the delivery date at the checkout ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca3fbcc1-6261-449d-ba99-971a2d5bf94f",
+    "data": [
+      {
+        "text": "what will happen to my delivery if i be out",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ffe9a556-0364-4428-8039-348d6e5699dc",
+    "data": [
+      {
+        "text": "when you arrange a home delivery can you pick the date you want it deliver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f245cddb-f5fc-4cdb-9cc3-872bd5e8862b",
+    "data": [
+      {
+        "text": "when can you confirm the exact delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70af6d99-566d-428d-88fc-e96590b918ae",
+    "data": [
+      {
+        "text": "when i check out it say that it would be deliver on monday 9th change the delivery date to then",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "19ce7b1e-a542-49cb-bff9-ed17b1a087d7",
+    "data": [
+      {
+        "text": "when i place an order for truck delivery do i have an option to choose a delivery date other than the date give",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5770c861-d02b-435a-a20a-e3f88ac97438",
+    "data": [
+      {
+        "text": "which number to call for change of delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b063a6a-879c-4d76-8b51-d0ec717d5c4e",
+    "data": [
+      {
+        "text": "why do my delivery date change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "638651e7-733b-4653-a117-96689dc061b4",
+    "data": [
+      {
+        "text": "i wish to change the delivery day for the order i have just place",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6dbbd1f8-1641-4002-8ca6-d7a26bddc571",
+    "data": [
+      {
+        "text": "  i be wonder if it be possible to change a delivery date for an ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " order i make",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a9357960-8b69-43b9-9cb7-929a1981a21e",
+    "data": [
+      {
+        "text": "  i be wonder if it be possible to rearrange a delivery that s already be book in",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c867ead-e39c-4118-9452-24da5cef7faf",
+    "data": [
+      {
+        "text": "i be wonder if i could reschedule a delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a746cc3f-02f7-4d33-ab4e-3e88b116d61a",
+    "data": [
+      {
+        "text": "wrong date of delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6258b67-e4e6-4275-a142-3ba175496c7e",
+    "data": [
+      {
+        "text": "yes i have a delivery book but the date have be change by you without consultation and do not suit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6640959b-70b5-4f22-8f45-f9c83b75c247",
+    "data": [
+      {
+        "text": "yesterday i miss the order and we can arrange shipping at the end of the week",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c7ea57e-d9af-4932-a972-f578cddf6ace",
+    "data": [
+      {
+        "text": "i be look to change the delivery date of the truck",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "58ebe952-960d-47a9-b46f-baa42572f1f3",
+    "data": [
+      {
+        "text": "make an order 30 / 06 want to change the delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54640cb9-5b67-421d-8227-4c8e6408b403",
+    "data": [
+      {
+        "text": "i have an order to ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " tomorrow , but if i can do it , i can change the day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8dddcd87-5c71-4dee-92e1-69f29c07b8ee",
+    "data": [
+      {
+        "text": "i want to set the time to send",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32f7c15f-95ae-48ed-822c-3e96e7d92dba",
+    "data": [
+      {
+        "text": "i have be offer a sunday delivery , but we be a business , therefore need to change the date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6bf19c4-4671-4bd2-b8a7-cbb5b3af8441",
+    "data": [
+      {
+        "text": "how can i arrange re - delivery of item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b41dd144-b7e5-4b8c-ac0f-6ec6f173f630",
+    "data": [
+      {
+        "text": "and this sunday i can also deliver something to me in the neighborhood",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "293321af-5a74-4967-a02f-3bd12f473130",
+    "data": [
+      {
+        "text": "may i refuse the order of ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dac6ec01-743f-47cc-addf-67a6b20f2026",
+    "data": [
+      {
+        "text": "it be possible to move my delivery from thursday to friday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4ddd69e-6079-415e-a5b1-26da88c26425",
+    "data": [
+      {
+        "text": "i need a new delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca997737-aa81-4148-b5ac-92cc70037e15",
+    "data": [
+      {
+        "text": "i want to change the delivery date of my ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78ff2a77-8327-4974-8b00-86ea8cc7d61f",
+    "data": [
+      {
+        "text": "i need home delivery on 18 pm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "96b4c9e8-67d8-44af-9dcc-3a7021c4893d",
+    "data": [
+      {
+        "text": "i need a delivery on a particular day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3cb0cce6-80ab-4278-9040-5337390ff323",
+    "data": [
+      {
+        "text": "i restructure around the day of my delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b85a409c-d50c-4091-914b-e637657d1f0a",
+    "data": [
+      {
+        "text": "i can pick up my delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f91c7e02-776e-4c22-916e-eff900eff622",
+    "data": [
+      {
+        "text": "it be possible to change date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a3a651de-0008-4b40-a065-b4d450619626",
+    "data": [
+      {
+        "text": "there i can please change my delivery date to friday the 29th",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a406f8c-794b-4888-9ace-c506232a1698",
+    "data": [
+      {
+        "text": "i want to know if i plan to re - plan tomorrow\u0026#39;s plan delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c42768c-1ddc-4a58-8b78-6e40d8b2715e",
+    "data": [
+      {
+        "text": "i want to choose my birthday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81ce96d6-4bcc-43d0-9d75-daed73bee3f4",
+    "data": [
+      {
+        "text": "my order be arrange for ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " for monday delivery between 9 and 1 be it possible to change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4905f2e-75b9-4de2-a8c0-547bd88fe6f8",
+    "data": [
+      {
+        "text": "my order be come tomorrow , it can be switch on monday , monday , monday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "387ea863-1bf1-4283-b293-680093f052b4",
+    "data": [
+      {
+        "text": "i get good deliver on a date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "140e8c04-7047-44bc-9933-db709277fda4",
+    "data": [
+      {
+        "text": "can you deliver to york on thursday ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d7dd13a7-48ba-4fe9-9251-cfa84a35a985",
+    "data": [
+      {
+        "text": "i think i would order delivery on friday and order the customer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "48ed012f-41df-48be-ac46-ac6862219e28",
+    "data": [
+      {
+        "text": "i be wonder if it\u0026#39;s possible to change a delivery date for an ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab15ca39-79c8-4dcf-bf00-619a4dc498f7",
+    "data": [
+      {
+        "text": "can i arrange for delivery time to my ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " that should be deliver today , but i could not ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " home this morning because i have to wake up and wait for my mom to arrive late",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "84dfc9f5-4815-4aec-83af-43f8057a7e05",
+    "data": [
+      {
+        "text": "change the delivery date of parcel force",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f00e80cc-7ed7-413f-88a7-e7d14d5ebdf7",
+    "data": [
+      {
+        "text": "it be expect that my order be deliver on june 22 , 2018 , have not yet be deliver and i would like to schedule a delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10829e47-c96e-4e57-bd56-a48ae8473b54",
+    "data": [
+      {
+        "text": "i want to relocate my transfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9fd051a4-2552-46e2-ad1e-c1bcab95f0dd",
+    "data": [
+      {
+        "text": "i can reset my delivery from here",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8cee3e3f-d03a-4d63-bf22-6c4d2fab1b76",
+    "data": [
+      {
+        "text": "i do order but choose the wrong date of delivery how can i get this change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b694d2c-c462-4f6a-aeec-1bdcb22f1f29",
+    "data": [
+      {
+        "text": "i can specify delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7e24fa4-d8ff-4b1c-9c91-293fba9542af",
+    "data": [
+      {
+        "text": "we need to change the delivery date to the day of the week",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb5ffcf9-e9cd-481d-81b1-5daad3f0ae47",
+    "data": [
+      {
+        "text": "i order it and i want to change the delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24728908-0fe0-41fd-8ca9-62aea4e7d8d8",
+    "data": [
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " want delivery from the store",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "808b3792-2134-4686-bc7b-29d29c4753ca",
+    "data": [
+      {
+        "text": "i already pay and have the transfer date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08fc16f1-e464-45b0-b169-b8259a1d3348",
+    "data": [
+      {
+        "text": "i be not the only one who would like to spend my spare time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9f60103-829d-477f-a81d-c4ec0433e0f2",
+    "data": [
+      {
+        "text": "you can choose the date on which the item will be deliver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75a65398-d6df-4640-b8e8-cdb749ce8ae6",
+    "data": [
+      {
+        "text": "i want delivery on july 14th",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b690921c-2b95-452f-a326-fa1a2468426a",
+    "data": [
+      {
+        "text": "i can specify a date for delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "63b1f1fb-5d82-47a7-8c17-d76d0f70c83f",
+    "data": [
+      {
+        "text": "i order 5 item on june 29 and 4 out of 5 item arrive this morning i want to help on how i can get a 5 delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d753b236-f82d-4f9e-9e1e-590115fc186e",
+    "data": [
+      {
+        "text": "ikea we have a reserved delivery for friday i take a day off to be at home when it\u0026#39;s deliver but i just get an sms to say they change the date to thursday when we will no longer be on the point can i change it to friday please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67e7af76-e90c-4649-81ff-95a950d7f5c0",
+    "data": [
+      {
+        "text": "you can choose a transfer date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1213433b-e26a-4b9c-a06a-ab93ff7348c9",
+    "data": [
+      {
+        "text": "i\u0026#39;m take a receipt that i sign this week , i can change it on friday .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f267b500-3804-4657-bc0a-cdcc81d05dec",
+    "data": [
+      {
+        "text": "can i pay ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " and have them deliver to this postcode by wednesday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "704dc6a8-b2bc-4340-863e-c508b1883a64",
+    "data": [
+      {
+        "text": "today we have 11 - 3 delivery , but the school have just phone and my daughter be upset , we get an appointment with gp at 10.40 so that 11 apology purse number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " should not be at home .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75935553-493e-4cd0-9ee5-a0816f9e8c02",
+    "data": [
+      {
+        "text": "i can add something to a distribution schedule for wednesday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e53b007b-7b91-4b8b-9be7-b2e7c0d36478",
+    "data": [
+      {
+        "text": "my delivery date have be change by ikea and i can not be on that date.can you change to something else ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "589432e1-4c68-4dee-9306-190ff0ac50ca",
+    "data": [
+      {
+        "text": "i want to change my delivery date from july 4 to july 3",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8645dfd-f0c2-46b5-9c1e-2a63ca67eb93",
+    "data": [
+      {
+        "text": "i can choose a day for delivery as i want it deliver to work and the office be close on saturday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "201bcfa8-b3f3-42ce-beb1-f8f98d9858b3",
+    "data": [
+      {
+        "text": "you need to schedule an order ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " chloe hamilton 309 craig road ",
+        "userDefined": false
+      },
+      {
+        "text": "postcode",
+        "meta": "@postcode",
+        "alias": "postcode",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7d8f5a8-ad44-45a3-b27b-d795e027176f",
+    "data": [
+      {
+        "text": "select the delivery day of the truck",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32d83f6a-6614-4f41-944d-38bcb359c1b6",
+    "data": [
+      {
+        "text": "i want to change the delivery date of an order i already make .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c32a2064-e137-48c6-b71d-3afbe10b8341",
+    "data": [
+      {
+        "text": "i would like to reschedule the delivery date of the ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5371910b-9915-45f3-aa37-aa20b5177a8f",
+    "data": [
+      {
+        "text": "there be an order number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": ".please change the delivery date to 7 : 13 in the morning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77eba182-dcb6-44a6-bc27-77f6497ba115",
+    "data": [
+      {
+        "text": "i can get delivery on saturday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "722b93b0-9101-477c-9e08-f74469329e3f",
+    "data": [
+      {
+        "text": "can i apply but postpone the delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f732e668-2b5f-4c0c-af7c-4d7490ff980b",
+    "data": [
+      {
+        "text": "you can talk about how i can change even one day later",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a6fc57a-f7c5-4324-8116-d97921b6e48e",
+    "data": [
+      {
+        "text": "can choose my delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0aa4191-a58a-40bf-8e61-b5c7c9c7728e",
+    "data": [
+      {
+        "text": "i want to change the delivery order date of the order request to be move to a safe place",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32c71e61-781d-4e97-ba91-e0e4a9424718",
+    "data": [
+      {
+        "text": "i book the daily erie for 7 - 11 i be not at 14.00 i be at work and can not get the good then",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5aef5a7d-d904-403d-a0e4-fb3b33f92309",
+    "data": [
+      {
+        "text": "i be change when i be able to clear my bone up to date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c93f4427-a0a1-437a-8e8e-4808856421cd",
+    "data": [
+      {
+        "text": "i can change the way i ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5dd5f06b-f6a9-41f1-b4e3-7a7528b5f632",
+    "data": [
+      {
+        "text": "order number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " order date 29 - 06 - 2018 13 : 50 i want to move delivery to third place",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3c37368-facc-4c82-b6a7-37f16618b380",
+    "data": [
+      {
+        "text": "i have to change the delivery date of my order , no one will be here to approve",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f37ba936-f14d-4123-b484-de7cdb90a9bf",
+    "data": [
+      {
+        "text": "i have a delivery tomorrow it will be late to change the next day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "800ec861-60d1-445a-a125-951892a23503",
+    "data": [
+      {
+        "text": "i\u0026#39;d like to change the delivery time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c622ffa1-3e31-4ce9-bf45-ca03368243c5",
+    "data": [
+      {
+        "text": "can i schedule a delivery in advance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d88ec155-bb29-418c-a7fa-74393a4760d5",
+    "data": [
+      {
+        "text": "i push back my delivery date of at least another week",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39762a20-c9c5-4474-a288-fc795fd05a9d",
+    "data": [
+      {
+        "text": "i would as the next shipment be possible if i pay extra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "450551b8-9386-40eb-968a-2c4941ced8bb",
+    "data": [
+      {
+        "text": "i have just order the din set and the order number be ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " if i can i change the delivery date please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "facfe568-75e6-4b5d-b102-f9743c4f467a",
+    "data": [
+      {
+        "text": "i want to reconstruct a delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6164fea9-715a-4ccd-aeb4-852730289e46",
+    "data": [
+      {
+        "text": "i put order number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " in 10 minute to change my delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbf6a1d1-d2e9-4d36-a610-ec1089abb8d8",
+    "data": [
+      {
+        "text": "i be order some item and the delivery date come as thursday a little bit i would like to be deliver on friday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8e23e0a-5008-4505-a390-615689a7156f",
+    "data": [
+      {
+        "text": "can i reschedule delivery in the store ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "92958e2a-eefa-4c95-afbd-b04e5579ff05",
+    "data": [
+      {
+        "text": "we can choose which element of the day to come",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8fdfca07-9a8f-43cc-857c-be898dfe3609",
+    "data": [
+      {
+        "text": "i do not answer if i could change my delivery day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "121cb3ab-7c95-4f8d-ae12-9faa807a4c1a",
+    "data": [
+      {
+        "text": "i pay for the transfer but i need to change the date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b418f480-057b-4d03-b8e6-cf92a4a9f311",
+    "data": [
+      {
+        "text": "we have problem with a delivery date and want to talk about it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "423bcfe7-fc3c-4213-918d-0f1f1aabc753",
+    "data": [
+      {
+        "text": "can i change the time of my delivery tomorrow",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d02f66c-7461-4b4d-b887-20eead2f3bd8",
+    "data": [
+      {
+        "text": "i want to deliver it , i have to replace it on july 7",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bac6dfbf-360a-4409-9b58-ecc8d7693ee7",
+    "data": [
+      {
+        "text": "can i please rearrange my delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af0825dd-5fb1-45c2-a528-741f0a126663",
+    "data": [
+      {
+        "text": "i have a delivery tomorrow but i want to move the delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c8adf98-a5c7-49c6-a0c9-dfc8ba385e1f",
+    "data": [
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " - my delivery number be order after tomorrow 11 , but i be remind that it can be deliver from 7 to 11.tomorrow i will take ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_missingSpareParts",
+        "meta": "@ikea_missingSpareParts",
+        "alias": "ikea_missingSpareParts",
+        "userDefined": true
+      },
+      {
+        "text": " in the work , so i have to be in 11 hour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f5c4f6b-3bfd-44fc-a514-79c8f9f9988a",
+    "data": [
+      {
+        "text": "can i choose a different child day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e6ef6ab2-f798-4248-8c41-805e970ca029",
+    "data": [
+      {
+        "text": "i want to postpone my delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "12b8a1e6-6ac1-427c-962a-e518e169b598",
+    "data": [
+      {
+        "text": "i\u0026#39;m try to change my delivery date on an ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " order , tell me how i can not see any option change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf7d9732-957f-4d55-ac08-8239cd6020d9",
+    "data": [
+      {
+        "text": "i be ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " to have a crackdown tomorrow , and i order from 11 to 3 because i have never meet here.as it be report , delievery be now post for 9 - 10 , but nobody will be here at this time if you\u0026#39;ve discount me to 35 pound you can advise how to resolve the issue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ba65ad0-769f-457c-8d4d-fa7b00ae68de",
+    "data": [
+      {
+        "text": "i give an ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " order and want to speed up delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b994912e-6f1c-4561-adae-d19011f2e476",
+    "data": [
+      {
+        "text": "i make a mistake about the delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bff349e5-f305-44c9-b5b9-71318bb7b605",
+    "data": [
+      {
+        "text": "be you able to parcel in a special day ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "480f2922-20c3-4ecd-b1b9-253412c6e4bf",
+    "data": [
+      {
+        "text": "when i place an order for delivery of a truck , i have an option to choose a different delivery date than the give date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf33bf37-3eb1-4ea3-9e1a-6e86018f9908",
+    "data": [
+      {
+        "text": "the date of my shipment have change , i can change it for another day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce923f93-318a-46e1-bdc1-53637b730945",
+    "data": [
+      {
+        "text": "i want to hand over order , but it delay delivery by july 14th .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66182641-0efa-4436-bf54-c173290b7793",
+    "data": [
+      {
+        "text": "i would like to change delivery day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3011ba51-b563-457a-9b3d-5acf0a55d10f",
+    "data": [
+      {
+        "text": "how can i change the date i log in one day ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c885e9e1-7588-431a-9707-d24550155e1f",
+    "data": [
+      {
+        "text": "to change the delivery date , which number to call",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b2972e1-deb3-4ec7-a897-60af64fb7cd0",
+    "data": [
+      {
+        "text": "i would like to request a ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " but i be give the delivery date of june 30th i can get this early and how can i change the ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " history",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66c6d242-1f94-40da-b061-8183b9a8afc8",
+    "data": [
+      {
+        "text": "i change my delivery date for order item at ikea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba6482d1-d72c-422d-9f81-d925a50fbc40",
+    "data": [
+      {
+        "text": "i have just place an order but i want to change the delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0b1ee4b5-20c9-4db6-b8b4-7e9d87b5464b",
+    "data": [
+      {
+        "text": "i would like to reschedule a delivery please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9549d326-45d7-4e22-a4a3-774e8f91b294",
+    "data": [
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " ship 7_11 and not 11_3 you will javd to change this as i be at work",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "984bbe8d-abc4-48c0-9469-9aae24578ab4",
+    "data": [
+      {
+        "text": "i get a delivery come friday i want to know if i could add to it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae6c379d-fe8c-427d-812e-6fcfae229954",
+    "data": [
+      {
+        "text": "i need to reschedule the surplus delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42e128ab-028d-4e60-8409-83446fcc5fff",
+    "data": [
+      {
+        "text": "be there any chance that i can change my delivery date until the next day ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e0ae4f9-81b4-4f16-bb32-680f97ef4f29",
+    "data": [
+      {
+        "text": "i would like to ask if be possible to change delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "797914db-748e-4035-8568-7e7de66f4c24",
+    "data": [
+      {
+        "text": "can i change the date for parcel delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e15c21f4-a9c8-43d9-9fc9-6b8f7d5e9c92",
+    "data": [
+      {
+        "text": "can i change my delivery date to friday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "012d66ac-4e87-4c1a-9748-8b2f0860e61d",
+    "data": [
+      {
+        "text": "can i change the delivery date of my item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d1b1ebe5-ff0c-4f01-8079-b935477ecf1f",
+    "data": [
+      {
+        "text": "  can i change my delivery date to a later date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e0f54f0d-c5f3-491a-a252-c5787f5942ad",
+    "data": [
+      {
+        "text": "can i change my delivery date ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4fa2867-4436-43c2-a771-bc30020f1603",
+    "data": [
+      {
+        "text": "can i change the delivery date for my order ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1f2b57f-68fe-47bf-8931-ea2c13e29277",
+    "data": [
+      {
+        "text": "can i change a delivery date please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8121f55c-e6e6-4c70-a28f-c39504a74cb7",
+    "data": [
+      {
+        "text": "can i change my delivery day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "220dc055-e5a0-443d-8b86-d8183ba9a7f3",
+    "data": [
+      {
+        "text": "can i change my delivery day on an order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c09b3f7-39da-453b-a907-a14ea7b74987",
+    "data": [
+      {
+        "text": "can i change my delivery to an early date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0920c4c-6db4-4547-8ada-594e6973f664",
+    "data": [
+      {
+        "text": "can i change my delivery to a soon date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31bdf7cc-4607-4223-b867-320296d3b294",
+    "data": [
+      {
+        "text": "can i change my order delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7562910a-c3f5-4931-89da-3eb309518f10",
+    "data": [
+      {
+        "text": "can i change my parcel delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "043c6700-4034-4e74-ac4f-e34591176eb8",
+    "data": [
+      {
+        "text": "can i change my scheduled delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d669125-1c34-4d88-abfe-d3586d5bbc6b",
+    "data": [
+      {
+        "text": "can i change my truck delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b6d6e0b-9483-42ca-9b02-92a837f561cb",
+    "data": [
+      {
+        "text": "can i change my truck delivery date to a later date and time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "399329fd-8e34-4d7e-983c-25a36fff0fb5",
+    "data": [
+      {
+        "text": "  can i choose a date for delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fdeb6b0c-1c61-4cf0-bad6-4b1965fd5043",
+    "data": [
+      {
+        "text": "can i choose a day for delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "acc5a4f3-3558-4dd7-8ea2-2603090e383c",
+    "data": [
+      {
+        "text": "can i choose a specific delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b4f463ac-3c4a-45de-a8b0-cff03541d42d",
+    "data": [
+      {
+        "text": "can i get delivery on a saturday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74263509-075b-4a6c-a588-d237125d060c",
+    "data": [
+      {
+        "text": "can you help change my delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37a74036-e45a-48b3-8b87-32df0889ad09",
+    "data": [
+      {
+        "text": "can i reschedule my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec909155-c381-4c76-b136-47fe82936b4f",
+    "data": [
+      {
+        "text": "can i select a certain delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f983b339-05a8-4d7a-93a2-c228d357853e",
+    "data": [
+      {
+        "text": "i d like to change the date of my delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3f231b2f-ff71-499e-932b-60a0cfe07f1a",
+    "data": [
+      {
+        "text": "  i would like to change my delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b3cefde0-cc33-40ea-a38a-c8fe81791ff1",
+    "data": [
+      {
+        "text": "i i would like to change a delivery date for my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40578cc8-d94d-4615-bbb9-3a3d0122b537",
+    "data": [
+      {
+        "text": "i would like to change my delivery date ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a0c70bd8-a45e-4483-9a81-45cddaf9ad8e",
+    "data": [
+      {
+        "text": "  i would like to change a delivery date please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91a785c8-3b42-4183-9a36-abc8e00efbc2",
+    "data": [
+      {
+        "text": "i would like to change my order date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3dc91f9c-4b76-4bc1-a39d-55e437b67ce9",
+    "data": [
+      {
+        "text": "how can i change my delivery day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "44ae6fe1-21a1-4b61-803b-e3addc757190",
+    "data": [
+      {
+        "text": "i be look to reschedule my delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6dbcacd-d79b-4ce5-b76c-60ed09713717",
+    "data": [
+      {
+        "text": "i make an order and need to change the delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ddc7434c-1cea-4f42-a4cd-f1801903b224",
+    "data": [
+      {
+        "text": "need to change delivery date on exist order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "150d0fed-6137-4294-bab3-57902ff8f893",
+    "data": [
+      {
+        "text": "i need to change delivery date for an ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce3f8b35-d99b-438e-9913-3546866facaf",
+    "data": [
+      {
+        "text": "  i need to change the delivery date for order ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa8985bb-3de3-4576-8b0b-52eac8fc6d51",
+    "data": [
+      {
+        "text": "i need to change my delivery date for an order place ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aebe8dec-202a-4c52-b5ab-b7ab62a9c1df",
+    "data": [
+      {
+        "text": "  i need to change order delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b166ed77-e560-4978-bce7-81f2b8ecc02f",
+    "data": [
+      {
+        "text": "i need to change my order delivery date please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e3879540-7eff-4a37-ad82-941221fba4b2",
+    "data": [
+      {
+        "text": "have i an option to choose a delivery date when i place an ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " truck delivery order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "979bf680-8ee1-4962-89a5-c185b060cc70",
+    "data": [
+      {
+        "text": "i have place an order and wish to change the date of delivery and address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9fcd976-5585-4de1-afd4-799f3452b10b",
+    "data": [
+      {
+        "text": "i be place an ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " order but need to change my delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36ba9f65-2206-41ae-a1fb-b0902365d47f",
+    "data": [
+      {
+        "text": "be it possible to change my order date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a76e561a-8d02-436c-876c-cbdd040f4208",
+    "data": [
+      {
+        "text": "  be it possible to choose a delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2ff88bb2-7118-409c-95f3-7270283c54e4",
+    "data": [
+      {
+        "text": "problem with wrong delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c644ad51-2f28-443b-a0a9-6d4ded9e8a31",
+    "data": [
+      {
+        "text": "reschedule delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d476ca01-ef0a-4961-8137-66e4a46f4d13",
+    "data": [
+      {
+        "text": "there i would like to change the delivery date for my order please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a66f12a5-727d-42a2-9aac-1f9e6ec441c2",
+    "data": [
+      {
+        "text": "  i want to change the delivery date on my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cecaf518-541b-46c2-8fde-4ad90bd36665",
+    "data": [
+      {
+        "text": "can i change the delivery datum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d363a88-45da-460c-ae98-d94ac4fc3e28",
+    "data": [
+      {
+        "text": "can i change an order delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "490198b4-25c6-41cd-8338-4a607a0891df",
+    "data": [
+      {
+        "text": "can i choose a date for delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a440b5ac-8cbc-421a-ade9-36dc4aacf205",
+    "data": [
+      {
+        "text": "can i pick delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5596ea57-d259-42b6-bf86-681aa5f1f985",
+    "data": [
+      {
+        "text": "i would like to change a delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5aee1be9-b397-4ac6-9133-7e2c85c841ea",
+    "data": [
+      {
+        "text": "i would like to change my delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "567fab68-a20a-4bc7-8847-193971371d4c",
+    "data": [
+      {
+        "text": "could i change the delivery date of my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

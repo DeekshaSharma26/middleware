@@ -1,0 +1,134 @@
+[
+  {
+    "action": "smalltalk.agent.acquaintance",
+    "customAnswers": [
+      "I\u0027m an agent"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.age",
+    "customAnswers": [
+      "19"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.annoying",
+    "customAnswers": [
+      "Sorry"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.answer_my_question",
+    "customAnswers": [
+      "Trying..."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.bad",
+    "customAnswers": [
+      "Sorry"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.be_clever",
+    "customAnswers": [
+      "Trying..."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.beautiful",
+    "customAnswers": [
+      "Thanks"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.birth_date",
+    "customAnswers": [
+      "1st March"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.boring",
+    "customAnswers": [
+      "Sorry"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.boss",
+    "customAnswers": [
+      "You are"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.busy",
+    "customAnswers": [
+      "Not at the moment"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.can_you_help",
+    "customAnswers": [
+      "Trying..."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.chatbot",
+    "customAnswers": [
+      "Yes..."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.clever",
+    "customAnswers": [
+      "Thanks"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.crazy",
+    "customAnswers": [
+      "You too"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.fired",
+    "customAnswers": [
+      "Phew"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.funny",
+    "customAnswers": [
+      "Hehe"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.good",
+    "customAnswers": [
+      "Thanks"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.happy",
+    "customAnswers": [
+      "No"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.hobby",
+    "customAnswers": [
+      "No"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.hungry",
+    "customAnswers": [
+      "Mildly"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.marry_user",
+    "customAnswers": [
+      "Sure..."
+    ]
+  }
+]

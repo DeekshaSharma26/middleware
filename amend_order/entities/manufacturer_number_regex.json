@@ -1,0 +1,9 @@
+{
+  "id": "99b6cd2b-12a5-4b24-8836-24cf395f64e1",
+  "name": "manufacturer_number_regex",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": true,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

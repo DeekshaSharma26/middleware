@@ -1,0 +1,9 @@
+{
+  "id": "0f21d89a-2433-4d2b-a805-b6a94224c6fe",
+  "name": "ikea_missingSpareParts",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "value": "online",
+    "synonyms": [
+      "online"
+    ]
+  },
+  {
+    "value": "not store",
+    "synonyms": [
+      "not store"
+    ]
+  },
+  {
+    "value": "except store",
+    "synonyms": [
+      "except store"
+    ]
+  },
+  {
+    "value": "from website",
+    "synonyms": [
+      "from website"
+    ]
+  }
+]

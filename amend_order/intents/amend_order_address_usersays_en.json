@@ -1,0 +1,2119 @@
+[
+  {
+    "id": "b2f56bac-2cae-4249-87d2-520025491288",
+    "data": [
+      {
+        "text": "  i have just place an order and have put in the wrong address could i change ts please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db8e91e9-f351-4848-b0da-3408e8613837",
+    "data": [
+      {
+        "text": "i would like to change my address for the miss ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_missingSpareParts",
+        "meta": "@ikea_missingSpareParts",
+        "alias": "ikea_missingSpareParts",
+        "userDefined": true
+      },
+      {
+        "text": " that i order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "921bc0ec-e2a3-4720-bc6f-444628b9ef0f",
+    "data": [
+      {
+        "text": "i would like to change my delivery address for my recent order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2392d7fd-7e5b-441c-a6c4-b4f780502d9c",
+    "data": [
+      {
+        "text": "i have just get confirmation of my order and the first line of the address be wrong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df1a5ea9-bc93-41f2-8513-0d8d4746ffb9",
+    "data": [
+      {
+        "text": "how do i change the address of my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e1ee7b7-5cf6-4c6b-9f1d-a9d4885337ef",
+    "data": [
+      {
+        "text": "how do you change an email address for an order already make",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6761ea7-687e-4400-a83e-408e54b11bab",
+    "data": [
+      {
+        "text": "  the ikea delivery driver have the wrong address how do i change it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5fe16d7e-820c-4a46-bad8-73bb80afb0b4",
+    "data": [
+      {
+        "text": "  i have make an order with you but wonder if i could change the delivery address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7a6de8c2-e0b5-41a2-9d5f-88b070ec2c2c",
+    "data": [
+      {
+        "text": "i need to change the address for my delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75c8441a-1cf4-49b7-9765-076e867acf4a",
+    "data": [
+      {
+        "text": "i need to change the delivery address for order number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a965ab1c-4339-4402-be80-edae8c41b41c",
+    "data": [
+      {
+        "text": "need to change my email address on my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b3a8fa72-9c23-4bb1-824b-84db528aa4f0",
+    "data": [
+      {
+        "text": "i need to make sure the delivery driver know we live in a flat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dbcfda98-8aa2-492a-a478-56de5ad05d9e",
+    "data": [
+      {
+        "text": "my order number be ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " this be an ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " order but it be deliver to the wrong address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dbd6e3e2-08be-4fe0-ac4c-f0380835e987",
+    "data": [
+      {
+        "text": "i have just order ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " and would like to change delivery address   how can i do ts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0beefedf-5c62-445c-a497-306710a790c4",
+    "data": [
+      {
+        "text": "i just place an order but need to change the delivery address as my dad will not be home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac17832c-e09d-4fbb-b92c-58fce14e610f",
+    "data": [
+      {
+        "text": "  i place and order but just realise i put the wrong address in be it possible to",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cfd2fd6e-85ac-461b-9384-de63c99fb75f",
+    "data": [
+      {
+        "text": "  would it be possible to change the address on my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b4a15fb-4a84-45a9-ad93-c7340c7f9fa5",
+    "data": [
+      {
+        "text": "i just put in an order for a brimne ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " but the billing address be wrong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "740d9d56-edef-462a-b50e-2069bcaf12aa",
+    "data": [
+      {
+        "text": "i have just realise that the delivery address on my order have the wrong number .. how can i change this",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ccd49deb-ad92-4f6d-8283-33c740f29d2d",
+    "data": [
+      {
+        "text": "there can i change the delivery address for an order that i place yesterday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a2bf5ba-9287-492d-ba01-edc9fbaa948b",
+    "data": [
+      {
+        "text": "there our order have be deliver to the wrong address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ee0259c-0f0f-4669-a74d-64b8c802f45f",
+    "data": [
+      {
+        "text": "you have my wrong address on order ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " it should be 43 not 13",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88419071-8c9b-414b-a891-12b31dba2bd9",
+    "data": [
+      {
+        "text": "my incorrect address on the order of ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " , it should not be 43 not 13",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3bafc68-3a54-457e-8ea5-e9d9b5a73886",
+    "data": [
+      {
+        "text": "i have just have receive confirmation of the order and the first line of the address be wrong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe39d7d8-cd23-4635-823e-057be70c2112",
+    "data": [
+      {
+        "text": "in the order of ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " , my wrong address be 43 , not 13 .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d94c5e92-3d7c-45f0-a907-55b6cdb4ce6d",
+    "data": [
+      {
+        "text": "how do i change my order title ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a32749b9-8b3c-4e4f-ab82-53a72760cf6a",
+    "data": [
+      {
+        "text": "i have to change the address for my delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "728e6d87-04c9-4f9c-8733-4c51075bf099",
+    "data": [
+      {
+        "text": "i can change the delivery address for the order place yesterday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2704426-6caf-4cb3-9fe5-7626a6e3b0a5",
+    "data": [
+      {
+        "text": "i only order , but i do not need to change the delivery address as my dad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42268e13-8f07-4374-8bcf-3b7502738773",
+    "data": [
+      {
+        "text": "i have to make sure the delivery driver know we live",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dd8c0e6d-9a68-411a-986b-def85361f672",
+    "data": [
+      {
+        "text": "i order a flatbed , but the billing address be incorrect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54d02a0e-069b-4f4c-934d-30a6dc4cc6ff",
+    "data": [
+      {
+        "text": "you can change my address in my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d29746a-c0fb-4752-b02f-58393327f1e3",
+    "data": [
+      {
+        "text": "he just order me , but i do not change my father\u0026#39;s mortgage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ece5a90-5ca4-467e-9fba-5633701a39fa",
+    "data": [
+      {
+        "text": "my order number be ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": ".this be an ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " application but it be deliver to the wrong address .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "959ae823-6906-4862-953b-50b9c76e021c",
+    "data": [
+      {
+        "text": "once i receive my order confirmation and the first line of the address be wrong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cab4f992-cfc8-4127-9011-ab77c6c743cd",
+    "data": [
+      {
+        "text": "you want to change the shipping address for the order number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ece29679-f47d-411b-96b3-4de024a0cce2",
+    "data": [
+      {
+        "text": "i save and order , but it may have be that i write the wrong address .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "975c9c2d-e0aa-4046-89d8-1b78979dd5f7",
+    "data": [
+      {
+        "text": "how can i change the name of my order ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d18d04c-798e-461d-b7cc-4d26593318c3",
+    "data": [
+      {
+        "text": "it be possible to change the address in my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a3ee0fa-09d3-4d1e-984c-ab1ce1372598",
+    "data": [
+      {
+        "text": "only he order me , but i do not have to change my dad\u0026#39;s mortgage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54bd11b2-b6dd-42a9-9460-f765147fc77e",
+    "data": [
+      {
+        "text": "my wrong address in the order of ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " , should not be 43 and not 13",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f15d75d-b55a-4a4c-b957-dfe585a4f768",
+    "data": [
+      {
+        "text": "i have to change the delivery address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7dbf5767-c089-41dc-b4eb-156a62638539",
+    "data": [
+      {
+        "text": "i just receive the order confirmation and the first line of the address be incorrect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a23605c7-2595-4805-a967-89407ae69177",
+    "data": [
+      {
+        "text": "i can change the order delivery address place yesterday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "90bdeadf-c2f9-4a2f-a427-b8774bcd9714",
+    "data": [
+      {
+        "text": "i order a certificate , but the billing address be wrong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ec13c53-57a6-4252-b5cc-e1b4ec8aaa7a",
+    "data": [
+      {
+        "text": "i just place an order and enter the wrong address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ccf674c-8e0a-451d-b860-7a7bb2444f68",
+    "data": [
+      {
+        "text": "how do i change an email address for an order already make ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1fb8c34a-bfc5-4476-9a9a-9b8c43133401",
+    "data": [
+      {
+        "text": "you must change the shipping address for the order number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42b70a62-0c76-4bd5-910a-c1ec7030526e",
+    "data": [
+      {
+        "text": "once i receive my order confirmation and the first line of the address be incorrect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "22003931-26a8-47fd-a292-688ca7affa5b",
+    "data": [
+      {
+        "text": "our order be give at the wrong address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06480d4d-c252-43ac-9ef3-7f32ede6a36a",
+    "data": [
+      {
+        "text": "he order , but i do not change my mortgage father",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eece403b-d772-4371-96fb-87814f817c83",
+    "data": [
+      {
+        "text": "i order for berman ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " , but the billing address be incorrect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "69cec02b-c29b-4cf8-ad58-72114291d9f7",
+    "data": [
+      {
+        "text": "i can change the transfer date deliver yesterday .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d45612df-0c60-4403-ba2d-95792964cc5c",
+    "data": [
+      {
+        "text": "i realize that the delivery address in my order contain the wrong number.i can change this change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30864cc3-cd8a-43e3-8ec8-72557c89165c",
+    "data": [
+      {
+        "text": "how can i order product and how can i change my transfer address ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff437d0d-2ff5-4524-8998-d2bb794d5631",
+    "data": [
+      {
+        "text": "i put an order for a brimne ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " but the billing address be wrong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14a7c260-4eaa-4d41-9d44-143907b28c6d",
+    "data": [
+      {
+        "text": "i want to change my email address code in my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ebe14dff-d12f-4d7b-9d7b-7eae5fd2911d",
+    "data": [
+      {
+        "text": "how do i order the good and how can i change my transfer address ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e87d5da1-3fc8-4234-927d-cff5c01aa9ee",
+    "data": [
+      {
+        "text": "the delivery address of the ikea driver be wrong , how can i change this",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4999263f-495a-47e0-b3c5-edaa17f7e21e",
+    "data": [
+      {
+        "text": "i realize there be a wrong number in the delivery address in my order so i could change that change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6b996ca-2668-41a0-9ec0-a2e428ff2784",
+    "data": [
+      {
+        "text": "save and orderly , but maybe i write the wrong address .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d433a88-4c71-4003-b0c7-52d5227cddbf",
+    "data": [
+      {
+        "text": "i order the certificate , but the billing address be incorrect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0186bf47-4d48-4eda-b8dd-0325cff0c59e",
+    "data": [
+      {
+        "text": "i find that there be a bad number in my mail address in my order , so that change could change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02c0800a-dff7-448e-898e-6fe32b80cead",
+    "data": [
+      {
+        "text": "just order me , but i do not need to change my father\u0026#39;s mortgage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4491ebb0-57b7-49b9-97fd-4eeb8c9af061",
+    "data": [
+      {
+        "text": "he order me , but i do not change my father\u0026#39;s mortgage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e258860-24a3-4dbc-97da-c0f32ce29d11",
+    "data": [
+      {
+        "text": "i look forward to the next delivery , but i will not stay home.can i change the delivery address ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7091eb56-ac2e-4419-a6c7-9ee67440dc12",
+    "data": [
+      {
+        "text": "once i receive the confirmation of my order and the first line of the address be wrong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "671b8012-206e-4de1-8a4d-675eb658090d",
+    "data": [
+      {
+        "text": "i order berman ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " , but the billing address be incorrect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c9d5cfc-6f1f-4789-829f-9e58a2718a6c",
+    "data": [
+      {
+        "text": "how do i change the order name ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2ce5e978-db3f-4592-88d4-fed081c4dd10",
+    "data": [
+      {
+        "text": "i realize there be a wrong number in the delivery address in my order that i could change this change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0f3fee9-0a0d-44f8-845b-2b632deabb31",
+    "data": [
+      {
+        "text": "i i change the delivery address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "256310ed-3423-4916-ba0a-d7b277bfbfc6",
+    "data": [
+      {
+        "text": "i can change the transfer date that be deliver yesterday .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c748691-e139-440c-ab6c-f7f609ff49cd",
+    "data": [
+      {
+        "text": "the ikea delivery driver have the wrong address , how can i change this",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36057b69-f9a0-4aaf-84d8-fc8589652d56",
+    "data": [
+      {
+        "text": "i order a flat ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " , but the billing address be wrong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "22b0bb67-54c2-440a-a74a-098655efd688",
+    "data": [
+      {
+        "text": "how can i change my order name ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "86bc29f9-f501-4e79-b99b-03e50254132a",
+    "data": [
+      {
+        "text": "just order me , but i do not need to change the mortgage as my dad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "481389b2-91e9-4c54-8e42-d640e95f59d6",
+    "data": [
+      {
+        "text": "i would like to order my address for my miss ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_missingSpareParts",
+        "meta": "@ikea_missingSpareParts",
+        "alias": "ikea_missingSpareParts",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b1166d25-099b-48ba-b424-01246ae4ad11",
+    "data": [
+      {
+        "text": "i would like to change my phone address for my last order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee8f02e3-904d-428f-9b8b-53d60924316a",
+    "data": [
+      {
+        "text": "save and order , but maybe i write the wrong address .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2b2e3d9-ce4b-43ff-b5be-72929e90b480",
+    "data": [
+      {
+        "text": "he only order me , but i do not change my father\u0026#39;s mortgage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a7caf69-b174-4bf7-b30e-b4ea7de812bb",
+    "data": [
+      {
+        "text": "you must change the shipping address of order number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c391d470-6c07-43a6-a3c8-8dff647566dc",
+    "data": [
+      {
+        "text": "you will need to change the shipping address for order number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "221782ae-b021-496f-9951-5b8474599cd6",
+    "data": [
+      {
+        "text": "i save and order , but it be possible that i realize that i write the wrong address .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "081ff67b-aa9d-4d0d-a8c6-41c60a94b13f",
+    "data": [
+      {
+        "text": "i want to change the email address in my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d603d61f-b3bf-443f-b9f6-92fd37a5f46f",
+    "data": [
+      {
+        "text": "i realize i have the wrong number in the delivery address in my order , so changed that change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5410ff2-42e1-4c7b-af84-1fa611d5592a",
+    "data": [
+      {
+        "text": "i need to make sure that delivery driver know that we live in a flat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf427e47-4b7d-40f6-9d1f-fb2f7cf030a0",
+    "data": [
+      {
+        "text": "how to change the name of my order ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fc50af65-cd1e-4bc2-a4e3-cb4487eb5d32",
+    "data": [
+      {
+        "text": "i expect the delivery tomorrow , but will not stay home.can i change the delivery address ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "86f6886d-79c3-4460-b0b1-ab744eae7f07",
+    "data": [
+      {
+        "text": "i realize that i have the wrong number in the delivery address in my order , so i would change that change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b52df25-5528-444b-99f5-11df1b114ce7",
+    "data": [
+      {
+        "text": "my order number be ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " this be an ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " request but be deliver to the wrong address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf52454b-09fd-435b-93fa-35440120db82",
+    "data": [
+      {
+        "text": "i have to make sure that the delivery driver know that we be live",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "610e8e2c-fd04-4ac1-af78-467c8f8f82e5",
+    "data": [
+      {
+        "text": "the ikea driver delivery address be wrong , how can i change this",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "05072ab5-8808-46d6-8191-2db328cca08f",
+    "data": [
+      {
+        "text": "i expect a delivery tomorrow , but i will not be home.can i change the delivery address ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "84fa1bfe-7fac-406e-b3f4-95868f94a5ba",
+    "data": [
+      {
+        "text": "only order me , but i do not need to change my father\u0026#39;s mortgage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4cbf9dc6-736e-4ed1-8937-7bda1ce587f1",
+    "data": [
+      {
+        "text": "how do i order product and how do i change my conversion address ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eae8f4cf-d932-45aa-964d-8b56c532b77f",
+    "data": [
+      {
+        "text": "in the order of ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " , my wrong address should be 43 and not 13",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "05117c5f-2885-4867-8da6-717c1f61af25",
+    "data": [
+      {
+        "text": "save in order , perhaps write me an incorrect address .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "379c53c1-94b8-48bd-95e1-a39b09159ce8",
+    "data": [
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " in order , my wrong address be not 43 , not 13 .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d08fd58e-bf9e-428f-b97f-ca39b31ea633",
+    "data": [
+      {
+        "text": "i would like to change my address for my miss ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_missingSpareParts",
+        "meta": "@ikea_missingSpareParts",
+        "alias": "ikea_missingSpareParts",
+        "userDefined": true
+      },
+      {
+        "text": " which i order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1ac67e2d-797f-4be5-ba5a-782ba85aee1d",
+    "data": [
+      {
+        "text": "i look forward to delivery tomorrow , but i will not stay at home.can i change delivery address ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c39bef4-4c3a-4fea-95cb-2dad3e1e5f61",
+    "data": [
+      {
+        "text": "how do i order product and how to change my conversion address ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f39acd0-e88b-4ee9-b4c0-2be21f5d62da",
+    "data": [
+      {
+        "text": "ikea driver\u0026#39;s delivery destination be wrong , how can i change it ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97342856-9932-407d-a133-bafc2ff591bc",
+    "data": [
+      {
+        "text": "i realize that there be a wrong number in the delivery address in my order i can change this change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f11b177-376e-4dad-baba-239e93ec677b",
+    "data": [
+      {
+        "text": "i expect delivery tomorrow , but i will not stay at home.can i change the delivery address ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0121b3ef-7067-485f-831d-93a2cd139660",
+    "data": [
+      {
+        "text": "how do i change the address of my order ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "029da341-0424-48f4-940d-e76335034a19",
+    "data": [
+      {
+        "text": "my wrong address on order ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " , it should be 43 not 13",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d3f09c66-4ff5-4b7b-b4e4-87fe9f1821e3",
+    "data": [
+      {
+        "text": "i order the certificate , but the billing address be wrong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0878a5a9-623e-413e-bde3-bfdbd62e04ff",
+    "data": [
+      {
+        "text": "i need to change the shipping address for order number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "674971d6-5212-4dff-aeb3-d8fef306803f",
+    "data": [
+      {
+        "text": "i would like to order an address for miss ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_missingSpareParts",
+        "meta": "@ikea_missingSpareParts",
+        "alias": "ikea_missingSpareParts",
+        "userDefined": true
+      },
+      {
+        "text": " .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "814a8a59-90e4-46e5-9abd-21837715765e",
+    "data": [
+      {
+        "text": "i keep and order but it be possible i realize i put the wrong address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c3476acf-dd40-457e-b4a7-7bdb361a44e3",
+    "data": [
+      {
+        "text": "i realize that the delivery address in my order contain the wrong number .. i can change this change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db599689-6ff5-4649-b54c-d028103e6f98",
+    "data": [
+      {
+        "text": "i have to make sure that the delivery driver know that we live",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38689ced-aa8c-48f0-beee-88b54ae5dd51",
+    "data": [
+      {
+        "text": "i would like to change my address for the miss ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_missingSpareParts",
+        "meta": "@ikea_missingSpareParts",
+        "alias": "ikea_missingSpareParts",
+        "userDefined": true
+      },
+      {
+        "text": " i order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9d16a30-7b97-48e3-b9c6-d358fb413d94",
+    "data": [
+      {
+        "text": "i realize that there be a wrong number in the delivery address in my order , so that change have change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9db09449-a797-4764-9359-dad5af344618",
+    "data": [
+      {
+        "text": "how do i change the name of order ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e6b10e5-2fe8-4ead-bd6e-e22942a939f9",
+    "data": [
+      {
+        "text": "i save and order , but maybe i write the wrong address .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "167bead4-66fb-4eb3-b8d5-b6251355f529",
+    "data": [
+      {
+        "text": "i wait for the delivery tomorrow , but i will not stay at home.can i change the delivery address ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "59d736a6-e65b-4196-a220-e8f4104673d4",
+    "data": [
+      {
+        "text": "i order a bermer ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " , but the billing address be wrong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbae59b4-4627-4108-8898-25710334a9d6",
+    "data": [
+      {
+        "text": "how do i order an item and how do i change my shipping address ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fdea1ffa-615b-4267-a8ea-ec698fa192f3",
+    "data": [
+      {
+        "text": "our order be give to the wrong address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "127ee832-55da-470d-923b-048753efa3b5",
+    "data": [
+      {
+        "text": "i have to change my phone address in my last order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c76d78e-01a5-431d-a755-4b132e456fac",
+    "data": [
+      {
+        "text": "i just receive confirmation of my order and the first line of the address be wrong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "48bfb8b9-2e84-42e7-bd51-48dd7978cc9a",
+    "data": [
+      {
+        "text": "i can change the transfer date deliver yesterday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "365bf478-fc0c-4100-8b95-a7f4f47a8f3a",
+    "data": [
+      {
+        "text": "i want to change my phone address in my last order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5bc4283-6da8-4dce-8eac-f701f739ca50",
+    "data": [
+      {
+        "text": "i can change the delivery address for the order i place yesterday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "508bc56e-d7d9-4c19-94d2-096c88e91ce2",
+    "data": [
+      {
+        "text": "how do i order product and change my conversion address ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26e0dcf0-055e-4758-829d-43037145ad5f",
+    "data": [
+      {
+        "text": "you need to change the shipping address for the order number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a38b40e8-5e5b-4891-a002-8231db82d9cd",
+    "data": [
+      {
+        "text": "i look forward to the next delivery , but will not stay home.can i change the delivery address ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57155a90-91cd-4608-b940-85c50ba15a13",
+    "data": [
+      {
+        "text": "i order a certificate , but the billing address be incorrect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45979051-ab80-4e20-9db9-f1ca2cf59649",
+    "data": [
+      {
+        "text": "driver ikea delivery address be wrong , how can i change this",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1484236c-dbba-45bf-b308-cf540a4f53eb",
+    "data": [
+      {
+        "text": "how do i order product and how do i change my transfer address ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a9e6b1eb-9baa-46f6-aee2-3fafe2ac31dc",
+    "data": [
+      {
+        "text": "i\u0026#39;ve order you one thing but surprise if i change the transfer address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "63d41325-b9e5-42d1-ab9c-d1b83c9f6cc4",
+    "data": [
+      {
+        "text": "can i make a change to a delivery address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0bf9eba9-473d-41b3-92de-5386c3929bee",
+    "data": [
+      {
+        "text": "can i change my delivery address on an order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0c14b1a-9699-47be-83cd-9e3a6164f544",
+    "data": [
+      {
+        "text": "  can i change the delivery address of my order please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "96de60aa-6b1f-45b2-af55-596ef976f620",
+    "data": [
+      {
+        "text": "  can i change my delivery address please order no.",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2ee217bf-1302-43fd-bb13-a33d5ab712d4",
+    "data": [
+      {
+        "text": "can i change the delivery address at this point",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28053a5d-aff3-45bf-bad2-6ba830f1c7ad",
+    "data": [
+      {
+        "text": "change delivery address of exist order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d30bb90d-19af-47cf-8f2d-efb612df3c80",
+    "data": [
+      {
+        "text": "i need to change delivery date and address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

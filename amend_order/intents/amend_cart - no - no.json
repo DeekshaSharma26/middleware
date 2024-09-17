@@ -1,0 +1,43 @@
+{
+  "id": "fb83fd7c-aa84-4af0-9d2d-6889f2dc0c41",
+  "parentId": "b9316805-a8d6-490d-85ff-2d978bdd2ce1",
+  "rootParentId": "b5b37f6b-045f-4a29-9d41-35388f8285dd",
+  "name": "amend_cart - no - no",
+  "auto": true,
+  "contexts": [
+    "amend_cart-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "amend_cart.amend_cart-no.amend_cart-no-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "mr",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

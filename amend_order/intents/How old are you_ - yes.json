@@ -1,0 +1,43 @@
+{
+  "id": "5f354479-995c-45a9-a37e-d3dc65f2fa99",
+  "parentId": "03a61ed7-ce48-4bc7-a1c6-ad6dc4bae22c",
+  "rootParentId": "03a61ed7-ce48-4bc7-a1c6-ad6dc4bae22c",
+  "name": "How old are you? - yes",
+  "auto": true,
+  "contexts": [
+    "Howoldareyou-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Howoldareyou.Howoldareyou-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "mr",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

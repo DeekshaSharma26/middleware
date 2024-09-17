@@ -1,0 +1,9 @@
+{
+  "id": "5515c24a-6ace-4076-98f9-9593680dcc1e",
+  "name": "store_list",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

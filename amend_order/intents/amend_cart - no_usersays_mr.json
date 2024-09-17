@@ -1,0 +1,119 @@
+[
+  {
+    "id": "97871a21-a893-4d4b-a546-c94ae5d51ad5",
+    "data": [
+      {
+        "text": "मला ते नको आहे",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "mr",
+    "updated": 0
+  },
+  {
+    "id": "a1cf730b-9316-4978-a9d6-adb35272aea9",
+    "data": [
+      {
+        "text": "मी सहमत नाही",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "mr",
+    "updated": 0
+  },
+  {
+    "id": "8bba35fe-20b3-4fff-b81e-dfd9e29d5af9",
+    "data": [
+      {
+        "text": "ते करू नका",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "mr",
+    "updated": 0
+  },
+  {
+    "id": "35d81cec-45e1-48f4-a4d7-42d938dda494",
+    "data": [
+      {
+        "text": "खरच नाही",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "mr",
+    "updated": 0
+  },
+  {
+    "id": "5ac3a474-d9a0-4a67-8d01-c4d6d93ffa97",
+    "data": [
+      {
+        "text": "नाही",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "mr",
+    "updated": 0
+  },
+  {
+    "id": "9334cda5-c83a-46ce-abeb-32d08718094b",
+    "data": [
+      {
+        "text": "नक्कीच नाही",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "mr",
+    "updated": 0
+  },
+  {
+    "id": "8c465aa3-5bbe-4e53-8a03-bc02caab332b",
+    "data": [
+      {
+        "text": "धन्यवाद पण नाही",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "mr",
+    "updated": 0
+  },
+  {
+    "id": "ae9fcb8f-d721-4ad7-8e11-bc0b0cabb186",
+    "data": [
+      {
+        "text": "मला असे वाटत नाही",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "mr",
+    "updated": 0
+  },
+  {
+    "id": "dca77538-8f9e-47f0-94c0-5c92f109411f",
+    "data": [
+      {
+        "text": "खरोखर नाही",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "mr",
+    "updated": 0
+  }
+]

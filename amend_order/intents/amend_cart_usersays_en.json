@@ -1,0 +1,6306 @@
+[
+  {
+    "id": "6b6d0556-ed62-4243-877a-fc0e1e3ad402",
+    "data": [
+      {
+        "text": "i would like to add an item to an exist order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9593116-3056-4532-857a-49257dd972ef",
+    "data": [
+      {
+        "text": "i would like to amend an ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " order please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d537572c-0ca8-40c9-b3fa-796932ab5c03",
+    "data": [
+      {
+        "text": "i have get a order come to me on saturday can i add ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " to it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "473bd44c-773d-4841-b4fe-f1c62fe9ff7f",
+    "data": [
+      {
+        "text": "i would like to make one change to an order i place order number be ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "294b8cd6-df27-47d6-8b1a-5b5dae4355b4",
+    "data": [
+      {
+        "text": "i have just place an order   ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " but have miss off an item be it possible to add the follow item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "acc3250f-294f-4e07-b349-d87139b31fd6",
+    "data": [
+      {
+        "text": "  i have place an order for some ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_missingSpareParts",
+        "meta": "@ikea_missingSpareParts",
+        "alias": "ikea_missingSpareParts",
+        "userDefined": true
+      },
+      {
+        "text": " blind order number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " i have just see that they re lilac and want them in wte how do i amend the order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62b52afc-63c7-4a63-9033-7d0781ac3771",
+    "data": [
+      {
+        "text": "  i be try to order some ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " but i can not add it to my basket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "223bdf3d-d4eb-42d6-843f-1a0fbfb1fd3e",
+    "data": [
+      {
+        "text": "i be try to remove some item from my basket so i can checkout",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76f4670b-c7f8-43e5-bfd2-554d3591e34e",
+    "data": [
+      {
+        "text": "be i able to add to an exist order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c8bf231-4dba-46d0-834c-8e503949370e",
+    "data": [
+      {
+        "text": "be i able to add item to the order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e3f157f-f934-4b2b-8d61-c4eaa0fd6723",
+    "data": [
+      {
+        "text": "i accidentally order the wrong thing can i change it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d7179c3b-0946-4e09-9545-60525e8ba67f",
+    "data": [
+      {
+        "text": "add another product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9b31abb-6618-45af-a0de-d2924ffa59f8",
+    "data": [
+      {
+        "text": "i would like like to add instruction for the driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7a807f47-2e02-4176-9f1c-dce8f7589ef5",
+    "data": [
+      {
+        "text": "i would like to add an item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61745a0d-d362-4b2d-8a31-cc996a606d79",
+    "data": [
+      {
+        "text": "add item to order ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "484d0ab4-8a08-4979-b8f5-302853555e7f",
+    "data": [
+      {
+        "text": "add product to exist order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f24843a7-d5c4-4ed3-adc1-5c5d8200612f",
+    "data": [
+      {
+        "text": "i would like to add something to the order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1197e1a2-a6ee-4386-ad6a-75853a5bfedd",
+    "data": [
+      {
+        "text": "i would like to add sometng to an exist order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "69432cf1-b6ad-4af0-b7b1-34f9ee9f43fb",
+    "data": [
+      {
+        "text": "i would like to add sometng to an order i have already place be ts possible",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec3d52d6-a28b-4992-9cd4-19ac1f830bba",
+    "data": [
+      {
+        "text": "i would like to add more staff to exist order be it possible",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c1dd67c-794c-4a51-8ef9-cff3f273baa7",
+    "data": [
+      {
+        "text": "i would like to add to my in store order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "83ce8018-c4e5-4e46-b723-83c3b5388a09",
+    "data": [
+      {
+        "text": "i have an additional note i need to add to my ikea delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65e9f97d-1f77-4f6e-9d5f-8ad91cc2a802",
+    "data": [
+      {
+        "text": "amend ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " package",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef41b98b-bcf6-46da-82ec-01feda6dc21a",
+    "data": [
+      {
+        "text": "i would like to amend my order that i place ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02b3b2a8-122c-4c60-a444-68c614c783f3",
+    "data": [
+      {
+        "text": "my basket be ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_missingSpareParts",
+        "meta": "@ikea_missingSpareParts",
+        "alias": "ikea_missingSpareParts",
+        "userDefined": true
+      },
+      {
+        "text": " for modification",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15c5d3d0-3e47-4292-b125-332b5ccab6fa",
+    "data": [
+      {
+        "text": "i believe i order the wrong size ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f97317b4-4e1f-4412-8848-a955c054621c",
+    "data": [
+      {
+        "text": "i buy a ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " light and ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " remote but think i may have the wrong bulb",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30e90ac1-ef01-42f2-97c0-809c1ac81daf",
+    "data": [
+      {
+        "text": "i buy a ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " and and would like to change it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aba1fe13-55bd-489f-99f1-7807aedb6cd4",
+    "data": [
+      {
+        "text": "can i add to my delivery on another day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1af5bb11-4c30-4ebf-af5e-9a05d363c734",
+    "data": [
+      {
+        "text": "can i add an extra item to an exist order that have not be dispatch yet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40debe53-0651-4e0d-b670-a8e33b8714e2",
+    "data": [
+      {
+        "text": "can i add some more item to this delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b7453ff-1b71-4cd1-9b87-9d1ba07c927a",
+    "data": [
+      {
+        "text": "can i add an item to a previous order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4f44869-5149-48e6-ae88-54e475ee0ed5",
+    "data": [
+      {
+        "text": "can i add to an order that have not be dispatch yet without pay extra delivery charge",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "69f4df63-c0c9-4812-9cb6-a74533c9e752",
+    "data": [
+      {
+        "text": "can i add to an order i have place today at all",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ebe7b805-0fff-48e2-86f4-331a6a7dab13",
+    "data": [
+      {
+        "text": "can i add a product to my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bcdc9caf-2ad7-4a8e-b18c-4389803a1d13",
+    "data": [
+      {
+        "text": "can i add more shopping to an order i have already pay for",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4c2b5ca-bcb3-47e8-9573-0de10260bcd9",
+    "data": [
+      {
+        "text": "can i add something to an exist order that have be place for delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "955c2603-caf8-43b2-b452-2a197c9f54e2",
+    "data": [
+      {
+        "text": "can i add sometng to an already confirm order for delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4eead50-0d31-4c13-b4e6-d455e8618b5d",
+    "data": [
+      {
+        "text": "  can i add two small item to an order place ts afternoon for delivery on tuesday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "384b8303-f0dd-4578-a211-fee8ad819ae5",
+    "data": [
+      {
+        "text": "  can i amend my ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "748d3a20-0d07-4d25-a07c-75fe611822ee",
+    "data": [
+      {
+        "text": "can i change a delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4544f107-25c9-4c42-85b9-93b61659cad1",
+    "data": [
+      {
+        "text": "can i change some item on my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17698663-0a6d-4f7f-abf9-3bee80721ee6",
+    "data": [
+      {
+        "text": "can i change the ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_missingSpareParts",
+        "meta": "@ikea_missingSpareParts",
+        "alias": "ikea_missingSpareParts",
+        "userDefined": true
+      },
+      {
+        "text": " on the ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_applianceItem",
+        "meta": "@ikea_applianceItem",
+        "alias": "ikea_applianceItem",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " base",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "271cff14-a88f-492e-b3b6-d43198fb4737",
+    "data": [
+      {
+        "text": "can i change one thing in my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88fb3537-12d7-4678-91d6-bda45d489a3f",
+    "data": [
+      {
+        "text": "can i change an order which be get deliver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee98e4be-d171-4f97-9bff-1bd677d99615",
+    "data": [
+      {
+        "text": "can i change the phone number on my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bef766c5-fe2e-46c3-8fe7-69c7c6ed0bfb",
+    "data": [
+      {
+        "text": "can i change the size of one of the ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a40d154f-8b94-4985-ab03-0fcb2f99b783",
+    "data": [
+      {
+        "text": "can i modify an order already place ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dbff4992-167d-40d8-94bd-207ac0705661",
+    "data": [
+      {
+        "text": "can i order ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " and pickup at ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "beaf3e86-a0d0-4db8-bdd9-777693257cc7",
+    "data": [
+      {
+        "text": "can i order a ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " yesterday can i add a ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " to my order please or be it too late",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15a15e8d-c584-401d-a02d-479c0e15c5d9",
+    "data": [
+      {
+        "text": "can i remove an item from my order as i have order 2 of the same thing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a79ef608-7f9c-441d-8b48-c26e9677dbef",
+    "data": [
+      {
+        "text": "can i remove ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " from an order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f150a19-2b56-4543-bc4e-472e4ecf95d5",
+    "data": [
+      {
+        "text": "can i still add an item to an exist delivery order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ef85724-ad1a-48ff-90b0-fa73a5f3f51b",
+    "data": [
+      {
+        "text": "can not add item to basket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "755a83a7-ad2e-437b-8954-7e33a351bb18",
+    "data": [
+      {
+        "text": "i can not add plant to my basket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "392daed9-b703-44a5-a48f-dad71fddcbd2",
+    "data": [
+      {
+        "text": "i can not add ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " to basket ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " i get to the end and it just do not load",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47098ab6-c1a1-48d5-b6d6-860a53dce85c",
+    "data": [
+      {
+        "text": "i can not add a product to my basket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7bc8ccd4-4c9a-42d0-aa51-c925229c8914",
+    "data": [
+      {
+        "text": "i can not remove item from my basket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b1f1fa62-cd44-490a-868b-19571bccbcad",
+    "data": [
+      {
+        "text": "be there any chance to add one more item in an order i have already make",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06a3dc1d-e42d-4181-8498-031ffc1b4b1f",
+    "data": [
+      {
+        "text": "  i would like to change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32c1d50f-e104-470e-b896-f62c8e4dbb5a",
+    "data": [
+      {
+        "text": "change a pay item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "229af871-49df-429a-b457-9265dd197d8b",
+    "data": [
+      {
+        "text": "  i would like to change my phone number for the follow order ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57539066-c924-448d-8271-8f32c9d3eb34",
+    "data": [
+      {
+        "text": "change store",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97dfe739-34dd-48af-8359-f27a31a36cb5",
+    "data": [
+      {
+        "text": "  i have a couple of ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " .... and would like to change the ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " ...... do you still have a tartan pattern",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5d80e1d-5ee7-468d-88be-ddd625cb2e83",
+    "data": [
+      {
+        "text": "we have a delivery come on 8th july can i add something to this delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df90a08b-0aa8-4746-95a0-00a5be27c78f",
+    "data": [
+      {
+        "text": "our delivery be come a week on saturday but we have devise we want to change the colour of the ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " can we do ts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f45787f-e22f-4d2d-853c-935967a770c6",
+    "data": [
+      {
+        "text": "  the delivery date of my order be tomorrow can i still allow to add more item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0167b109-e2dc-4e3d-b345-0a7e4babd1b7",
+    "data": [
+      {
+        "text": "  i have design a ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " but i can not add it to the basket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9fec7f05-8544-487e-8f97-73aa2a66bd71",
+    "data": [
+      {
+        "text": "i have get a glitch with my shopping bag   it say empty but show 21 at the basket icon if i add an item it show it in shop bag as 1 item but at checkout it be charge me for 22 item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba2675ea-ce02-47c1-8cc3-71a5a2572b68",
+    "data": [
+      {
+        "text": "how do i add a ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " code to my shopping basket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "818dd52b-ca77-4182-b8c0-1cbe53ee77de",
+    "data": [
+      {
+        "text": "how do a add or remove item from my basket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c40673b-ec36-4b32-af0c-5d577f50bc3b",
+    "data": [
+      {
+        "text": "how can i add an item to an order already place",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79b14870-9c61-4c08-91e1-18bb10ca7f87",
+    "data": [
+      {
+        "text": "  how can i change an order i have place ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "381873b5-0f6a-400a-8fbf-6ac3166f6e5f",
+    "data": [
+      {
+        "text": "how do i delete item from my basket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04d54652-2f10-4e85-bf4d-fccdb2118023",
+    "data": [
+      {
+        "text": "ia ut possible to add a item to a exist order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac14401f-f101-4d16-8bc8-c813af706d74",
+    "data": [
+      {
+        "text": "i have make a mistake and forget to add 7 more of the garden ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " to the order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7bedbe62-3c46-4d8a-8bd7-0abab6c67b6b",
+    "data": [
+      {
+        "text": "i have make an ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " order to be deliver on satyrday but i would like to change the ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " i have order please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7d94d86-c0a2-4c59-9cc7-ca903b193ea4",
+    "data": [
+      {
+        "text": "i have just make an order and pay but i have order the wrong quantity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed21acc1-4e18-4201-8f52-27c93248fb77",
+    "data": [
+      {
+        "text": "i have make an order but the ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " i also want do not add to the basket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6318dd77-556f-45fd-bc83-8505bc998596",
+    "data": [
+      {
+        "text": "i have just make an order but i want to change it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f13427b3-dacc-4ae4-b754-67569847edac",
+    "data": [
+      {
+        "text": "i make a wrong order can i change it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4645bf18-53de-41d5-8a55-49080e073032",
+    "data": [
+      {
+        "text": "make a modification to my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b1f2153-5ae7-4775-8325-a1cf304c448e",
+    "data": [
+      {
+        "text": "i need to add an additional item to order number   ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a638a80-c575-4d68-a7f1-e5dceb17fc58",
+    "data": [
+      {
+        "text": "  i need to add some delivery instruction to my order please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d66452a-eff1-4fb8-9631-36d3991531d8",
+    "data": [
+      {
+        "text": "i need to add an item to a home delivery order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a6742ac-69c3-4c63-97dc-76af032495bc",
+    "data": [
+      {
+        "text": "  i need to add something to my order ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a77793d0-9dea-447c-aef9-67969a2f3a25",
+    "data": [
+      {
+        "text": "i need to add sometng to my order and delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb9d98bb-5654-4495-bc56-0e44c63c501b",
+    "data": [
+      {
+        "text": "i need to cancel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca0dcdce-21c0-4bd8-a41f-27fe45d10fde",
+    "data": [
+      {
+        "text": "i need to cancel my order i just place as need to add an item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1735ac44-ac6c-4264-b314-a76d71233ca6",
+    "data": [
+      {
+        "text": "need to change color of item on order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "368cdd79-7341-498d-a93a-9ad8c9d6a8ff",
+    "data": [
+      {
+        "text": "we need to change the height of the ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " on your order please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6cd61500-bfae-48b1-b330-08cb3dd3e668",
+    "data": [
+      {
+        "text": "need to change ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b590a337-5470-4edd-8e05-8ed4789bdc67",
+    "data": [
+      {
+        "text": "i need to make change to my ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ffe5156-aa3c-42da-8557-d7ebd994cc05",
+    "data": [
+      {
+        "text": "  i need to change my order   you say 236 cm on your website but i just get an email from you say that with ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " its 244 my ceiling height be not suitable",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0314a424-1714-4e98-a031-8cbb2a76c5cc",
+    "data": [
+      {
+        "text": "i need to change my ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " because it be in wrong colour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad903a23-4ce1-4b13-a256-a3a44963c6ab",
+    "data": [
+      {
+        "text": "i need to merge two order for delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e0d2579a-dae8-4917-8dd5-5b9ff6520dc1",
+    "data": [
+      {
+        "text": "i need to modify my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b00bd96-a744-4d68-a158-8e7d790fdd7b",
+    "data": [
+      {
+        "text": "i need to make a slight change on my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2bf883ed-1a74-4df5-98c3-383ddd3182b1",
+    "data": [
+      {
+        "text": "  i have not realise i need to purchase the ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " as well please can you add it to the delivery as i do not really want to pay for extra delivery when i have not realise",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0904dbd-832b-4cfe-8ae5-69a1fce6723f",
+    "data": [
+      {
+        "text": "my ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " order be wrong and need to be change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1cb78f1e-be6b-4f34-8b8f-4fc64a5aa2ea",
+    "data": [
+      {
+        "text": "i have an order be deliver on friday be wonder if i could add to it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9254313b-3bc6-4b14-a8a4-ff45ffb589ac",
+    "data": [
+      {
+        "text": "i have an order be deliver tomorrow can i add to it or be it too late",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb93a360-164d-4c4f-bbb6-40909ab7f582",
+    "data": [
+      {
+        "text": "i have an order for delivery 03.07.18 but i need to change one item and add another can ts be do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b25e309-a6dc-4d65-818c-d85dfe8a80f5",
+    "data": [
+      {
+        "text": "order delivery change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab8991d4-62a4-4792-a838-272acd902d0b",
+    "data": [
+      {
+        "text": "order number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": "   i have an an email to say i have order the incorrect ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " for our king size ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8fa06887-2804-438d-839d-bac48b6b7655",
+    "data": [
+      {
+        "text": "  my order   ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " have the wrong contact telephone number the correct number should be ",
+        "userDefined": false
+      },
+      {
+        "text": "manufacturer_number_regex",
+        "meta": "@manufacturer_number_regex",
+        "alias": "manufacturer_number_regex",
+        "userDefined": true
+      },
+      {
+        "text": " 836640",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cccc297e-de78-4327-b67e-90ae1f73fc90",
+    "data": [
+      {
+        "text": "my order be be process how can i alter change the order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "638432cb-5644-459c-a3fb-68e7e02ddb39",
+    "data": [
+      {
+        "text": "i order 18 - piece service ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " in white can i change it to the light green colour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab1e5835-89d5-4e3e-bf3a-74081d07e5c9",
+    "data": [
+      {
+        "text": "i order a ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " on tuesday and be wonder if it be too late to add a ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " to my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35693209-49d3-4d0d-bc9d-2d8d4e895747",
+    "data": [
+      {
+        "text": "i order a ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " yesterday would i be able to add a ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " to the order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b3e4744-5ad1-476c-8e53-d38ebcb1ec16",
+    "data": [
+      {
+        "text": "i have order a eu size ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " but have make a mistake and order a uk ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " my order number be ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " can this be amend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "891ce3a8-ed9d-401a-921d-73f2382de93b",
+    "data": [
+      {
+        "text": "i order an item in error can i change the delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c887123-7b6e-4a97-bd9f-0f051c455075",
+    "data": [
+      {
+        "text": "we order an item wch have just be deliver but we need to change it for a small size",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2daeb86e-0c29-448d-848c-798c0b4ac10d",
+    "data": [
+      {
+        "text": "i have order ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " but my ceiling be not tall enough for them they be due to be deliver on saturday and i would like to cancel the order and change them for the small one",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0eae36d-2bc9-4f4d-8667-cb0ecd5e0a80",
+    "data": [
+      {
+        "text": "i have order a ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " that be too high for my ceiling its due to arrive on saturday be it possible to change my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2f1ddcc-f12f-478d-a32b-1d2e35195219",
+    "data": [
+      {
+        "text": "i have order the wrong ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99757cd1-fb28-4c17-8bbd-2c5b90214c6d",
+    "data": [
+      {
+        "text": "  i order a wrong item on my ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " order would i be able to swap it for the correct item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "232f011c-2cf8-46d4-b0b1-67f06e5c0fda",
+    "data": [
+      {
+        "text": "i have order the wrong ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "92058566-3703-4166-9349-cf4003b95e55",
+    "data": [
+      {
+        "text": "i order the wrong size ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " by mistake can i change my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f2a3546-96cb-48b3-b8c4-acc3c2d94300",
+    "data": [
+      {
+        "text": "i have order the wrong size ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " what can i do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "027c9a49-e48c-4fce-89ad-6f39635f5bc0",
+    "data": [
+      {
+        "text": "outdoor ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " and wonder if i could add something to the order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1df99767-42f5-447a-8cf6-d11f25a56ad7",
+    "data": [
+      {
+        "text": "i place an order this morning and i would like to change it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cfff4e87-dc43-413b-b43a-952bae1ead4e",
+    "data": [
+      {
+        "text": "i have place an order of 2 ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " and a chest drawer wch be be deliver on ",
+        "userDefined": false
+      },
+      {
+        "text": "postcode",
+        "meta": "@postcode",
+        "alias": "postcode",
+        "userDefined": true
+      },
+      {
+        "text": " july could i add 4 ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " in wte please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56019081-3a03-4659-a403-695e867b42c5",
+    "data": [
+      {
+        "text": "i just place an order at 3 : 15pm today for delivery and i would like to add two more item to it please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "775c61a4-935f-4f2b-bc62-5a7aba0dd3ae",
+    "data": [
+      {
+        "text": "i have place an order but i would like to add to it how do i amend an order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be17377a-b9cf-4872-91bf-ba41292d482c",
+    "data": [
+      {
+        "text": "i have just place an order and would like to add to the order be that possible without pay a second delivery charge",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "94f2a48e-6449-42fd-8b01-378b3997e95d",
+    "data": [
+      {
+        "text": "i have just place an order and would like to add two small item be this possible",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fdeb1dd3-eb6d-4cd1-9af9-99723a53bd87",
+    "data": [
+      {
+        "text": "  i place an order that have be delay its now due on 28th can i try and add 3 item to my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d1ea4f30-7ebc-4ce7-a335-2b5ff458a0f3",
+    "data": [
+      {
+        "text": "i have place an order for delivery and i want to add further item   be this possible",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a65d3531-341b-4f22-a2b4-317d2f1ca1b5",
+    "data": [
+      {
+        "text": "  i place an order last night and i forget to add sometng be it possible to add it now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ccbbf914-6807-4773-b7b8-af2c64bf35ce",
+    "data": [
+      {
+        "text": "i have place an order ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " and i would like to change the color for one of the item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce657555-b689-4bf4-9993-d4a650ccee24",
+    "data": [
+      {
+        "text": "i place an order in a store for delivery i want to add to that order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "21443e07-1955-488b-a1cf-05dd1e005292",
+    "data": [
+      {
+        "text": "i place an order ts morning i should have put 6 ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " cuson in the basket but only put one can i add the other five to my oder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d7b9490d-ad9a-4663-9873-c65c03ed9c03",
+    "data": [
+      {
+        "text": "i place an order today which be be deliver on saturday 30th be it possible to add another item to the order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4be6b93-21f0-4723-818f-e816a3fdb342",
+    "data": [
+      {
+        "text": "i place an order yesterday night which include a ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " with 4 drawer .. i order that in white stain oak colour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "714d4e6f-cfdb-42f3-a9e5-7460c4d381f7",
+    "data": [
+      {
+        "text": "i place an order yesterday ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " place on 2018 - 06 - 25 and would like to add to it be ts possible",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b662f575-dd85-456a-bd3a-8bd5a8509519",
+    "data": [
+      {
+        "text": "i place an order yesterday which will be deliver on ",
+        "userDefined": false
+      },
+      {
+        "text": "postcode",
+        "meta": "@postcode",
+        "alias": "postcode",
+        "userDefined": true
+      },
+      {
+        "text": " july and would like to add to the order can i doo this",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d254a26-33e9-460b-9bbe-bc78e075a54f",
+    "data": [
+      {
+        "text": "i place an order yesterday and wonder if i can change it slightly",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cea35c3a-045c-4f6b-98d3-41b244f8b73f",
+    "data": [
+      {
+        "text": "  be it possible to add another product to an order already make",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "944c8caf-5932-4873-a99a-8ca197c056e4",
+    "data": [
+      {
+        "text": "be it possible to add an item to my order due for delivery on thursday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62c27021-34c3-4390-9236-9f70904bfc0e",
+    "data": [
+      {
+        "text": "i have provide the wrong email address when make an ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " order how do i change the email address i provide",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "442030d9-b4af-443f-a777-5899ca8d9501",
+    "data": [
+      {
+        "text": "i have purchase some stuff early today with delivery and would like to include few more to the same delivery be that possible",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "12a00e30-6dce-4c42-ace2-dc95bdb35f78",
+    "data": [
+      {
+        "text": "i put an order in last night for 3 ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " but i now have 2 email with different order number so i be not sure if it have ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " through twice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "271391ce-4ac3-411c-bdc0-2c76cd4058a1",
+    "data": [
+      {
+        "text": "i have put thnig in my basket but the website will not let me access the shopping bag or add any more new product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e9f2eb3-21dc-4081-9229-621d0a361603",
+    "data": [
+      {
+        "text": "i recently make an order ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " i be wonder if i could add two more item to this order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c352f3f2-8cc7-4b02-a77d-19a24d48054f",
+    "data": [
+      {
+        "text": "remove item from my ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5fb11c2-5e10-41c9-a993-8758122c3528",
+    "data": [
+      {
+        "text": "sorry i have order a ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " in error can i change it to one single ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " to fit the bunk ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " i have order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "715a59ff-cc68-4dc2-89ac-e7fca75a3de8",
+    "data": [
+      {
+        "text": "i be try to add a ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " combination to my basket but i can not",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "25bcb3dc-eafc-48f0-8336-0d54ec79928d",
+    "data": [
+      {
+        "text": "i be try to buy ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " rug number ",
+        "userDefined": false
+      },
+      {
+        "text": "ProductID",
+        "meta": "@ProductID",
+        "alias": "ProductID",
+        "userDefined": true
+      },
+      {
+        "text": " and it will not let me add to basket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2eb321d2-5971-443a-a55f-b6cd23c0df7f",
+    "data": [
+      {
+        "text": "i be unable to add item to my shopping basket ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "788f0ca6-fffe-4490-bfcf-9bd7290365e1",
+    "data": [
+      {
+        "text": "i want to add an additional item to a delivery i have book for saturday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61e5d0ac-2abc-49d8-9248-c8f5551fb47c",
+    "data": [
+      {
+        "text": "i want to add to an exist order and save additional delivery charge",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "25bef137-6c43-467d-a52e-63b4610705c9",
+    "data": [
+      {
+        "text": "i want to add item to my exist ikea order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c969c75c-2727-4aaa-8289-c66a1f99eb9d",
+    "data": [
+      {
+        "text": "no i want to add to an ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f71f7cfb-15aa-4fd9-a76d-4d670aa82830",
+    "data": [
+      {
+        "text": "i want to add an order to my profile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d158374d-522c-4cb0-8d82-c41384cd3bd8",
+    "data": [
+      {
+        "text": "i want to add something to my delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5998ddcd-b0f5-4c11-9de6-048fa1fb61fe",
+    "data": [
+      {
+        "text": "i want to know if i can change the order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d80999d-e04f-4f68-9e7e-8242b098ef71",
+    "data": [
+      {
+        "text": "i want to change my collection order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2970f0c-992e-4c86-9967-5b7e80e45d72",
+    "data": [
+      {
+        "text": "i want to change one item to another",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36b547ed-7ab7-4b37-9d4f-ee2b4d589c82",
+    "data": [
+      {
+        "text": "i want to change the order not track",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7ce95f9-087c-4dc8-8a00-afcb6b97a75b",
+    "data": [
+      {
+        "text": "i want to change the width of this ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13b07305-7728-47c6-b4f4-392bb9b969b2",
+    "data": [
+      {
+        "text": "i want to remove some item from my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6044c0a3-8e05-48ba-8e5b-609e657b1b67",
+    "data": [
+      {
+        "text": "i want to replace something with something else from my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b16a5d84-3a88-47d0-827a-a26dc1480858",
+    "data": [
+      {
+        "text": "want to add some item to my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d414dd55-312d-4b9e-9c18-583563fe6d9b",
+    "data": [
+      {
+        "text": "i want to order some more item as i place an order the other day and wonder if i could add it to the same order or if i have to make a new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c197091-32e1-41cd-8c7c-9b4da04a0c94",
+    "data": [
+      {
+        "text": "i wonder if i could add to my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc8e08c9-dedb-46c4-848e-4222f2544b47",
+    "data": [
+      {
+        "text": "i be wonder if i can change the address to where my item will be deliver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7eb6583f-ffc2-485a-97be-376b25dc8539",
+    "data": [
+      {
+        "text": "i be wonder how i can change my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7def9fdd-8f4f-4666-a8e4-75215c655712",
+    "data": [
+      {
+        "text": "i be worried i have buy the wrong ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "889a152a-59fe-4396-8bb1-e341166a5e39",
+    "data": [
+      {
+        "text": "i would like to set an ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb64c360-8676-4453-8876-feb19800a0cd",
+    "data": [
+      {
+        "text": "how to order order ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88d767cc-7714-4548-adda-3bc51e43d436",
+    "data": [
+      {
+        "text": "i want to replace something with something different than the order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37818b58-5a9f-4c04-809a-2441113e8fa2",
+    "data": [
+      {
+        "text": "how do i add a rental code to your shopping cart ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "07e4d443-0f6e-4f45-a806-caef415a6314",
+    "data": [
+      {
+        "text": "i have an order for delivery 03.07.18 , but i have to change one item and add another can not be make",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a091f81-0b44-4dc8-a6cd-6098927823da",
+    "data": [
+      {
+        "text": "i just make a request and pay but i order the wrong quantity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2f9e5cf-f490-4fb4-8ba5-67902f717b7d",
+    "data": [
+      {
+        "text": "we will transfer to 8 hour and i can apply for this transfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b0f7150-34cd-4986-8472-ed5a581dd10d",
+    "data": [
+      {
+        "text": "in the morning , i need a 6 - seat cocoon in the basket , but only two can add my second to my order .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61f506ea-4735-415d-b569-8defb6ab0486",
+    "data": [
+      {
+        "text": "i can add in the current order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc76ab70-ff68-4a92-9eda-ab59292d5bb9",
+    "data": [
+      {
+        "text": "yesterday i place an order ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " on 2018 - 06 - 25 and i would like to add it.it\u0026#39;s possible .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b94478fd-d034-4ec9-8be4-81ae455f6e17",
+    "data": [
+      {
+        "text": "i give the order for friday , can i join her ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "33cfdb10-96f3-4590-909b-372842c2324c",
+    "data": [
+      {
+        "text": "i can change delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da6ce620-6c83-45d2-9fee-d84c24618124",
+    "data": [
+      {
+        "text": "other day can be add to my delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6f224b4-2b4f-4ce0-9328-84fdce2e4fdd",
+    "data": [
+      {
+        "text": "i would like to add an element to the current design",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "33399327-167b-42ca-8c9d-146222cfa387",
+    "data": [
+      {
+        "text": "can i add more shopping to already pay order ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b33020c1-e0d9-4700-85e4-b9f64da520d4",
+    "data": [
+      {
+        "text": "i can remove an item from my order because i order two item for the same item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cefc4f29-3c38-4f45-91d3-8207bf8e855d",
+    "data": [
+      {
+        "text": "remove item from my package ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f34d3e9-f912-4e5e-9666-458a06ba5bfd",
+    "data": [
+      {
+        "text": "i give it yesterday and i be surprised if i could change it a little bit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bdd9217a-73f1-4647-a2de-c77ecb6cae90",
+    "data": [
+      {
+        "text": "if order number be ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " , change one order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "48d5e7c9-9307-4cb7-8d6d-3ed99b348eb2",
+    "data": [
+      {
+        "text": "i give an order and want to add two small item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f950c070-979b-4c9e-996f-0527dafc4e71",
+    "data": [
+      {
+        "text": "change in the delivery of the order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5655d51e-222e-43e2-a149-30202f79a5c0",
+    "data": [
+      {
+        "text": "i make two order and dresser be distribute on july 5th.please include the 4 low ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1cc8504e-d517-49bf-a22f-6b023bb3baa1",
+    "data": [
+      {
+        "text": "i try to add a combination of basket , but i can not",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "745fca41-42ab-43e1-af1f-e1f7b7f0bf01",
+    "data": [
+      {
+        "text": "i have order the wrong ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " by mistake , can i change my order ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6c2b45f8-8012-4d9d-83e3-b8edda63c99f",
+    "data": [
+      {
+        "text": "how to delete element from your basket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13169d73-03ff-4094-8ac0-7758ba24d838",
+    "data": [
+      {
+        "text": "i can not add the product to my cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "07158c99-0a61-45c7-a864-e0f85d805cde",
+    "data": [
+      {
+        "text": "i would like to add instruction for the driver .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "20282505-7cda-43e6-9eb8-c6c2c65e9769",
+    "data": [
+      {
+        "text": "i recently place an order ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": ".they ask me if i could add two more item to this order .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c1e04ea-0e8f-4245-943c-b892aebb5423",
+    "data": [
+      {
+        "text": "i want to add something in order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c1b7e48-a231-4356-b492-7c26007e4ca2",
+    "data": [
+      {
+        "text": "i remove the ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " from the order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "83e4671a-ca11-4c94-b71e-6edbf7d993cd",
+    "data": [
+      {
+        "text": "i\u0026#39;m sorry , i\u0026#39;ve order a ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " by mistake , can i exchange it for a single - ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " to fit the bunk i order ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bfdc51d2-d8e0-4c14-ac4d-2a07450306f9",
+    "data": [
+      {
+        "text": "i order the ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_missingSpareParts",
+        "meta": "@ikea_missingSpareParts",
+        "alias": "ikea_missingSpareParts",
+        "userDefined": true
+      },
+      {
+        "text": " blind , the order number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " i have just siren and how to change them wte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e6302a7a-6590-4f77-9697-cff049d385f3",
+    "data": [
+      {
+        "text": "i can add a ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_missingSpareParts",
+        "meta": "@ikea_missingSpareParts",
+        "alias": "ikea_missingSpareParts",
+        "userDefined": true
+      },
+      {
+        "text": " of the already confirm order for delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36fb9262-e95f-40e4-8ae3-154e68fa0461",
+    "data": [
+      {
+        "text": "i want to order early morning and get a change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8cb65af9-b1b9-4395-b7ba-68b68c75b1ce",
+    "data": [
+      {
+        "text": "i order a product that can change shipping by mistake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e310694-bbb0-4676-80db-72d66b812776",
+    "data": [
+      {
+        "text": "change the pay item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd18ac65-138f-470a-a541-3101f31f02f4",
+    "data": [
+      {
+        "text": "my ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " order be incorrect and should change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f14f81a2-9eab-4954-809d-5213a1861f2b",
+    "data": [
+      {
+        "text": "i put an order on last night for 3 ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " but i now have 2 email with different order number so i\u0026#39;m not sure if it have ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " through twice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d896840c-48ea-47ec-b4e4-cc50765ba022",
+    "data": [
+      {
+        "text": "i want to add to the store store",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45e137be-36be-471d-9b36-51f8a41d1336",
+    "data": [
+      {
+        "text": "i want to change my ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " because it be in the wrong color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8c6e0ab-cfb8-422c-99c9-6c27e3c920cd",
+    "data": [
+      {
+        "text": "i want to add an item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "854ada1d-144b-4ce4-804b-f5a03919e022",
+    "data": [
+      {
+        "text": "can i order the ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " tomorrow ? can i add a ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " to my order please , please , or it\u0026#39;s too late",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ecfa4c61-f541-4f5f-b4c8-1339123bf95b",
+    "data": [
+      {
+        "text": "how to add or remove item from my basket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "954f168d-eceb-4ebd-91e0-3c08b8aae015",
+    "data": [
+      {
+        "text": "change the transfer of that law",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "537141d2-37b5-47f8-ba84-f431c98575e8",
+    "data": [
+      {
+        "text": "i can not add the ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " belt to the ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " basket until it reach the end and do not load",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ada4ac16-d590-4173-9745-be88f9e8fc32",
+    "data": [
+      {
+        "text": "can i make change that be previously find on the internet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1aa2bf90-fbc1-4abb-ae34-fc21d0af59a1",
+    "data": [
+      {
+        "text": "i have an order or tomorrow with a submission by tomorrow",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1ffad204-6721-41a9-925f-abfc09762191",
+    "data": [
+      {
+        "text": "i would like to add something to an exist order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0aa806de-ec05-4c01-b2f9-edf04be2cbc9",
+    "data": [
+      {
+        "text": "i can add an extra item to an exist order that have not yet be send",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "621be75f-6235-4d12-83a3-4169a29d1bba",
+    "data": [
+      {
+        "text": "i have a pair of arm ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " ... and would like to change the ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " ...... do you still have a tartan pattern",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b4e1d26c-5089-43b1-bb7b-b1e7cf36294a",
+    "data": [
+      {
+        "text": "i order ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " in 2018 - 06 - 25 and i would like to add it.this can be",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4101b44d-85ee-40b4-a28a-9c23a47119c2",
+    "data": [
+      {
+        "text": "i think of change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d46e8530-723e-40dd-b30e-b361158cd375",
+    "data": [
+      {
+        "text": "i be able to change the ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_missingSpareParts",
+        "meta": "@ikea_missingSpareParts",
+        "alias": "ikea_missingSpareParts",
+        "userDefined": true
+      },
+      {
+        "text": " in the dulakitig ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_applianceItem",
+        "meta": "@ikea_applianceItem",
+        "alias": "ikea_applianceItem",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " base",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6036c230-87a0-4db5-b5fb-727237e19d61",
+    "data": [
+      {
+        "text": "i can add some ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_missingSpareParts",
+        "meta": "@ikea_missingSpareParts",
+        "alias": "ikea_missingSpareParts",
+        "userDefined": true
+      },
+      {
+        "text": " of the already confirm order for delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f33677fc-dbfe-429b-ba99-0ab61c4ee013",
+    "data": [
+      {
+        "text": "i need to refuse my order i just want to keep it as need",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0544743a-85d8-4db1-af87-84a7d059f908",
+    "data": [
+      {
+        "text": "i be able to add element in order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2df65874-116c-49dc-95fc-c2d21dddb9e9",
+    "data": [
+      {
+        "text": "i have to change one item to another",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b064142-eb99-445e-ab0c-8ad7a5139310",
+    "data": [
+      {
+        "text": "i\u0026#39;ve find an invalid email address when download.how do i change the email address ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "772acd39-76de-4248-8053-6a53ad9b30b5",
+    "data": [
+      {
+        "text": "add the item to the listing ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "687e4737-1683-4e06-9755-5b9c2f692c91",
+    "data": [
+      {
+        "text": "i have to reject my order , so i want to keep it in good order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4f65929-5b52-45a6-ac84-7db6dd86815c",
+    "data": [
+      {
+        "text": "i need to add something to my order ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9eb9198f-b6b6-4901-a145-7c328a849c03",
+    "data": [
+      {
+        "text": "i want to replace something with something other than my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca31db6a-2f50-49b5-b6f2-e63797fae8bf",
+    "data": [
+      {
+        "text": "i order you to distribute on saturday , but i would like to change my ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dd7a0d7c-e026-4354-b679-9c94b8290075",
+    "data": [
+      {
+        "text": "i can still add item to an exist delivery order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a6a4ade9-9972-4ca7-acb6-a56f046512e1",
+    "data": [
+      {
+        "text": "increase product for the current order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5e6bddf-126e-47b0-856e-e31e19c04c1a",
+    "data": [
+      {
+        "text": "no i want to add an order ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "977c0493-84b7-4555-9436-1e855fe7afca",
+    "data": [
+      {
+        "text": "i can add more in order to pass today",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e37ab220-eb6c-45e9-95ee-87462331ddf6",
+    "data": [
+      {
+        "text": "can i add more item to this shipment ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "884fca61-e07a-43d7-9911-6e0c7ee56c60",
+    "data": [
+      {
+        "text": "i would like to add something to an order i already make.it\u0026#39;s possible .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ae1e67e-2cdd-412a-a884-2d6a61a463b6",
+    "data": [
+      {
+        "text": "i ask if i can add to my order .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e3e358a-5149-484d-b9cf-d9d1ef580a98",
+    "data": [
+      {
+        "text": "i would like to add something to my order.this be possible .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8579741-8d34-4774-a09d-7c87f30d53ad",
+    "data": [
+      {
+        "text": "i be wonder if i could change the address where my item would be deliver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b57a602b-14bf-4099-95a6-8bec37289f66",
+    "data": [
+      {
+        "text": "our delivery come week on saturday but we figure we want to change the color of the ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d1195166-44da-44a0-b49d-5b34088b533d",
+    "data": [
+      {
+        "text": "i can change one size of the ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c54b0a87-9c49-40eb-9865-acc4ab02666c",
+    "data": [
+      {
+        "text": "i put the order in the morning , i should have 6 ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " coson in the basket but only one can put that i can add the second five to my order .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ba618cf-c008-4fb3-abdf-105568ce03d6",
+    "data": [
+      {
+        "text": "make change to me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "22f704b8-ce64-4e17-9ca5-9aa9a1d7d061",
+    "data": [
+      {
+        "text": "i\u0026#39;ve place 2 ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " order and chest drawer wch be distribute in july 5th , please include 4 low ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d13b53ce-b5ec-435c-8cb2-b03bc187ec21",
+    "data": [
+      {
+        "text": "i have not give my account in my account but the site will not allow me to sign in to shopping or add anything else",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6de30684-3ef8-41ad-b894-e26dc82433c4",
+    "data": [
+      {
+        "text": "i need to add something to my order and delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1cc67e05-2949-4619-bb85-088cf345c775",
+    "data": [
+      {
+        "text": "i must refuse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da25ba91-f515-4087-bcd0-a6e5acf98b32",
+    "data": [
+      {
+        "text": "i have order the last night , i forget to add a little bit , it be possible to add it now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "651fef5c-1324-4e3c-964d-ef796af4f70c",
+    "data": [
+      {
+        "text": "i have an extra note that i will have to add to my ikia delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67a63c80-0e87-4f4e-bc4c-144a9196d878",
+    "data": [
+      {
+        "text": "be there a chance to add another item to an order that i have already make",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38fffaab-fc63-403a-a1c2-c75d93c24ec0",
+    "data": [
+      {
+        "text": "i have order an invalid blanket that i can",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11e09c4b-2f97-4371-86e4-99e3a229d4e9",
+    "data": [
+      {
+        "text": "i put ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " order and i inbiddel color for any item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d8c97eac-4c80-4582-a4be-c16de45fad3f",
+    "data": [
+      {
+        "text": "i order the wrong ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d1d18a48-c75f-4b4a-939d-a362b011d29a",
+    "data": [
+      {
+        "text": "i can not add content to my ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " internet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9e44639-6a2d-4584-946c-b65c3f13b3dd",
+    "data": [
+      {
+        "text": "update web site package",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "84949acc-456f-46a5-962b-4fff73142ca3",
+    "data": [
+      {
+        "text": "i have place a delivery order and want to add other item as possible",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2374f29a-62c7-424d-b1c3-5b06c397de09",
+    "data": [
+      {
+        "text": "i order the ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " and the wrong ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "124670ba-3386-458b-8827-aa2dc274a095",
+    "data": [
+      {
+        "text": "increase product of current order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5bc70de-5b0c-43ce-9691-57be225db1a7",
+    "data": [
+      {
+        "text": "i\u0026#39;ve do one thing but its ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " that i do not want to add to basque",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16e3d20e-cda2-469b-805d-e5b9ae1fed41",
+    "data": [
+      {
+        "text": "i wrongly order the wrong layer , can i change my order ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dfdc1f69-03a6-413c-8f76-b1b270f3deaf",
+    "data": [
+      {
+        "text": "i change my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "335ce96f-e781-412c-8529-37d3d4d1af03",
+    "data": [
+      {
+        "text": "i place an order today that be deliver on saturday 30 , it be possible to add another item to the order .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad555850-523a-41dc-b3e0-b09bd714ab17",
+    "data": [
+      {
+        "text": "our delivery will come on saturday\u0026#39;s week , but we want to change the color of the ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab28ee75-f21f-46b5-b3bf-a30e7b2c2a21",
+    "data": [
+      {
+        "text": "i have prepare a ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " but i can not add it to the basket .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "737fad76-df23-4649-b86e-2a9e1ae6313f",
+    "data": [
+      {
+        "text": "i order an eu three - ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " but i make a mistake and order the uk matress my order number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " can be change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7303934-4289-421a-b9ec-d2eb7dd02fe5",
+    "data": [
+      {
+        "text": "i just make an inquiry and pay , but i order the wrong amount",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99dd4233-b1b9-40bf-b1ed-687314a79226",
+    "data": [
+      {
+        "text": "i can change the size of one of the ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0625ce0c-151b-43c1-851e-4864e7d166db",
+    "data": [
+      {
+        "text": "i can add an extra item in an exist order that have not be send yet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "139f0bbb-8b7a-4a1e-9d4f-cc11989d313a",
+    "data": [
+      {
+        "text": "i order a ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " on sunday and wonder if it be too late to add a ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " to my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f4e1f3b9-093c-4690-94fa-b86e128bec24",
+    "data": [
+      {
+        "text": "be it possible to add two sub - item to your order on tuesday afternoon ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1106fc4e-d693-402c-98fd-58f8d2540b5b",
+    "data": [
+      {
+        "text": "i can change some thing in my schedule",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb8dc906-4a54-412c-b48b-c5472014f382",
+    "data": [
+      {
+        "text": "i need to change my order that you say 236 cm on your website but i just get an email from you say that with its ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " 244 the height of my ceiling be not suitable",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3dd00378-0c1a-4021-9693-78c16b164095",
+    "data": [
+      {
+        "text": "i buy a ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " and would like to change it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "80e2dc90-e9af-46b5-b46a-9e6af21c6839",
+    "data": [
+      {
+        "text": "there be a glitch in the shopping basket , but it be display as one item in the shopping cart , but 22 item will be charge at the checkout time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "324c9782-4283-4db6-b68c-5ce1b400d65b",
+    "data": [
+      {
+        "text": "can you add another product to a pre - make order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "964dcc28-0e03-46b8-8d53-f0abca9c90d2",
+    "data": [
+      {
+        "text": "i get a poor insurance policy that i could",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11a04eb5-1b63-4be3-9c01-41c7e215725f",
+    "data": [
+      {
+        "text": "i place an order , but i would like to add how i can change an order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "12ff005e-ab43-48a4-a8ef-700cba6e27dc",
+    "data": [
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " be try to buy rug number ",
+        "userDefined": false
+      },
+      {
+        "text": "ProductID",
+        "meta": "@ProductID",
+        "alias": "ProductID",
+        "userDefined": true
+      },
+      {
+        "text": " and he will not let me add to the basket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cac3cdfd-c6c7-4234-b45c-ee6f0b646464",
+    "data": [
+      {
+        "text": "my phone number ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " have a wrong phone number that must be the correct number ",
+        "userDefined": false
+      },
+      {
+        "text": "manufacturer_number_regex",
+        "meta": "@manufacturer_number_regex",
+        "alias": "manufacturer_number_regex",
+        "userDefined": true
+      },
+      {
+        "text": " 836640",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c58ff6d5-1614-477a-983b-47bce362e7f4",
+    "data": [
+      {
+        "text": "i have order that a wrong item in my ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " order will be able to exchange it for the exact item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3bad0e52-acfd-444f-82b2-5cf47c617f29",
+    "data": [
+      {
+        "text": "i can remove an item from my order as i order 2 for the same",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c6fd2cd-6e0a-4a33-8a9e-4c92a5582ac8",
+    "data": [
+      {
+        "text": "i can change the ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_missingSpareParts",
+        "meta": "@ikea_missingSpareParts",
+        "alias": "ikea_missingSpareParts",
+        "userDefined": true
+      },
+      {
+        "text": " of the ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " in the dulakitiga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40ace1a1-fcaa-4932-95c6-c6859cc03b10",
+    "data": [
+      {
+        "text": "i have design a ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " but i can not add it to the basket .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45ab6c86-65fa-4d18-b3fd-746dda2d16b1",
+    "data": [
+      {
+        "text": "i want to add something to the delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3780979c-b162-45dd-a688-6616bb0334c0",
+    "data": [
+      {
+        "text": "i order that my belt , which be very high on my roof , due to the entry on saturday , there be a possibility of change my order .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95e59d82-53b8-4308-885a-e6cd304face0",
+    "data": [
+      {
+        "text": "i give the order yesterday and wonder if i could change it slightly",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f18c3b15-9731-4f5f-87b1-4dbbf77a7960",
+    "data": [
+      {
+        "text": "i order ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " but my blanket be not big enough for them , they will be deliver on saturday and i want to cancel the order and change it for the small one",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43313f72-4e83-4afd-aad3-db12c2bb60fc",
+    "data": [
+      {
+        "text": "i order yesterday to be deliver on july 3 and i want to do this in order to add it .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56a8cadb-4aa4-4af8-9d36-038fc1676659",
+    "data": [
+      {
+        "text": "i have a delivery order 03.07.18 , but i have to change one item and add another can not be do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38999e51-6633-4cd4-aa50-dede362e3447",
+    "data": [
+      {
+        "text": "i want to change ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7a11ea9a-9ec0-48fa-b537-f15dd8d1c57b",
+    "data": [
+      {
+        "text": "you can add another product with pre - order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ae28b76-2cd0-4da0-be19-569d2a308042",
+    "data": [
+      {
+        "text": "i\u0026#39;d like to change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "21529e37-e0e7-437c-8bc8-172f755a694e",
+    "data": [
+      {
+        "text": "i order at 3 : 15 pm for delivery.i would like to add two more item .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f080ebf1-22ba-4bd9-bb5a-24b11214a749",
+    "data": [
+      {
+        "text": "i change the order and do not have the track",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04902dfe-22d4-4e89-a579-9ec0089db248",
+    "data": [
+      {
+        "text": "i\u0026#39;m sorry to have order a ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " in error , can i replace it for a single ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " to fit the ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " i order ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5107d67-aa84-48ac-a041-9855c223bc63",
+    "data": [
+      {
+        "text": "i\u0026#39;ve order an ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " order to distribute on saturday , but i\u0026#39;d like to change the ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " i\u0026#39;ve order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9db5ef79-b658-4a61-a22e-c0bcb639a707",
+    "data": [
+      {
+        "text": "the only thing i do be change it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7880a2b1-4f0f-49c8-b168-37d488755595",
+    "data": [
+      {
+        "text": "i order ",
+        "userDefined": false
+      },
+      {
+        "text": "order_number",
+        "meta": "@order_number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " , but i lose the item , i want to add this item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2911c9ac-7d5e-4023-95e9-60f52a82e590",
+    "data": [
+      {
+        "text": "can be add to my delivery the next day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d776b3c3-ce86-429f-b488-e29fe6aafb12",
+    "data": [
+      {
+        "text": "set an order that be delay her now because 28 can try and add 3 item in my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb39b40b-8241-4b1b-805b-bc5be3ace93f",
+    "data": [
+      {
+        "text": "how to change order order ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4b199f2-fff5-4f2a-8eeb-a31d960d6c8d",
+    "data": [
+      {
+        "text": "make change to my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "454ce79b-9fa0-4b10-b02f-958499d3c498",
+    "data": [
+      {
+        "text": "i try to order some ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " from the ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " , but i can not add them to my basket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7df3d8a-c4f6-4063-9cfb-7c26a7d80d70",
+    "data": [
+      {
+        "text": "i need to combine two thing for delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40294db0-a87b-4384-9e18-3c5d72b5fe41",
+    "data": [
+      {
+        "text": "i buy a light ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " and a distant trade , but i think i may have the wrong lamp",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "29396bc6-d96a-4020-bcbd-e4862a371698",
+    "data": [
+      {
+        "text": "i want to save on additional shipping fee by add them to the current order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bae6cfca-40fa-48ae-81f0-5acc04d1ca49",
+    "data": [
+      {
+        "text": "i be intrigue by the width of this ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dfdd6a57-081d-4db1-98f7-7481b7711e2a",
+    "data": [
+      {
+        "text": "we have order an item that have just be deliver , but we have to change it for a small size",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1bcbe803-bb8e-48df-9bb7-433e8c42164d",
+    "data": [
+      {
+        "text": "i can change the delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac71301a-4ac4-4a5c-aee7-406b9f86ed66",
+    "data": [
+      {
+        "text": "can i add a product to my order ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "665788b7-3a43-4ef8-9934-e8c1cca6e483",
+    "data": [
+      {
+        "text": "i want to change my law and you\u0026#39;ve post 236 cm on your website but i just get an email from you say that its ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " 244 my roof be not fitting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5616e6ff-5a47-40c8-ace1-fffe2c0d9f5a",
+    "data": [
+      {
+        "text": "i be able to order and collect ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f2be53f-e490-4d7a-a061-505fe6f05ae4",
+    "data": [
+      {
+        "text": "i add a ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " to it in order to come to me on saturday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a24d46a6-a833-48d0-b916-8c76f6ba891c",
+    "data": [
+      {
+        "text": "you can not add product to an exist order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9b1c3a1-41d7-441d-9836-e5ad194025d2",
+    "data": [
+      {
+        "text": "i\u0026#39;m order it in random order and i can change it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a5daf5f-6184-4b80-98eb-fb7f96c5531e",
+    "data": [
+      {
+        "text": "i have place an order , but i would like to add how i can change an order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fbe939ca-0db7-4a21-9889-0674c281632a",
+    "data": [
+      {
+        "text": "i add an item to the home delivery order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a9fd3b44-6414-41c1-bd62-7d6b2bdeabcf",
+    "data": [
+      {
+        "text": "we have a transfer at 8 am and i can apply for this transfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3cf0169f-6930-4a2c-8086-015e434939c0",
+    "data": [
+      {
+        "text": "i add an item to order home delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "795b41ef-b959-4e28-96ab-2b3a0df881da",
+    "data": [
+      {
+        "text": "i must reject",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "017107ed-0ccb-4e63-9272-4c8cb8557d2a",
+    "data": [
+      {
+        "text": "last night i place an order for 3 ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " , but i now have 2 email with different order number , so i\u0026#39;m not sure if it happen twice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba1a8da1-82a4-49d3-a2a0-0dca62e136dc",
+    "data": [
+      {
+        "text": "we nordnaha random order and i nbiddluh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02d9f8e7-2d33-4ace-9e09-72e6d4203812",
+    "data": [
+      {
+        "text": "i worry i purchase a wrong ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7dfd96bb-d09d-47c9-80fd-abcc9d6e424f",
+    "data": [
+      {
+        "text": "i add a ",
+        "userDefined": false
+      },
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " to come to me on saturday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae253ab8-6bc4-440d-bb3c-4709d4da4028",
+    "data": [
+      {
+        "text": "i have place an order ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " and i would like to change the color for any item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4388a6bf-0998-45cf-b052-edf396da81ed",
+    "data": [
+      {
+        "text": "ikea_stockProductName",
+        "meta": "@ikea_stockProductName",
+        "alias": "ikea_stockProductName",
+        "userDefined": true
+      },
+      {
+        "text": " be try to buy a rug number ",
+        "userDefined": false
+      },
+      {
+        "text": "ProductID",
+        "meta": "@ProductID",
+        "alias": "ProductID",
+        "userDefined": true
+      },
+      {
+        "text": " and it will not let me add to basket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a01f093-8825-4a26-9d60-389b4cd75800",
+    "data": [
+      {
+        "text": "  i would like to add an item to my order be that possible",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e42bb9c-6291-4855-a98a-6f3c3392af45",
+    "data": [
+      {
+        "text": "can i add an additional item to my order that i already place this morning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1be48fe-38cd-4a67-85cf-9a4b4c54dd9a",
+    "data": [
+      {
+        "text": "can i add anything to my order for delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "315fc468-3a74-483b-82c3-7aee074ced5e",
+    "data": [
+      {
+        "text": "can i add anything to my order for truck delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c60c109e-4fa8-4270-a272-a3abfa4727bd",
+    "data": [
+      {
+        "text": "can i add an item to my ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7bb88c3-7678-47d1-b286-79157adb159c",
+    "data": [
+      {
+        "text": "can i add item to my order place yesterday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95de24c4-d21c-4060-a43a-11ac8afe4436",
+    "data": [
+      {
+        "text": "can i add item to an order place yesterday for delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b876c2f5-00d5-4207-b680-d99be32e6a6f",
+    "data": [
+      {
+        "text": "can i add something to a delivery order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8e9be8b-dc88-4eb1-88ac-389b89ab1f60",
+    "data": [
+      {
+        "text": "can i add something to an order i place",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1421f991-8c0b-47ca-ae99-6a673ea5e735",
+    "data": [
+      {
+        "text": "can you change an order once it be place",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c43b3504-3103-4f49-83aa-4cb751a7ca98",
+    "data": [
+      {
+        "text": "i need to change the delivery of an order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "86b80ee0-8b38-4ca7-be18-9c67c3172961",
+    "data": [
+      {
+        "text": "i have an order in delivery for tomorrow be it possible to add an item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91596273-d35e-47db-a1f5-4f6398583891",
+    "data": [
+      {
+        "text": "i place an order can i add item to it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "909319f8-b443-40ff-b89d-20367d833e14",
+    "data": [
+      {
+        "text": "i have just place an order for delivery can i add more item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba81832e-da27-4b26-a98c-ce75294558d8",
+    "data": [
+      {
+        "text": "i have just place an order for home delivery   would like to add another item to the order be this possible",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "967ff57b-f840-4792-bc63-8441ffec740a",
+    "data": [
+      {
+        "text": "can not remove item from basket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "660dd895-d6f7-4b38-a162-f717cfbf374d",
+    "data": [
+      {
+        "text": "i would like to change it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "33080ee8-d8ef-4232-b84d-cbdfb51b46d4",
+    "data": [
+      {
+        "text": "  i need to change my ",
+        "userDefined": false
+      },
+      {
+        "text": "store_list",
+        "meta": "@store_list",
+        "alias": "store_list",
+        "userDefined": true
+      },
+      {
+        "text": " order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

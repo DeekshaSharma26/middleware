@@ -1,0 +1,9 @@
+{
+  "id": "34da41e3-5618-43f0-84c8-00ddc1cfb0f8",
+  "name": "postcode",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": true,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
